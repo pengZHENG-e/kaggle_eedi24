@@ -1,0 +1,960 @@
+Misconception 0: Does not know that angles in a triangle sum to 180 degrees
+Expanded misconception:
+Does not understand or consistently apply geometric properties of triangles, specifically that the sum of the interior angles of any triangle is always 180 degrees, and may not recognize the implications of this property for angle relationships in various types of triangles.
+
+Misconception 1: Uses dividing fractions method for multiplying fractions
+Expanded misconception:
+Fails to distinguish between the procedure for multiplying fractions and dividing fractions, applying an incorrect operation and inverting the second fraction when multiplying.
+
+Misconception 2: Believes there are 100 degrees in a full turn
+Expanded misconception:
+Fails to understand angle measurements, specifically believes a full revolution (or a full turn) is 100 degrees, rather than 360 degrees, resulting in incorrect conversions between angle measurements or calculations involving rotation and circumference.
+
+Misconception 3: Thinks a quadratic without a non variable term, can not be factorised
+Expanded misconception:
+Fails to recognize that quadratic expressions without a constant term can still be factorised, often due to insufficient understanding of the factorisation process or inability to identify common factors among the terms in the quadratic expression.
+
+Misconception 4: Believes addition of terms and powers of terms are equivalent e.g. a + c = a^c
+Expanded misconception:
+"Believes algebraic operations involving terms and exponents are interchangeable or equivalent, specifically thinking that addition of terms and multiplication or exponentiation of terms are commutative or equivalent operations, e.g., a + c = a^c, a + c = ac, or c + a = ca."
+
+Misconception 5: When measuring a reflex angle, gives the acute or obtuse angle that sums to 360 instead
+Expanded misconception:
+When measuring a reflex angle, incorrectly gives the acute or obtuse angle that sums to 360, failing to recognize that the reflex angle is the total measure itself, often due to confusion between the idea of full rotation and the concept of angle addition.
+
+Misconception 6: Can identify the multiplier used to form an equivalent fraction but does not apply to the numerator
+Expanded misconception:
+Can identify the multiplier used to form an equivalent fraction but does not apply it correctly or consistently, often only applying it to the denominator while neglecting to change the numerator, leading to incorrect equivalent ratios or proportions.
+
+Misconception 7: Believes gradient = change in y
+Expanded misconception:
+Believes gradient (or rate of change) equals change in y, without recognizing the need to divide by change in x, indicating a lack of understanding of the concept of gradient as a ratio of vertical change to horizontal change.
+
+Misconception 8: Student thinks that any two angles along a straight line are equal
+Expanded misconception:
+Student demonstrates a lack of understanding of linear pairs and supplementary angles, incorrectly assuming that any two adjacent angles along a straight line are equal, rather than recognizing that they must add up to 180 degrees.
+
+Misconception 9: Thinks there are 180 degrees in a full turn
+Expanded misconception:
+Fails to recognize that a full turn is equivalent to 360 degrees in standard angular measurement systems.
+
+Misconception 10: Believes duration can be read from a timetable, rather than calculating from start and end times
+Expanded misconception:
+Does not apply the concept of time intervals or duration, instead relying on incorrect inferences or memory of specific times listed on the timetable, leading to an inability to calculate the actual duration between two given times or events.
+
+Misconception 11: When reading value from graph, reads from the wrong axes.
+Expanded misconception:
+When reading values from a graph, fails to correctly identify the independent and dependent variables, or mistakenly reads the value from the wrong axis (either the x-axis or y-axis), thus misconstruing the relationships or patterns presented in the graph.
+
+Misconception 12: Thinks that the side view does not include the furthest rows back
+Expanded misconception:
+Fails to account for the entire spatial representation in a side or orthographic view, often neglecting or misinterpreting the positions and relationships of more distant or overlapping features, such as rows, columns, or layers.
+
+Misconception 13: Does not subtract from the hours, when having to borrow for a time calculation
+Expanded misconception:
+Fails to properly adjust units when borrowing in a multi-unit calculation, such as incorrectly adding hours while borrowing for seconds or minutes in a time calculation, rather than subtracting from the unit being borrowed from.
+
+Misconception 14: Does not understand how to create a multiple of an equation
+Expanded misconception:
+Does not understand how to create a multiple of an equation, including multiplying all terms within the equation by a given number or understanding the distributive property, which can lead to incorrect simplification and calculation of results.
+
+Misconception 15: Confuses the order of operations, believes addition comes before division
+Expanded misconception:
+Confuses the standard order of operations, fails to apply the correct priority order (i.e., Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction), specifically believing that addition should be performed before division or incorrectly performing operations from left to right without considering the hierarchy of operations.
+
+Misconception 16: Believes that graphs of inverse proportion meet the axes
+Expanded misconception:
+Believes that graphs of inverse proportion meet the axes, rather than being asymptotic to them, and/or fails to understand that the graph of a function describing an inverse proportionality will not intersect the axes.
+
+Misconception 17: Confuses AM and PM when calculating time
+Expanded misconception:
+"Fails to account for noon, midnight, or AM/PM designations when calculating elapsed time, converting between 12-hour and 24-hour clock systems, or determining start or end times of events."
+
+Misconception 18: Given the length of the sides, still does not recognise there is enough information to find the area
+Expanded misconception:
+Fails to recognize when sufficient information is provided to solve a geometric problem, such as determining the area of a shape, despite being given relevant side lengths, angles, or other necessary measurements.
+
+Misconception 19: When multiplying a surd by an integer, adds the integer to the number under the surd
+Expanded misconception:
+"When multiplying or dividing a surd (e.g. √) by an integer, incorrectly adds or subtracts the integer to the number under the radical rather than multiplying or dividing it, demonstrating a lack of understanding of the properties of radicals and their interaction with integers."
+
+Misconception 20: Believes the number of wholes in a mixed number multiplies by the fraction part
+Expanded misconception:
+Fails to understand the concept of mixed numbers, specifically believing that when a whole number is combined with a fraction, the number of wholes is multiplied by the fraction part, rather than being simply added to or separate from the fraction, leading to incorrect calculations when adding or multiplying mixed numbers.
+
+Misconception 21: Estimates shares of a ratio instead of calculating
+Expanded misconception:
+Fails to calculate exact values and instead relies on estimating or approximating shares of a ratio, often due to misunderstanding of equivalent ratios or difficulty in performing operations with fractions or decimals.
+
+Misconception 22: Confuses the ten thousands and thousands place value columns
+Expanded misconception:
+Fails to accurately differentiate between place values, specifically confusing the tens of thousands and thousands place value columns, often resulting in errors when regrouping, carrying, or borrowing numbers in multi-digit arithmetic operations.
+
+Misconception 23: Does not understand the command word 'difference'
+Expanded misconception:
+Fails to recognize or apply the correct mathematical operation (subtraction) when the command word 'difference' is used, instead often performing an addition or failing to recognize the reference point for the calculation, leading to error-prone calculations when determining the difference between two quantities or numbers.
+
+Misconception 24: Does not understand the term multiple
+Expanded misconception:
+Does not understand the term "multiple" in multiplication operations (e.g., incorrectly assuming multiplication is merely repeated addition, misunderstands the multiplicand and/or multiplier, or has difficulty distinguishing multiples from other operations).
+
+Misconception 25: Does not realise that when you multiply by 0 the answer will always be 0
+Expanded misconception:
+Fails to understand the zero property of multiplication, where multiplying any number by zero results in zero, and consistently applies this rule in calculations.
+
+Misconception 26: Thinks x = ? or y = ? is y = x
+Expanded misconception:
+Thinks the variable on one side of the equation is equal to the other side without considering the operation or operations that may need to be performed on or with the variable, essentially treating equations as simple identity statements rather than balance statements.
+
+Misconception 27: Believes squaring a fraction requires you to double both parts
+Expanded misconception:
+Fails to apply the exponent rule for fractions correctly, believing that squaring a fraction requires doubling both the numerator and denominator, rather than squaring each separately.
+
+Misconception 28: Thinks the interior angles of any polygon add up to 360
+Expanded misconception:
+Thinks the interior angles of any polygon add up to 360, failing to recognize that the sum of interior angles in a polygon is proportional to the number of sides, and that only a regular quadrilateral (square or rectangle) has interior angles that add up to 360 degrees.
+
+Misconception 29: Forgot to simplify the fraction
+Expanded misconception:
+Failed to simplify a fraction or apply the order of operations correctly by not simplifying fractions before performing operations, such as addition, subtraction, multiplication, or division.
+
+Misconception 30: When asked for a number n times smaller or bigger, subtracts or adds n
+Expanded misconception:
+Fails to apply proportional reasoning when comparing quantities, instead, mistakenly believes that being "n times" larger or smaller requires a simple addition or subtraction operation, rather than a multiplication or division by n.
+
+Misconception 31: Does not understand bar modelling in algebra
+Expanded misconception:
+Does not understand the concept of bar modelling in algebra, specifically struggling with the representation of variables, unknowns, and units in equations, or the relationship between bars, and inadequately apply the concept of constant units to solve algebraic problems.
+
+Misconception 32: When squaring a variable, believes they also need to square the coefficient
+Expanded misconception:
+"When simplifying expressions or applying exponent rules involving variables, mistakenly applies power rule to coefficients along with the variable, believing that coefficients must also be raised to the power indicated, even when no such operation is present."
+
+Misconception 33: Uses more than 3 letters to describe an angle
+Expanded misconception:
+"Incorrectly describes angle(s) using an excessive number of lettered or numerical references, rather than three letters as per conventional notation, or overlooks/overcomplicates angle naming conventions"
+
+Misconception 34: Believes dividing a negative by a positive gives a positive answer
+Expanded misconception:
+Fails to apply the rule that dividing a negative number by a positive number results in a negative quotient, and/or incorrectly assumes that a negative dividend divided by a positive divisor always yields a positive result.
+
+Misconception 35: Believes you add 2 instead of subtracting 2 to the numbers of sides when finding total interior angles
+Expanded misconception:
+Believes you add to or perform an incorrect operation on the number of sides when finding the total interior angles of a polygon using the formula (n-2) x 180, where 'n' is the number of sides.
+
+Misconception 36: Enlarges by the wrong centre of enlargement
+Expanded misconception:
+Misapplies the centre of enlargement or scale factor in a transformation, resulting in an incorrectly scaled or positioned image, often by misidentifying or incorrectly applying the centre of enlargement, which may include: using an incorrect fixed point, reversing the effect of the scale factor, or applying the scale factor to the wrong part of the shape.
+
+Misconception 37: Rounded to wrong degree of accuracy (2sf not 1sf)
+Expanded misconception:
+Calculates answer to wrong degree of accuracy or wrong number of significant figures, failing to consider the context of the problem or the question's instructions for rounding.
+
+Misconception 38: Believes the sides of an inequality can be switched without changing the direction of the sign
+Expanded misconception:
+Fails to maintain the direction of the inequality sign when rearranging or combining inequalities, incorrectly assuming that the direction of the inequality is preserved when adding, subtracting, multiplying, or dividing the same value from or by both sides, or when switching the left and right sides of the inequality without adjusting the direction of the inequality sign accordingly.
+
+Misconception 39: Multiplies by 1000 instead of 100 when converting a decimal to a percentage
+Expanded misconception:
+Fails to adjust decimal places correctly when converting between decimal and percentage formats, specifically by shifting the decimal point an incorrect number of places, often in the form of multiplying by 1000 instead of 100.
+
+Misconception 40: Believes midpoint multiplied by frequency is equivalent to frequency density
+Expanded misconception:
+Fails to properly understand the relationship between frequency and interval width, and incorrectly assumes that multiplying the midpoint of an interval by its frequency yields the area under or density of the histogram, rather than recognizing that frequency density requires the division of frequency by the interval width.
+
+Misconception 41: Believes the mean is the number of categories given divided by something
+Expanded misconception:
+Believes the mean is the number of categories or scales given divided by the total number of elements or something other than the total sum of values, demonstrating a fundamental misunderstanding of the mean calculation.
+
+Misconception 42: Believes that the complement of a set includes any elements which are also in another set.
+Expanded misconception:
+Fails to recognize that a set's complement consists only of elements that are in the universal set but not in the original set, often mistakenly including or excluding elements that intersect with or are separate from other sets.
+
+Misconception 43: Confuses the terms edges and vertices
+Expanded misconception:
+Misinterprets or confuses geometric terms, specifically 'edges' and 'vertices' in graphs or polygons, possibly due to a lack of clear understanding of their definitions, where edges are line segments connecting points or vertices, and vertices are the distinct points that define the shape of the graph or polygon.
+
+Misconception 44: When adding or subtracting surds, just adds or subtracts the numbers under the surd rather than first trying to simplifying to find like surds
+Expanded misconception:
+Fails to simplify surds to find equivalent ratios before performing arithmetic operations, often incorrectly adding or subtracting the numbers under the surd sign without considering like terms.
+
+Misconception 45: When asked for the value of a digit, gives an answer 10 times too big
+Expanded misconception:
+Fails to account for place value or disregards the concept of numerical scale when evaluating the value of a digit, often resulting in answers that are a multiple (typically 10 times) too large or too small.
+
+Misconception 46: Does not realise that division can be broken down into factors
+Expanded misconception:
+Does not realise that division can be broken down into its equivalent factors, leading to potential calculation errors or a failure to simplify fractions or decimals by identifying and removing common factors in the dividend and divisor.
+
+Misconception 47: Believes y=-f(x) is a reflection in y=x
+Expanded misconception:
+Misinterprets function transformations, specifically believing that replacing f(x) with -f(x) in the function y = f(x) reflects the graph across the line y = x rather than the x-axis.
+
+Misconception 48: Thinks corresponding angles sum to 360 degrees
+Expanded misconception:
+Fails to differentiate between different types of angle relationships and mistakenly assumes that corresponding angles, and possibly supplementary or complementary angles, have a fixed sum of 360 degrees, rather than recognizing the distinct properties and sums of these angle pairs.
+
+Misconception 49: Doesn't believe that when you divide by 0 the answer will always be 0
+Expanded misconception:
+"Fails to understand or consistently apply the fundamental principle that division by zero is undefined and cannot be used as a valid calculation, mistakenly believing the result of division by zero to be a specific numerical value, such as zero."
+
+Misconception 50: When given a non-unit fraction of an amount and asked to find the total, answers as if it had been the unit fraction
+Expanded misconception:
+Fails to accurately account for non-unit fractions in calculations, often treating them as if they were unit fractions, resulting in incorrect scaling or proportionate adjustments when finding totals or equivalent amounts.
+
+Misconception 51: Does not use angle facts when setting up an equation from an angle diagram
+Expanded misconception:
+Fails to use relevant angle facts (such as interior angles of a triangle, corresponding angles, alternate interior angles, or angles in a linear pair) when setting up an equation from an angle diagram, often leading to incorrect assumptions or calculations involving the given angles.
+
+Misconception 52: When asked for a specific term in a sequence gives the term before
+Expanded misconception:
+When asked for a specific term in a sequence, mistakenly identifies the term before (or after) the requested term due to miscounting or incorrect indexing.
+
+Misconception 53: Thinks circumference is radius x pi
+Expanded misconception:
+Thinks circumference is a simple linear function of the radius (e.g. radius x pi), rather than radius multiplied by twice pi (2πr).
+
+Misconception 54: Believes the arrow on a number line points to the middle value
+Expanded misconception:
+Incorrectly interprets number line representations, believing the arrow or pointer indicates a midpoint or average value, rather than the exact value it is intended to represent.
+
+Misconception 55: When subtracting a negative number from a positive number, uses a method which assumes one of the negative signs can be ignored 
+Expanded misconception:
+When subtracting a negative number from a positive number, uses a method which assumes one of the negative signs can be ignored and fails to recognize that two consecutive negative signs actually represent a change in operation from subtraction to addition.
+
+Misconception 56: Assumes a negative number is not rational
+Expanded misconception:
+Fails to recognize that negative numbers can be rational and incorrectly treats all negative numbers as non-rational or non-integer.
+
+Misconception 57: Believes the solution to mx + c = a is the x intercept of y = mx +c
+Expanded misconception:
+Confuses the solution to a linear equation in the form mx + c = a with finding x-intercepts, oftentimes setting the equation equal to zero (mx + c = 0) rather than using algebraic properties to solve for x when the equation equals a non-zero constant value.
+
+Misconception 58: When dividing, confuses the remainder with the quotient
+Expanded misconception:
+Fails to distinguish between the concepts of remainder and quotient when performing division, incorrectly identifying the remainder as the result of the division operation instead of the actual quotient, and vice versa.
+
+Misconception 59: Cannot identify a common factor when simplifying algebraic fractions
+Expanded misconception:
+Cannot apply simplification rules to algebraic fractions by identifying and cancelling out common factors in the numerator and denominator.
+
+Misconception 60: Has written the value of the 'ones' column as the answer, withiut using the numbers in the question.
+Expanded misconception:
+Fails to consider the value of other columns and places an over-reliance on the 'ones' or 'units' place when calculating, and provides the single-digit answer present in the 'ones' column without incorporating other relevant numbers in the calculation.
+
+Misconception 61: Multiplies by 10 instead of 100 when converting decimal to percentage
+Expanded misconception:
+Inappropriate conversion between decimal and percentage due to misunderstanding or miscalculation of the scale factor, often resulting in an error factor of 10 instead of 100, or failure to account for the shift in decimal place.
+
+Misconception 62: Does not realise that a curved line represents a changing gradient
+Expanded misconception:
+Does not apply understanding of graphical representations, specifically failing to recognize that a curved line represents a continuously changing rate of change or gradient, which would lead to incorrect conclusions or interpretations about variables and their relationships.
+
+Misconception 63: Believes 'data' and 'sample' are interchangeable
+Expanded misconception:
+Fails to distinguish between population and sample resulting in incorrect application of statistical methods, mistakenly applying sample statistics to the whole population or considering sample characteristics as representative of the entire population.
+
+Misconception 64: Mixes up squaring and multiplying by 4
+Expanded misconception:
+Confuses the order of operations involving exponents and multiplication, specifically mixing up the procedures for squaring a number (raising to the power of 2) and multiplying by 4.
+
+Misconception 65: Cannot spot a variable within a written scenario
+Expanded misconception:
+Fails to recognize and extract the variable or key information from a given scenario, word problem, or verbal description, particularly in the presence of context that may imply a specific value or function for that variable.
+
+Misconception 66: Repeats the digits three times when cubing a number
+Expanded misconception:
+Fails to apply exponent rules involving three dimensions, frequently demonstrated by incorrectly cubing a number by simply repeating the digits three times.
+
+Misconception 67: Divides by 1000 instead of 100 when converting a decimal to a percentage
+Expanded misconception:
+Fails to account for place value differences when converting between decimals and percentages, often resulting in incorrect division or multiplication by a factor of 10.
+
+Misconception 68: Confuses a term with an equation
+Expanded misconception:
+Confuses a mathematical term, concept, or notation with a mathematical equation, formula, or procedure, resulting in misapplication or incorrect manipulation of the terms, leading to an incorrect calculation or answer.
+
+Misconception 69: When given a non-unit fraction of an amount, treats it like a unit fraction
+Expanded misconception:
+When given a non-unit fraction of an amount, fails to scale down proportionally or treats it like a unit fraction, ignoring the actual proportion represented by the fraction, such as misinterpreting "one-third" as the entire quantity rather than a fraction of it.
+
+Misconception 70: When reading a composite bar chart, just reads total height of bar
+Expanded misconception:
+Fails to decompose the parts of a composite bar chart, and instead reads the total height of the bar as a single value, neglecting the individual components or subcategories represented by different segments or colors within the bar.
+
+Misconception 71: Multiplies all given dimensions when calculating an area
+Expanded misconception:
+Fails to recognize or apply the concept of multiplying only the correct relevant dimensions (e.g., length and width) when calculating an area, instead mistakenly multiplying all given dimensions, regardless of their relevance to the calculation.
+
+Misconception 72: Thinks a decimal can be written as a fraction by just writing it under a numerator of 1
+Expanded misconception:
+Fails to understand that a decimal can only be written as a fraction by writing it under a numerator and the denominator that is a power of 10 (e.g., 10, 100, 1000), resulting in incorrect fraction conversion, often by simply placing the decimal as the numerator under a denominator of 1.
+
+Misconception 73: Confuses a function with an expression
+Expanded misconception:
+Confuses a function with an expression, in that a student may have difficulty distinguishing between a function and an algebraic expression, forgetting to apply function notation or mistakenly treating functions as equations to be solved, rather than expressions that can be evaluated for specific input values.
+
+Misconception 74: Believes they must expand brackets before solving an equation
+Expanded misconception:
+"Fails to apply order of operations, specifically overlooking or incorrectly applying the priority of operations when parentheses or brackets are present, and instead, may believe they must always expand brackets first or incorrectly assume the order of operations within the equation."
+
+Misconception 75: Believes that the directions of positive and negative vectors are the opposite way around.
+Expanded misconception:
+Misconstrues the conventional representation of positive and negative vectors, consistently reversing their direction, often treating positive vectors as pointing left/down or in the opposite direction to the conventional right/up, and vice versa for negative vectors.
+
+Misconception 76: Confuses quadratic and exponential graphs
+Expanded misconception:
+Has difficulty distinguishing between quadratic and exponential functions, often mistaking exponentially increasing or decreasing values for quadratic growth or decay, or vice versa, possibly due to misunderstanding their distinctive characteristics such as curves or rates of change.
+
+Misconception 77: Does not follow the arrows through a function machine, changes the order of the operations asked.
+Expanded misconception:
+Fails to correctly sequence operations within a multi-step problem or function, ignoring operational order or changing the intended sequence of steps, and/or neglecting to follow the proper order of operations as indicated by arrows in diagrams or other visual representations of function machines and equations.
+
+Misconception 78: When multiplying a fraction by an integer, multiplies the denominator instead of the numerator
+Expanded misconception:
+When multiplying a fraction by an integer, incorrectly multiplies the denominator instead of the numerator, failing to respect the established order of operations and fraction multiplication rules, which require the multiplication of the numerator by the integer.
+
+Misconception 79: Does not understand how to divide algebraic terms
+Expanded misconception:
+Fails to apply the quotient rule of exponents when dividing algebraic terms with the same base, leading to incorrect simplification of expressions, such as misunderstanding that dividing like bases involves subtracting the exponents.
+
+Misconception 80: Thinks you can ignore the variable when simplifying algebraic fractions
+Expanded misconception:
+Neglects or misinterprets the role of variables when simplifying algebraic fractions, often treating them as constants or ignoring their presence in the numerator or denominator altogether.
+
+Misconception 81: Thinks you subtract rather than add when finding the previous term in a descending linear sequence
+Expanded misconception:
+Thinks you apply the operation in the opposite direction to what is expected in a specific sequence pattern, such as subtracting instead of adding when finding a previous term in a descending linear sequence, or incorrectly using addition instead of subtraction in various arithmetic operations involving reverse or prior step in a problem.
+
+Misconception 82: Believes the square of a negative will also be negative
+Expanded misconception:
+Fails to recognize that the square of a negative number is always positive due to the application of the exponentiation rule (a negative number raised to an even power results in a positive value), resulting in a miscalculation of expressions involving squared variables or constants with negative coefficients.
+
+Misconception 83: Confuses the meaning of perpendicular and vertical 
+Expanded misconception:
+"Confuses the meaning of perpendicular and vertical, often incorrectly assuming that 'perpendicular' and 'vertical' can be used interchangeably or in situations where a line is not necessarily at a 90-degree angle to another line or plane, and/or fails to recognize that 'vertical' refers to a specific orientation with respect to the horizon or x/y plane, while 'perpendicular' refers to a more general right-angle relationship between lines or planes."
+
+Misconception 84: Believes greater than/less than symbols include end values
+Expanded misconception:
+Confuses or misinterprets inequality symbols, specifically believing that greater than (>) and less than (<) symbols include the end values when they should be exclusive, whereas greater than or equal to (≥) and less than or equal to (≤) symbols should include the end values.
+
+Misconception 85: Does not remember that a rhombus has equal sides
+Expanded misconception:
+Fails to apply properties of quadrilaterals, specifically not recalling that all sides of a rhombus are equal in length, often due to incorrect identification or misunderstanding of the geometric shape's characteristics.
+
+Misconception 86: Assumes value of symbols in a pictogram without checking the key
+Expanded misconception:
+Fails to consider the legend or key provided in a diagram, table, or graphic, leading to misinterpretation of symbols, colors, or other visual elements.
+
+Misconception 87: Does not know what an exterior angle is 
+Expanded misconception:
+Does not know or misinterprets the definition of an exterior angle, including its relationship to the adjacent interior angle and the sum of the exterior angles of a polygon.
+
+Misconception 88: Believes parallelogram is the term used to describe two lines at right angles
+Expanded misconception:
+Confuses properties of special quadrilaterals, specifically believes that the term 'parallelogram' only refers to a quadrilateral with right angles, rather than two sets of opposite sides being parallel.
+
+Misconception 89: Thinks it can't be called a sequence with a repeated number at the start
+Expanded misconception:
+"Fails to recognize or understand sequences when the starting element is repeated in the sequence or has a misunderstanding about the definition of a sequence, thinking it must meet specific criteria regarding initial element uniqueness."
+
+Misconception 90: Does not understand place value after the decimal point
+Expanded misconception:
+Does not understand place value after the decimal point, often misunderstanding or misapplying significant figures, multiplication/division by fractional values, or incorrectly handling numbers with varying decimal places during calculations.
+
+Misconception 91: When asked for factors of an algebraic expression, thinks any part of a term will be a factor
+Expanded misconception:
+When asked for factors of an algebraic expression, mistakenly identifies any part of a term, such as individual constants or variables within a term, as factors of the entire expression, rather than considering the term as a whole.
+
+Misconception 92: When identifying the center of rotation, writes down the origin
+Expanded misconception:
+"When identifying the center of rotation, inappropriately writes down the origin, ignoring the specific coordinates or point provided as the center of rotation in the problem."
+
+Misconception 93: When multiplying a surd of the form a✓b by an integer, believes the integer and the number under the surd are multiplied
+Expanded misconception:
+Lacks understanding of surd multiplication, mistakenly assuming that when a surd of the form a√b is multiplied by an integer n, the result is obtained by multiplying the integer n by the radicand b, rather than distributing the multiplication over the entire expression as n(a√b) = n•a√b.
+
+Misconception 94: When solving simultaneous equations, thinks they can add variables to one of the equations to make terms across the 2 equations identical
+Expanded misconception:
+When solving simultaneous equations with two or more variables, fails to follow the correct methods (substitution or elimination) and thinks they can arbitrarily add, subtract, multiply, or divide variables to one of the equations to force terms to become identical, often resulting in the loss of the original equation's relationship and leading to incorrect solutions.
+
+Misconception 95: Does not know about the + notation for directions in rotations
+Expanded misconception:
+Fails to understand or apply geometric notation conventions, specifically the use of positive and negative signs to denote direction of rotation (i.e., clockwise or counterclockwise), and/or struggles to interpret the + notation for directions in rotations.
+
+Misconception 96: Multiplies surds when asked to add
+Expanded misconception:
+Fails to recognize that surds cannot be directly added or subtracted unless the two surds are exactly the same, indicating a misunderstanding of the properties of surds and mistakenly applying the rule for multiplication of like terms, leading to an incorrect multiplication of surds in lieu of properly handling unlike surds.
+
+Misconception 97: Believes there is only one orientation for the isosceles triangle base angles
+Expanded misconception:
+Fails to recognize that an isosceles triangle can have its base angles either as the acute angles or as the obtuse angle, and incorrectly assumes there is only one valid orientation for the base angles.
+
+Misconception 98: Incorrectly clears fractions from equations
+Expanded misconception:
+Incorrectly clears fractions from equations by prematurely removing the denominator and/or incorrectly converting the fraction to a decimal or equivalent whole number operation, which can result in inaccurate calculations or loss of necessary information.
+
+Misconception 99: Thinks the faster you travel the longer the time it will take
+Expanded misconception:
+"Ignores the concept of time dilation in special relativity, incorrectly assuming a direct, positive relationship between speed and travel time, rather than understanding that as speed approaches the speed of light, time appears to pass more slowly for the traveler relative to stationary observers."
+
+Misconception 100: Believes angles in a triangle sum to 360 degrees
+Expanded misconception:
+Believes that the sum of interior angles in a triangle is always equal to 360 degrees, rather than 180 degrees, often indicating a lack of understanding of basic properties of triangles and/or confusion with other geometric shapes such as quadrilaterals.
+
+Misconception 101: Believes that reflection always switches the x and y coordinates
+Expanded misconception:
+Fails to understand that reflection across the x-axis changes the sign of the y-coordinate, reflection across the y-axis changes the sign of the x-coordinate, and reflection across the origin changes the signs of both x and y coordinates, mistakenly believing that any reflection always simply switches the x and y values.
+
+Misconception 102: Does not think a factorised expression is equivalent to its multiplied out form
+Expanded misconception:
+Fails to recognize the equivalence between a factorised expression and its expanded or multiplied-out form, often overlooking the distributive property of multiplication over addition, leading to incorrect simplification or manipulation of algebraic expressions.
+
+Misconception 103: When completing the square, believes the constant in the bracket is double the coefficient of x
+Expanded misconception:
+When completing the square, incorrectly believes that the constant term in the bracket is equal to double the coefficient of the x term, rather than a value necessary to create a perfect square trinomial, often resulting in incorrect trinomial expansion and failure to properly balance the equation.
+
+Misconception 104: Assumes a sequence is linear
+Expanded misconception:
+Assumes a sequence is linear and that operations should be carried out from left to right without regard for mathematical parentheses, brackets, or other grouping elements that denote priority or reverse the intended order.
+
+Misconception 105: Mixes up sides of a ratio
+Expanded misconception:
+Fails to recognize and apply correct ratio relationships, often confusing the components, proportions, or quantities on one side of a ratio with those on the other, such as incorrectly identifying or switching corresponding parts, or inverting proportional increases or decreases.
+
+Misconception 106: Believes an arrowhead has four equal sides
+Expanded misconception:
+Inadequately understands basic geometric properties, believing an arrowhead, or a triangle in general, requires all sides to be equal in length, rather than correctly recognizing that only all angles in an equilateral triangle or all sides in an isosceles triangle need to have specific properties for the shape to meet those criteria.
+
+Misconception 107: When expanding brackets, multiplies out the first term correctly but adds together the number outside the bracket with the second term inside the bracket.
+Expanded misconception:
+When expanding brackets, incorrectly applies the distributive property by multiplying only the first term correctly and then incorrectly combines the number outside the bracket with the second term inside the bracket, without correctly multiplying it, often by simply adding the numbers together or performing an incorrect operation.
+
+Misconception 108: Uses only the first two terms of a sequence to work out a term-to-term rule
+Expanded misconception:
+"Fails to consider the entire sequence and instead attempts to identify a pattern or term-to-term rule based solely on initial or limited terms, ignoring subsequent terms that may complicate or contradict the assumed pattern or rule."
+
+Misconception 109: Thinks a factor of the final digit is also a factor of the whole number
+Expanded misconception:
+Misapplies the concept of divisibility by focusing on the properties of individual digits rather than the properties of the entire number, specifically in this case, mistakenly believing that if a factor is a divisor of the final digit, then it is also a factor of the whole number.
+
+Misconception 110: Does not know how to find the length of a line segment from coordinates
+Expanded misconception:
+Does not know how to find the length of a line segment from a given set of coordinates using the distance formula or understands the concept but consistently makes calculation errors.
+
+Misconception 111: Does not work out all possibilites when given an 'at least' question in probability
+Expanded misconception:
+Fails to consider or incorrectly enumerates all possible outcomes, combinations, or permutations when solving probability problems that involve phrases such as 'at least,' 'at most,' or 'exactly,' leading to incomplete or incorrect answers.
+
+Misconception 112: Thinks the difference between the numerator and denominator determines how close the fraction is to 1
+Expanded misconception:
+Thinks that the difference between the numerator and denominator is the sole factor that determines the value of a fraction relative to 1, and may incorrectly believe that smaller differences result in fractions closer to 1, and larger differences result in fractions closer to 0, without considering the actual value or proportion that the numerator represents in relation to the denominator.
+
+Misconception 113: Does not recognise difference of two squares
+Expanded misconception:
+Does not recognise or incorrectly applies the difference of two squares algebraic identity (a^2 - b^2 = (a + b)(a - b)), and thus cannot simplify or factor expressions accordingly.
+
+Misconception 114: Does not know the meaning of the word parallel
+Expanded misconception:
+Incorrectly interprets or applies geometric concepts due to a lack of understanding of the term 'parallel', such as failing to recognize lines that never intersect or mistakenly identifying lines that intersect as parallel.
+
+Misconception 115: Believes fraction to decimal conversion is done by writing the numerator as a decimal
+Expanded misconception:
+Believes fraction to decimal conversion is done by simply writing the numerator as a decimal without performing the necessary division by the denominator.
+
+Misconception 116: Believes an outlier is determined by the number of decimal places a number has
+Expanded misconception:
+Fails to identify outliers based on mathematical concepts such as statistical deviation from the mean, standard deviation, or data distribution, instead mistakenly believes that outliers are determined by superficial characteristics such as number of decimal places or digits, or visual inspection without calculation, often underestimating or overestimating the impact of a single data point.
+
+Misconception 117: Believes that in completed square form, they need to change the signs of both values to get the turning point
+Expanded misconception:
+Unable to simply identify the vertex form from a perfect square trinomial or quadratic in standard form; incorrectly believes that when completing the square, inverting the constant and coefficient of the squared term in the process yields the turning point coordinates, as if following a rule-based approach without understanding that only the coefficient is inverted while the constant remains unchanged.
+
+Misconception 118: Given a line segment with a midpoint that is not the origin, assumes that the two end points will still have the same absolute value
+Expanded misconception:
+Given a line segment with a midpoint that is not at the origin, incorrectly assumes that the two endpoints are equidistant from the origin in terms of absolute value and/or does not take into account the actual numerical values of the endpoints when applying the midpoint concept.
+
+Misconception 119: Believes distance = speed + time
+Expanded misconception:
+Misconceives the formula for calculating distance, incorrectly believing that distance is the sum of speed and time, rather than the product of speed and time.
+
+Misconception 120: Does not understand equivalent fractions
+Expanded misconception:
+Fails to recognize or apply the concept of equivalent fractions, resulting in an inability to simplify or compare fractions, or incorrectly assuming that two fractions with different numerators and denominators cannot be equal.
+
+Misconception 121: Believes midpoint in grouped frequency table is found by multiplying midpoint by frequency
+Expanded misconception:
+Misconception: Fails to understand that the midpoint in a grouped frequency table represents the typical or 'middle' value within the class interval and incorrectly attempts to calculate a different value or representative measure by multiplying the midpoint by the frequency, rather than using other statistical measures to analyze or represent the data correctly.
+
+Misconception 122: Thinks they can convert percentages to fractions by writing the percentage value as both the numerator and the denominator
+Expanded misconception:
+Attemps to convert percentages to fractions by incorrectly assuming the percentage value as both the numerator and the denominator, often resulting in a fraction with the percentage sign or omitting the necessity to divide by 100.
+
+Misconception 123: Rounds incorrectly when the nearest 10 is a multiple of 100
+Expanded misconception:
+Fails to correctly round numbers, particularly when approximating to the nearest ten or hundred, by not following standard rounding rules, often incorrectly treating multiples of 100 as special cases requiring a different approach.
+
+Misconception 124: Believes perpendicular bisectors is the term used to describe two lines that are parallel
+Expanded misconception:
+Confuses properties of perpendicular bisectors with those of parallel lines or vice versa, specifically mistakenly attributes characteristics of parallel lines (never intersecting, equal corresponding angles) to perpendicular bisectors or interchangeably uses the terms to describe lines that do or do not intersect at a distinct angle.
+
+Misconception 125: Thinks the division sign means to add
+Expanded misconception:
+Misinterprets division as an addition operation, often replacing the division symbol (/ or ÷) with an addition symbol (+) in mental calculations, leading to incorrect solutions.
+
+Misconception 126: Multiplies rather than adds when given the command word 'more'
+Expanded misconception:
+Misinterprets language focusing on addition and subtraction, specifically multiplying rather than adding when encountering command words or phrases such as 'more,' 'altogether,' or 'combined,' or failing to recognize these key terms as indicating the need for addition.
+
+Misconception 127: Thinks the fraction to decimal conversion button on a calculator can be used to raise to a power
+Expanded misconception:
+Incorrectly applies calculator functions, specifically thinking that the fraction to decimal conversion or other non-exponentiation functions can be used to raise a number to a power.
+
+Misconception 128: Does not understand how to read both x and y coordinates
+Expanded misconception:
+Fails to properly attend to or interpret both x and y coordinates when presented graphically, particularly when the x and y values have different magnitudes or units, resulting in incorrect plotting, graph interpretation, or coordinate manipulation.
+
+Misconception 129: Believes they can change only one side of a ratio and it will remain equivalent
+Expanded misconception:
+Fails to recognize that equivalent ratios require proportional changes to both sides, and changing only one side without a corresponding adjustment to the other side will alter the ratio's value, resulting in an inaccurate representation of the original equivalence.
+
+Misconception 130: Believes that for a line written in the form ax + by = c, a is the gradient
+Expanded misconception:
+Fails to understand the relationship between the standard form of a linear equation (ax + by = c) and the slope-intercept form (y = mx + c), typically thinking that the coefficient of x is the gradient (slope) rather than recognizing it as the coefficient of x when the equation is in this form.
+
+Misconception 131: Does not think a number can be a factor of itself
+Expanded misconception:
+Fails to recognize that a number is a factor of itself, often due to misunderstanding the concept of factors or divisibility, and may incorrectly assume that a factor must be a different number.
+
+Misconception 132: Only considers the positive solution when calculating a square root
+Expanded misconception:
+Fails to account for negative solutions or considers only the positive solution when calculating square roots or absolute values in mathematical expressions.
+
+Misconception 133: Believes dividing by a unit fraction is equivalent to dividing by its reciprocal
+Expanded misconception:
+Believes division by a fraction is equivalent to division by its denominator, rather than a multiplication by its reciprocal, often resulting in incorrect simplification or operation reversal.
+
+Misconception 134: Misreads scale
+Expanded misconception:
+Misreads scale, or inappropriately interprets units or magnitude of measurement, leading to errors in calculations or misinterpretation of quantities, particularly when dealing with large numbers, decimals, scientific notation, or conversions between different units.
+
+Misconception 135: Thinks the value of an exterior angle is 360 degrees
+Expanded misconception:
+Confuses exterior angles with the total sum of interior angles or the total degrees in a circle, incorrectly thinking that the value of an exterior angle is always 360 degrees, rather than understanding that it is supplementary to the interior angle and varies dependent on the polygon or shape.
+
+Misconception 136: Does not recognise a reciprocal equation
+Expanded misconception:
+Does not recognise or apply the concept of reciprocal equations, where two or more variables are inversely proportional, leading to errors in solving or representing mathematical relationships.
+
+Misconception 137: Does not know the meaning of the word identity 
+Expanded misconception:
+Fails to recognize the meaning and purpose of mathematical identities and properties (e.g. additive identity, multiplicative identity), often resulting in an inability to simplify expressions, solve equations, or apply mathematical rules appropriately when such identities or properties are involved.
+
+Misconception 138: When solving a problem using written division (bus-stop method), does the calculation from right to left
+Expanded misconception:
+When solving a problem using written division (bus-stop method), incorrectly performs calculations from right to left, rather than maintaining the conventional order of writing from top to bottom, or incorrectly interprets the placement of the remainder, leading to errors in the remainder or final quotient value.
+
+Misconception 139: Thinks triple means add three
+Expanded misconception:
+Misinterprets multiplication by a small number as addition of that same number, e.g., believes "triple" or "multiply by 3" means add three or add a certain multiple of the number instead of performing the correct multiplication operation.
+
+Misconception 140: Believes cumulative frequency is plotted at the lower bound of the class
+Expanded misconception:
+Misunderstands the concept of cumulative frequency graphs, often thinking that the cumulative frequency is plotted at the lower bound of each class interval instead of at its upper bound or midpoint, leading to incorrect positioning of the points in the cumulative frequency graph.
+
+Misconception 141: In completed square form, confuses the x and y coordinates of the turning point
+Expanded misconception:
+In the completed square form of a quadratic function, confuses the roles of the x-coordinate (the axis of symmetry or h-value, corresponding to the minimum or maximum value) and the y-coordinate (the minimum or maximum value itself, or the k-value) of the turning point, leading to incorrect identification or interpretation of the vertex.
+
+Misconception 142: When given a linear sequence, cannot match it to a visual pattern
+Expanded misconception:
+When presented with a linear sequence or mathematical expression involving operations with different precedence orders, fails to apply the correct order of operations, such as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction), often incorrectly performing calculations from left to right or right to left, resulting in an incorrect solution.
+
+Misconception 143: Thinks that when you cancel identical terms from the numerator and denominator, they just disappear
+Expanded misconception:
+Fails to apply the properties of fractions properly by mistakenly assuming that cancelling identical terms from the numerator and denominator results in those terms being eliminated entirely, rather than recognizing that cancellation involves dividing both terms by their greatest common factor, preserving the underlying mathematical relationship.
+
+Misconception 144: Mixes up the x and y values of the coordinates
+Expanded misconception:
+Fails to correctly identify and utilize the x and y values of coordinates, potentially as a result of confusing the order (x, y) to (y, x) or misinterpreting the meaning of the x and y axes.
+
+Misconception 145: Does not know how to convert percentages with a decimal point into decimals
+Expanded misconception:
+Does not know how to convert percentages with or without a decimal point (e.g., 5%, 25%, 5.5%, 0.25%) into decimals (e.g., 0.05, 0.25, 0.055, 0.0025) or vice versa.
+
+Misconception 146: Has multiplied by the root power
+Expanded misconception:
+Fails to apply order of operations and incorrectly calculates the value of an expression by multiplying by the base raised to the root power, instead of taking the root of the base.
+
+Misconception 147: Multiplies instead of dividing when distributing a total amount
+Expanded misconception:
+"Applies operations in the incorrect order when working with expressions containing both multiplication and division, specifically multiplying an amount instead of dividing when distributing a total amount according to a given ratio or proportion."
+
+Misconception 148: Confuses theoretical and experimental probability
+Expanded misconception:
+"Fails to distinguish between theoretical probability (based on the number of possible outcomes and assumed equal likelihood) and experimental probability (based on actual results and frequency of occurrence), leading to incorrect application of probability concepts in various problem-solving situations."
+
+Misconception 149: Believes P(success) in probability notation means the number of successes
+Expanded misconception:
+Fails to distinguish between the probability of an event (P(success)) and the frequency or number of times an event occurs, often incorrectly interpreting probability notation as representing the actual count of successful outcomes.
+
+Misconception 150: Confuses written 'teen' numbers with their corresponding single-digit number
+Expanded misconception:
+Fails to recognize or apply place value correctly when working with 'teen' numbers, mistakenly treating them as single-digit numbers, and often resulting in arithmetic errors due to this numerical representation confusion.
+
+Misconception 151: When dividing decimals, does not realize that the order and position of the digits (relative to each other) has to remain constant.
+Expanded misconception:
+When dividing decimals, has a poor understanding of place value conservation, failing to realize that the order and position of the digits (relative to each other and the decimal point) has to remain constant, resulting in incorrect alignment and misplaced decimal points in the quotient.
+
+Misconception 152: Believes that the smaller a divisor is, the smaller the answer will be
+Expanded misconception:
+Believes that the smaller the divisor is, the smaller the quotient will be, regardless of the dividend, leading to incorrect application of division in various operations.
+
+Misconception 153: When dividing decimals with the same number of decimal places as each other, assumes the answer also has the same number of decimal places
+Expanded misconception:
+Fails to adjust the number of decimal places in the quotient based on the division operation, often incorrectly assuming the number of decimal places in the result is the same as or directly related to the number of decimal places in the dividend and/or divisor.
+
+Misconception 154: Assumes an angle has been split into equal parts
+Expanded misconception:
+Fails to apply angle partitioning rules and assumes that an angle has been split into equal parts without sufficient information or explicit evidence of equal partitioning, leading to incorrect proportional relationships between angle measurements.
+
+Misconception 155: Forgets to apply inverse trigonometric function when finding an angle
+Expanded misconception:
+Forgets to apply or incorrectly applies inverse trigonometric functions when finding an angle from a trigonometric ratio, neglecting to "reverse" the operation or instead using the reciprocal or identity form.
+
+Misconception 156: Confuses the graph of a linear equation with a quadratic equation
+Expanded misconception:
+Fails to recognize the distinct characteristics or patterns that differentiate quadratic equations from linear equations when interpreting or creating graphs, such as parabolic shapes, turning points, x-intercepts, and axis of symmetry in quadratic functions, as opposed to straight lines in linear functions, often resulting in incorrect representations or analyses of graphical relationships between the two types of equations.
+
+Misconception 157: Believes squared units can be used to measure lengths
+Expanded misconception:
+"Believes that units used for measurement of area (e.g. square units) can be directly used to express lengths or distances without considering the square root, resulting in an incorrect dimensional analysis."
+
+Misconception 158: Believes addition comes before indices, in orders of operation
+Expanded misconception:
+Fails to follow the correct order of operations, specifically prioritizing addition over indices/power/exponents, often resulting in incorrect calculations.
+
+Misconception 159: Does not divide by 2 when calculating the area of a triangle
+Expanded misconception:
+Fails to apply correct formula or ignores specific operations, such as division by 2, when performing calculations that involve multi-step procedures and formula application, as seen in geometry problems like calculating the area of a triangle.
+
+Misconception 160: Believes that adding a positive to a negative makes your answer more negative
+Expanded misconception:
+"Believes that adding a positive number to a negative number results in a more negative answer, and fails to recognize that adding a positive number can decrease the overall negativity or even result in a positive answer."
+
+Misconception 161: Answers as if there are 100 minutes in an hour when changing from hours to minutes
+Expanded misconception:
+Fails to apply correct unit conversion within a base-60 time system, instead treating hours and minutes as base-10 units (i.e., 60 minutes in an hour is not recognized).
+
+Misconception 162: Uses first term as numerical part of nth term rule
+Expanded misconception:
+Applies nth term rule incorrectly by treating the first term of a sequence or series as the numerical part of the formula, often substituting the first term value into the equation and/or misunderstanding the relationship between terms in a sequence or pattern.
+
+Misconception 163: Thinks only one variable can introduce bias
+Expanded misconception:
+Thinks that only one variable or factor can introduce bias into a model, calculation, or analysis, failing to consider the potential impact of multiple variables, confounding variables, or interactions between variables on the outcome.
+
+Misconception 164: Does not reduce the denominator when an item is not replaced in a probability question
+Expanded misconception:
+Fails to properly apply principles of conditional probability, specifically neglecting to update or reduce the denominator when an item is not replaced, an event has occurred, or new information is given.
+
+Misconception 165: Believes that in y=mx+c, m is the x-intercept
+Expanded misconception:
+Confuses the roles of slope (m) and y-intercept (c) in linear equations, specifically believing that the slope (m) represents the x-intercept rather than the rate of change, and/or that the y-intercept (c) plays a role in determining the steepness of the line.
+
+Misconception 166: Believes that in completed square form, they need to change the sign of the constant to get the turning point
+Expanded misconception:
+Fails to recognize that to find the vertex of a quadratic function in completed square form, the constant term should be left unchanged, whereas it is the x-value that is influenced by the change of sign within the squared brackets.
+
+Misconception 167: Does not recognise factorising a quadratic
+Expanded misconception:
+Does not recognise or apply factorising in quadratic expressions, often resorting to incorrect expansion, factoring by grouping incorrectly, or failing to identify special products and factorable expressions in general.
+
+Misconception 168: Believes composite function notation means to substitute the outer function into the inner function
+Expanded misconception:
+The misconception is: Fails to understand function composition notation and mistakenly interprets it as substituting the outer function into the inner function, rather than the inner function's output into the outer function as the input, leading to incorrect ordering of operations in composite functions.
+
+Misconception 169: When subtracting a fraction from a mixed number, assumes they just subtract the numerator from the integer of the mixed number
+Expanded misconception:
+When subtracting a fraction from a mixed number, fails to convert the mixed number to an improper fraction or add/subtract equivalent fractions, and instead incorrectly assumes that the operation only involves subtracting the numerator from the integer part of the mixed number.
+
+Misconception 170: Does not understand that when dividing both sides of an equation by an amount every term must be divided by the same amount
+Expanded misconception:
+Does not understand that when dividing or multiplying both sides of an equation by a non-zero amount, the same operation must be consistently applied to every term on both sides to maintain equivalence.
+
+Misconception 171: When simplifying surds, does not multiply the number in front of the surd with the square root of the largest square number that has been removed from the surd
+Expanded misconception:
+Fails to correctly simplify surds by not multiplying the coefficient (number in front) by the extracted square root, resulting in an incomplete factorization or separation of the surd.
+
+Misconception 172: When subtracting fractions, subtracts the numerators and denominators
+Expanded misconception:
+"When subtracting fractions, incorrectly treats fractions as if they had distributive properties similar to those of integers, and subtracts the numerators and denominators separately rather than first finding a common denominator and then subtracting the adjusted fractions."
+
+Misconception 173: Believes that if more than one number in a multiplication is divided by the same power of ten, the answer will be divided by the same power of ten. 
+Expanded misconception:
+Misapplies the concept of dividing by powers of ten to multiplication operations, specifically failing to grasp that when multiple numbers in a multiplication are divided by the same power of ten, the effect is actually an increase in the number of factors of ten being divided, resulting in the product being divided by that power of ten as many times as the number of factors, not just once.
+
+Misconception 174: Confuses major and minor sector
+Expanded misconception:
+"Confuses major and minor sectors, specifically demonstrates an inability to properly identify and differentiate between the major sector of a circle (sectors formed by the center angle being greater than 180 degrees) and the minor sector of a circle (sectors formed by the center angle being less than 180 degrees), resulting in incorrect calculations or comparisons."
+
+Misconception 175: Thinks that when multiplying decimals (less than 1), the number will get bigger
+Expanded misconception:
+Incorrectly assumes that when multiplying decimal numbers (where at least one factor is less than 1), the product will always increase in magnitude, rather than decrease, due to a lack of understanding of the properties of decimal multiplication.
+
+Misconception 176: Believes that a reciprocal equation is defined when the denominator is 0
+Expanded misconception:
+Fails to recognize that a proper or improper fraction, ratio, or reciprocal equation is undefined when the denominator is zero, regardless of the numerator's value.
+
+Misconception 177: When the change in value is greater than the original amount, thinks percentage change = original/change x 100
+Expanded misconception:
+Fails to apply the conventional percentage change formula (new value - old value)/old value * 100, instead mistakenly uses original value.Change/new value or change/original value x 100 when the absolute change is larger than the original amount, demonstrating a misunderstanding of relative change and proportional reasoning.
+
+Misconception 178: Thinks that the 10 becomes a 20 when adding in standard form 
+Expanded misconception:
+Fails to consider the place value shift when combining partial products during standard form addition, resulting in incorrectly treating the tens or hundreds place digit as the same place value digit, such as incorrectly carrying the tens place value when adding the tens place digits in standard form addition.
+
+Misconception 179: Does not understand the difference between a value on a graph and the gradient of a graph
+Expanded misconception:
+Does not understand the difference between a value on a graph (the output or dependent variable) and the gradient or slope of a graph (the rate of change), leading to incorrect interpretation or calculation of intercepts, maxima/minima, or rates of change on linear or non-linear relationships.
+
+Misconception 180: Writes the digit 3 times instead of cubing
+Expanded misconception:
+Fails to understand exponentiation, specifically mistaking the operation of cubing (or raising to the power of three) as writing the digit three times or repurposing the digit three for multiplication.
+
+Misconception 181: Assumes a ratio is part to part instead of part to whole
+Expanded misconception:
+Fails to recognize the difference between part-to-part and part-to-whole ratios, often incorrectly applying proportional relationships or interpreting proportions out of context, which can lead to miscalculations of totals, equivalent ratios, or unit rates.
+
+Misconception 182: Believes parallel lines have gradients of opposite signs
+Expanded misconception:
+Fails to recognize that parallel lines have the same gradient (or slope), and instead, believes that parallel lines have gradients of opposite signs, possibly due to confusing parallel lines with lines that are perpendicular to each other.
+
+Misconception 183: Has confused cube numbers with prime numbers
+Expanded misconception:
+Failed to recognize the difference between cubes (numbers obtained by cubing integers) and primes (numbers greater than 1 with no divisors other than 1 and themselves), leading to incorrect substitutions or calculations in a given mathematical context.
+
+Misconception 184: Believes the space diagonal is the same length as the diagonal on the bottom face of a cuboid
+Expanded misconception:
+Fails to recognize that in a cuboid, the space diagonal (connecting opposite corners through the interior) is generally longer than the diagonal on the bottom or top face, and mistakenly assumes or calculates these lengths as equivalent.
+
+Misconception 185: Thinks a positive y value in a column vector means to move down rather than up 
+Expanded misconception:
+Misunderstands the conventional representation of coordinate systems, mistakenly interpreting a positive value in the y-axis as indicating movement downwards, when in fact it represents movement upwards.
+
+Misconception 186: Does not understand the meaning of the word commutative 
+Expanded misconception:
+Does not understand the commutative property of certain mathematical operations (e.g., addition and multiplication), failing to recognize that the order of operands does not change the result.
+
+Misconception 187: Thinks there are 10cl in a litre
+Expanded misconception:
+Incorrectly recalls or converts between units in a measurement system, specifically between milliliters (mL) and centiliters (cL) or other units, such as thinking there are 10 centiliters in a liter when there are actually 100 centiliters in a liter.
+
+Misconception 188: Believes interquartile range is the difference between one of the quartiles and the minimum value
+Expanded misconception:
+Fails to recognize that interquartile range (IQR) is the difference between the third quartile (Q3) and the first quartile (Q1), mistakenly thinking it is the difference between one of the quartiles (Q1 or Q3) and either the minimum or maximum value.
+
+Misconception 189: When multiplying decimals, ignores place value and just multiplies the digits
+Expanded misconception:
+When multiplying decimals, ignores place value and just multiplies the digits or fails to apply decimal multiplication correctly by not considering the total number of decimal places in both factors to determine the correct placement of the decimal point in the product.
+
+Misconception 190: Does not account for grammar when writing algebra e.g. ,then making a group
+Expanded misconception:
+Does not account for algebraic grammar and notation rules when writing expressions or equations, such as neglecting parentheses or order of operations, failing to distribute coefficients correctly, or misusing mathematical symbols and operators.
+
+Misconception 191: Believes that product means add rather than multiply
+Expanded misconception:
+Fails to understand that certain operations (e.g., multiplication) require a distinct procedure different from addition, leading to incorrect substitution of addition for multiplication in problems involving products or multiplication symbols.
+
+Misconception 192: Does not know how to calculate the volume of a prism
+Expanded misconception:
+Does not apply the correct formula to calculate the volume of a prism, or incorrectly calculates the volume by using incorrect dimensions, forgetting to multiply by height, or using the wrong units of measurement.
+
+Misconception 193: Believes a cyclic quadrilateral can be self-intersecting
+Expanded misconception:
+Believes a cyclic quadrilateral can be self-intersecting, fails to recognize that by definition, a cyclic quadrilateral must be a simple quadrilateral whose vertices all lie on a single circle.
+
+Misconception 194: Believes the sides of a square must be horizontal and vertical, not diagonal
+Expanded misconception:
+Believes the sides of a quadrilateral, such as a square or rectangle, must be aligned with the horizontal or vertical axis, such as up, down, left, or right, and does not consider the possibility of sides being diagonal or oriented at an angle.
+
+Misconception 195: When solving an equation, thinks the divisor and dividend are the opposite way around
+Expanded misconception:
+Fails to properly assign the roles of the divisor and dividend in division operations, leading to incorrect grouping, inversion, or switching of these roles, often resulting in a misunderstanding of the relationship between the quotient and dividend.
+
+Misconception 196: Confuses a variable with an equation
+Expanded misconception:
+"Fails to distinguish between a variable (a symbol representing a value) and an equation (a statement asserting the equality of two mathematical expressions), leading to incorrect manipulation or substitution."
+
+Misconception 197: Believes an outlier is the value in a data set with the biggest denominator, even if this value is close to the mean
+Expanded misconception:
+Misconceives that an outlier is one of the following: a value in a data set with the largest denominator if fractions are present, the highest numerical value regardless of its proximity to the mean, or an otherwise ordinary value if the student mistakenly identifies it as an extreme value because they have not considered the context of the dataset or its pattern.
+
+Misconception 198: When multiplying a decimal by a power of 10, just adds a zero to the end of the number, not changing the place value of the digits
+Expanded misconception:
+Fails to apply the concept of place value adjustment when multiplying or dividing decimals by powers of 10, often incorrectly adding or removing zeros to adjust the decimal placeholder without revising the corresponding digit place value.
+
+Misconception 199: Believes that when multiplying a number with a power, the multiplier is added onto the power
+Expanded misconception:
+Fails to apply exponentiation correctly, specifically believing that when a number with an exponent is multiplied by another number, the multiplier is added to the original exponent, rather than understanding that the exponent only applies to one factor in the multiplication.
+
+Misconception 200: When solving simultaneous equations, thinks they multiply both equations by the LCM of the coefficients of the term being eliminated
+Expanded misconception:
+When solving simultaneous equations, incorrectly believes that the system can be simplified by multiplying both equations by the Least Common Multiple (LCM) of the coefficients of the term being eliminated, resulting in incorrect manipulation of the equations and failure to account for variable interactions or proper solution methods, such as substitution or elimination.
+
+Misconception 201: Believes substituting the starting value into an iteration formula immediately gives the solution
+Expanded misconception:
+Fails to recognize that iteration formulas are recursive and require repeated application of the formula until convergence or a stopping condition is met, often substituting the starting value into an iteration formula and expecting it to immediately yield the solution, rather than iteratively applying the formula multiple times.
+
+Misconception 202: When asked to add fractions, multiplies instead
+Expanded misconception:
+When adding or subtracting fractions, incorrectly applies the operation to numerators and/or denominators separately instead of finding a common denominator.
+
+Misconception 203: Thinks that dividing both numbers in a multiplication sum by the same power of 10 results in equal answers
+Expanded misconception:
+Thinks that changes in the magnitude of numbers (such as dividing or multiplying both numbers in a calculation by the same power of 10, constant or factor) results in equal or proportional answers, despite the actual effect of operations being performed, such as order of operations or non-inverse effects of exponents.
+
+Misconception 204: Confuses scalene and equilateral triangles
+Expanded misconception:
+"Confuses scalene and equilateral triangles, often incorrectly identifying a scalene triangle (all sides of different lengths) as equilateral (all sides of equal length) or vice versa, possibly due to a lack of understanding of the definitions or properties of these triangle types."
+
+Misconception 205: Thinks there are 1000mm in a km
+Expanded misconception:
+Lacks understanding of conversion between metric units, specifically believing that there are 1000 millimeters in a kilometer rather than recognizing that there are 1000 meters in a kilometer or 1,000,000 millimeters in a kilometer.
+
+Misconception 206: Thinks a cylinder is a prism
+Expanded misconception:
+Confuses properties and classifications of 3D shapes, specifically thinking a cylinder is a type of prism due to its rectangular bases, rather than recognizing it as a distinct shape with curved lateral surfaces.
+
+Misconception 207: Confuses the terms faces and edges
+Expanded misconception:
+"Confuses the three-dimensional spatial terms and concepts, specifically the faces and edges of a geometric shape, and/or incorrectly applies or distinguishes between the number and configuration of their corresponding faces and edges."
+
+Misconception 208: Believes a composite function requires you to place the inner function next to the variable of the outer function instead of replacing it
+Expanded misconception:
+Believes a composite function requires incorrect treatment of the inner function's placement, specifically placing it next to or in an adjacent position of the variable of the outer function instead of replacing it, often resulting in confusion between addition, subtraction, multiplication, or other arithmetic operations with function composition.
+
+Misconception 209: When multiplying a vector by a fraction, adds the numerator to the top number of the vector, and the denominator to the bottom number of the vector. 
+Expanded misconception:
+Involves incorrect extension of scalar multiplication principles by misapplying fraction arithmetic when multiplying a vector by a fraction, specifically adding rather than multiplying the corresponding components by the fraction's value, or mistakenly altering the fraction's original form.
+
+Misconception 210: Thinks the term in a sequence is double the position value
+Expanded misconception:
+Thinks the term in a sequence (e.g. arithmetic sequences, geometric sequences, Fibonacci sequence) is directly proportional to its position value, misapplying the concept that the term is equal to a specific function of the term number, typically resulting in an incorrect calculation where the term is assumed to be double (or some other fixed multiple of) the position number.
+
+Misconception 211: Believes displacement continues to increase even when returning to starting point
+Expanded misconception:
+Fails to account for the fact that displacement is a vector quantity and may decrease or become zero when returning to the starting point, resulting in incorrect calculations or interpretations of displacement in various physical contexts.
+
+Misconception 212: Solves for y=0 instead of given y-value when reading from a quadratic graph
+Expanded misconception:
+Fails to apply given y-value when interpreting the solution from a quadratic graph, often incorrectly assumes y-value is always 0 or neglects to substitute the specific y-value to extract the corresponding x-value(s) from the graph.
+
+Misconception 213: Thinks there are 10 mg in a gram
+Expanded misconception:
+Thinks there are 10 milligrams in a gram (as opposed to 1,000 milligrams in a gram)
+
+Misconception 214: Does not understand the 'less than' inequality notation
+Expanded misconception:
+Fails to correctly interpret or apply relational operators in inequality statements, including but not limited to, confusion regarding the direction of inequality signs, incorrect use of greater than (>) or less than (<) notation, and/or misunderstanding the meaning of bidirectional (≠) or nested inequalities, often resulting in incorrect order of operations or variable representations in mathematical expressions.
+
+Misconception 215: When asked for a specific term in a sequence, just gives the position number
+Expanded misconception:
+Fails to distinguish between sequence position (i.e., term number) and the actual value of the term at that position in the sequence.
+
+Misconception 216: Believes the smallest number in a set of numbers is always their highest common factor
+Expanded misconception:
+Believes the smallest number or a common factor in a set of numbers is always their highest common factor or greatest common divisor (GCD), failing to account for other common multiples and factors.
+
+Misconception 217: When adding fractions, adds the numerators and denominators
+Expanded misconception:
+Fails to apply the concept of equivalent ratios when adding fractions, instead incorrectly adding the numerators together and the denominators together without considering common denominators or reciprocal multiplication.
+
+Misconception 218: Does not interpret a sloping gradient as a change in rate
+Expanded misconception:
+Does not correctly interpret a sloping gradient as a rate of change or does not apply an understanding of the relationship between the gradient of a line and the rate at which a quantity is changing.
+
+Misconception 219: Does not know that a right angle is 90 degrees
+Expanded misconception:
+Demonstrates a limited understanding of standard angle measurements, specifically failing to recognize that a right angle is defined as exactly 90 degrees, and may inaccurately estimate or confuse it with other common angle measurements.
+
+Misconception 220: Only multiplies the first term in the expansion of a bracket
+Expanded misconception:
+Fails to fully distribute or apply the multiplication across all terms when expanding brackets or parentheses in algebraic expressions.
+
+Misconception 221: Thinks ratios are written as 1:total
+Expanded misconception:
+Fails to conceptually distinguish between ratios and proportions, mistakenly believes that ratios are written as 'part to total' (e.g., 1:total) rather than 'part to part' or uses this misconception when interpreting or constructing ratio statements.
+
+Misconception 222: Does not know the meaning of absolute value
+Expanded misconception:
+Does not understand the concept of absolute value, specifically failing to recognize that the absolute value of a number is its non-negative magnitude, often resulting in incorrect calculations or sign handling when absolute value is involved.
+
+Misconception 223: Mixes up cubing with multiplying by 10
+Expanded misconception:
+Misapplies exponentiation concepts, specifically mistaking cubing (raising to the power of 3) with raising to the power of an additive factor (e.g., multiplying by 10, as in squaring and then multiplying by 10) or incorrectly applying patterns of multiplying by powers of 10.
+
+Misconception 224: Forgets to swap the sign of roots when placing into brackets
+Expanded misconception:
+Fails to apply proper manipulation of signs to radicals or roots, especially when moving them within equations, as in missing signs, misapplying properties of odd or even roots, or incorrectly handling radicals when changing the order of operations within expressions or equations.
+
+Misconception 225: Confuses frequency of one class with cumulative frequency
+Expanded misconception:
+Confuses frequency of one class with cumulative frequency or interprets the representation of discrete data as continuous, suggesting a lack of understanding in the difference between individual class frequency and aggregated class frequencies, which may lead to incorrect inferences in data analysis and interpretation.
+
+Misconception 226: Thinks rectangles have line symmetry in the diagonals 
+Expanded misconception:
+Applies line symmetry to incorrect axes, specifically thinking that rectangles have line symmetry in the diagonals when, in fact, they have line symmetry in the vertical and horizontal axes.
+
+Misconception 227: Ignores a more than question and just states one of the values
+Expanded misconception:
+Fails to consider that the question is asking for a result or product outside of the individual components, responding as if the question was inquiring about one of the addends, factors, or terms instead of the operation's outcome.
+
+Misconception 228: Divides rather than subtracts when given the command 'less than'
+Expanded misconception:
+Misinterprets or confuses mathematical operations, specifically dividing when the operation instructed is subtraction, indicated by words or symbols such as 'less than' (-), 'minus,' or 'subtract,' potentially due to a lack of understanding of the distinction between these operations or difficulty in translating word problems into mathematical expressions.
+
+Misconception 229: Does not account for scale on diagram
+Expanded misconception:
+Fails to consider the proportion or scale of a diagram, figure, or graph when interpreting or using the information provided, often leading to incorrect calculations, measurements, or conclusions.
+
+Misconception 230: Thinks 1l = 1 cubic metre
+Expanded misconception:
+Fails to distinguish between units of capacity/volume (e.g. litres) and units of cubic measurement (e.g. cubic metres), often incorrectly assuming 1 litre (L) is equivalent to 1 cubic metre (m³) or vice versa.
+
+Misconception 231: Thinks we can't write an equivalent multiplication sum for a division sum by using a reciprocal
+Expanded misconception:
+Fails to apply the concept of multiplicative inverse to rewrite division as equivalent multiplication, omitting or incorrectly using the reciprocal of the divisor.
+
+Misconception 232: When dividing by a fraction, switches to multiplication without also using the reciprocal
+Expanded misconception:
+Fails to use the reciprocal when dividing by a fraction.
+
+Misconception 233: Cannot estimate the relative volume order, for different objects
+Expanded misconception:
+Cannot comprehend or accurately estimate the relative volume or quantity orders, such as comparing standard units of measurement, understanding proportional relationships, or recognizing scaling differences among various objects.
+
+Misconception 234: Subtracts instead of adds
+Expanded misconception:
+"Executes incorrect arithmetic operation or order of operations, specifically substituting addition with subtraction or neglecting to carry out the intended addition, leading to an incorrect calculation or equation result."
+
+Misconception 235: Thinks adjacent angles are equal
+Expanded misconception:
+Thinks adjacent angles are equal and fails to apply correct angle properties, ignoring the type of adjacent angles (complementary, supplementary, linear pair, vertical angles, or corresponding angles), or mistakenly assumes that all adjacent angles in a specific configuration or figure are equal without verifying angle relationships.
+
+Misconception 236: Thinks corresponding angles sum to 180 degrees
+Expanded misconception:
+Incorrectly assumes that all pairs of corresponding angles are supplementary (sum to 180 degrees) without considering whether the lines are parallel or the specific angle relationships involved.
+
+Misconception 237: Believes a line of best fit can be drawn on a scatter graph with no relationship or correlation
+Expanded misconception:
+Believes that a line of best fit can be drawn on a scatter graph with no apparent relationship or correlation between the variables, or mistakenly infers causation or correlation from an apparent random or scattered pattern, rather than recognizing a lack of association or an insignificant correlation.
+
+Misconception 238: When finding the mean of the data in a stem and leaf diagram, thinks you find the mean of the stem numbers
+Expanded misconception:
+When finding the mean of the data in a stem and leaf diagram, incorrectly thinks you find the mean by averaging the stem numbers only, or disregarding the actual leaf values, or misunderstanding the relationship between the stem and leaf values.
+
+Misconception 239: Finds a common multiple but not the lowest common multiple
+Expanded misconception:
+Finds a common multiple but not the lowest common multiple, often indicating a lack of understanding of the nuances of multiples and least common multiples (LCMs) or failure to apply shortcuts to simplify the calculation of LCMs.
+

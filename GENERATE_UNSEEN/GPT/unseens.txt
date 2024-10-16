@@ -1,0 +1,1966 @@
+When measuring a reflex angle, gives the acute or obtuse angle that sums to 360 instead
+
+Believes gradient = change in y
+
+Believes duration can be read from a timetable, rather than calculating from start and end times
+
+Thinks that the side view does not include the furthest rows back
+
+Does not subtract from the hours, when having to borrow for a time calculation
+
+Confuses AM and PM when calculating time
+
+Given the length of the sides, still does not recognise there is enough information to find the area
+
+Does not understand the term multiple
+
+Does not realise that when you multiply by 0 the answer will always be 0
+
+When asked for a number n times smaller or bigger, subtracts or adds n
+
+Believes midpoint multiplied by frequency is equivalent to frequency density
+
+Believes the mean is the number of categories given divided by something
+
+Confuses the terms edges and vertices
+
+Does not realise that division can be broken down into factors
+
+When given a non-unit fraction of an amount and asked to find the total, answers as if it had been the unit fraction
+
+Thinks circumference is radius x pi
+
+Assumes a negative number is not rational
+
+Cannot identify a common factor when simplifying algebraic fractions
+
+Does not realise that a curved line represents a changing gradient
+
+Believes 'data' and 'sample' are interchangeable
+
+Cannot spot a variable within a written scenario
+
+Divides by 1000 instead of 100 when converting a decimal to a percentage
+
+When given a non-unit fraction of an amount, treats it like a unit fraction
+
+Thinks a decimal can be written as a fraction by just writing it under a numerator of 1
+
+Confuses a function with an expression
+
+Believes that the directions of positive and negative vectors are the opposite way around.
+
+Does not understand how to divide algebraic terms
+
+Thinks you can ignore the variable when simplifying algebraic fractions
+
+Does not know what an exterior angle is 
+
+Does not understand place value after the decimal point
+
+When identifying the center of rotation, writes down the origin
+
+When multiplying a surd of the form a✓b by an integer, believes the integer and the number under the surd are multiplied
+
+When solving simultaneous equations, thinks they can add variables to one of the equations to make terms across the 2 equations identical
+
+Multiplies surds when asked to add
+
+Assumes a sequence is linear
+
+Thinks the difference between the numerator and denominator determines how close the fraction is to 1
+
+Believes fraction to decimal conversion is done by writing the numerator as a decimal
+
+Believes an outlier is determined by the number of decimal places a number has
+
+Believes midpoint in grouped frequency table is found by multiplying midpoint by frequency
+
+Thinks they can convert percentages to fractions by writing the percentage value as both the numerator and the denominator
+
+Believes perpendicular bisectors is the term used to describe two lines that are parallel
+
+Thinks the division sign means to add
+
+Does not understand how to read both x and y coordinates
+
+Believes they can change only one side of a ratio and it will remain equivalent
+
+Thinks the value of an exterior angle is 360 degrees
+
+Thinks triple means add three
+
+Believes cumulative frequency is plotted at the lower bound of the class
+
+Mixes up the x and y values of the coordinates
+
+Does not know how to convert percentages with a decimal point into decimals
+
+Multiplies instead of dividing when distributing a total amount
+
+Confuses theoretical and experimental probability
+
+Believes P(success) in probability notation means the number of successes
+
+Confuses written 'teen' numbers with their corresponding single-digit number
+
+Forgets to apply inverse trigonometric function when finding an angle
+
+Confuses the graph of a linear equation with a quadratic equation
+
+Believes squared units can be used to measure lengths
+
+Believes that adding a positive to a negative makes your answer more negative
+
+Thinks only one variable can introduce bias
+
+Believes that in y=mx+c, m is the x-intercept
+
+Believes composite function notation means to substitute the outer function into the inner function
+
+Does not understand that when dividing both sides of an equation by an amount every term must be divided by the same amount
+
+Believes that if more than one number in a multiplication is divided by the same power of ten, the answer will be divided by the same power of ten. 
+
+Confuses major and minor sector
+
+Thinks that when multiplying decimals (less than 1), the number will get bigger
+
+When the change in value is greater than the original amount, thinks percentage change = original/change x 100
+
+Thinks that the 10 becomes a 20 when adding in standard form 
+
+Writes the digit 3 times instead of cubing
+
+Believes the space diagonal is the same length as the diagonal on the bottom face of a cuboid
+
+Believes interquartile range is the difference between one of the quartiles and the minimum value
+
+Does not know how to calculate the volume of a prism
+
+Believes a cyclic quadrilateral can be self-intersecting
+
+When multiplying a decimal by a power of 10, just adds a zero to the end of the number, not changing the place value of the digits
+
+Believes that when multiplying a number with a power, the multiplier is added onto the power
+
+When solving simultaneous equations, thinks they multiply both equations by the LCM of the coefficients of the term being eliminated
+
+Thinks that dividing both numbers in a multiplication sum by the same power of 10 results in equal answers
+
+Confuses scalene and equilateral triangles
+
+Thinks a cylinder is a prism
+
+Believes a composite function requires you to place the inner function next to the variable of the outer function instead of replacing it
+
+When multiplying a vector by a fraction, adds the numerator to the top number of the vector, and the denominator to the bottom number of the vector. 
+
+Does not understand the 'less than' inequality notation
+
+When asked for a specific term in a sequence, just gives the position number
+
+Believes the smallest number in a set of numbers is always their highest common factor
+
+Does not know the meaning of absolute value
+
+Confuses frequency of one class with cumulative frequency
+
+Thinks we can't write an equivalent multiplication sum for a division sum by using a reciprocal
+
+Thinks adjacent angles are equal
+
+Believes a line of best fit can be drawn on a scatter graph with no relationship or correlation
+
+When finding the mean of the data in a stem and leaf diagram, thinks you find the mean of the stem numbers
+
+Misunderstands how to calculate the lower bound in a division, believes it is found by dividing both upper bounds
+
+Thinks co-interior angles sum to 360 degrees
+
+Identifies a common factor but not the highest common factor
+
+Does not think a kilogram is a unit of mass
+
+Believes a fraction cannot have a numerator of 0
+
+Believes all triangle numbers are odd
+
+Uses numerator as whole part of a fraction
+
+When finding a missing number in a factor tree, multiplies by the factor given rather than dividing.
+
+Thinks that when drawing the elevation, the bottom layer does not need to be included 
+
+Identifies a letter as a common factor but doesn't identify a number as a common factor
+
+When finding the distance between 2 points, believes the distance is the coordinate of the furthest point from origin
+
+Confuses angle of a sector with the radius
+
+When finding a point on a line, assumes the point is always the midpoint
+
+Adds rather than multiplies when scaling up in direct proportion problems
+
+Thinks pressure is force per unit volume
+
+when subtracting a fraction from an integer, just adds their absolute value and places a negative sign in front
+
+Does not break down all factors in a factor tree to primes
+
+Thinks a negative y value in a column vector means to move up rather than down
+
+Confuses a constant with a variable
+
+When solving time problems, finds the difference in the hours and the difference in the minutes but then assumes the minutes will be added on to the number of hours
+
+Thinks you can multiply by a decimal to find a multiple of a number
+
+Believes knowing the perimeter of squares does not give you enough information to find the perimeter of combines shapes using those squares
+
+Guesses when something is "twice as high/much", rather than multiplying by 2
+
+Believes gradient is the sum of y the coordinates divided by the sum of the x co-ordinates 
+
+Believes edges of a 3D shape do not include edges of base
+
+When calculating the power of a negative number, thinks they can ignore the sign when multiplying and then put a negative sign back on at the end, regardless of the power 
+
+Mixes up primary and secondary data types
+
+When factorising, thinks the smallest coefficient will be the numerical factor, regardless of whether it divides into all terms
+
+When factorising into double brackets, finds the two values which sum to give the constant rather than the coefficient of x
+
+Believes class width multiplied by frequency gives frequency density
+
+When measuring a line segment with a ruler, assumes the line starts at 0
+
+Believes the two variables have to add to the same value in inverse proportion
+
+Does not check the labelling of the axes 
+
+Mixes up total and part in ratio
+
+When working with inverse and direct proportion, forgets to apply the root or index to find k, but remembers when doing the second calculation
+
+Not considered the y value when reading coordinates
+
+Believes 30% is equivalent to 1/3
+
+Does not understand that having values after the decimal point makes a number larger than a number with the same units but no decimal places
+
+Believes the second term in a 2 term quadratic equation is always a coefficient and the variable
+
+Uses the whole base rather than half the base when forming a right angled triangle from an isosceles triangle
+
+Estimates the frequency shown on a pie chart rather than calculating
+
+Writes times in the afternoon as if 10 is midday on a 24 hour clock
+
+Thinks a chord does not have to start and end at the circumference of the circle.
+
+Believes class width represents frequency in a histogram
+
+Finds the sum of the missing angles but not the angle being asked
+
+Believes digits of a number are read/written from right to left
+
+Confuses random and stratified sampling methods
+
+Gives frequency when asked for relative frequency
+
+Believes that repeated prime factors are only counted once
+
+Thinks that we cannot calculate the range if values are repeated
+
+Does not know that co-interior angles must be in parallel lines
+
+Thinks a kite has one pair of parallel sides
+
+Forgets to add starting value when calculating new coordinates
+
+When dividing fractions, divides by the reciprocal, instead of multiplies
+
+Thinks the reciprocal of n, 1/n = 0.n
+
+Believes that an exterior angle can have a value of 360 degrees
+
+Thinks there are 100 seconds in a minute
+
+Believes you find the mode by calculating the mean
+
+Divides instead of multiplies when multiplying by a decimal
+
+Thinks there are 10,000kg in a tonne
+
+Confuses place value when rounding to estimate
+
+When rationalising the denominator, confuses the numerator with the denominator
+
+Believes class width multipled by frequency gives the area of the bar in a histogram
+
+Does not equate y=-x with x=-y
+
+Believes the size of an angle can be given as a word rather than a number
+
+When identifying the center of rotation, chooses a point with the wrong y-value
+
+Assumes that an enlargement is always from the smaller object to the bigger one
+
+Believes that n/n = n, instead of 1
+
+Believes the intersection of two complements can be found using the complement of the intersection
+
+When converting a fraction to a decimal, divides the denominator by the numerator
+
+When finding bearings, finds the back bearing to what the question is actually asking
+
+Assumes the third column of a grouped frequency table is always cumulative frequency
+
+When a point is on an axis, gives both coordinates as the value it's at on the axis
+
+When multiplying a surd by an integer, believes the value under the surd can be swapped with the integer
+
+When finding bearings, finds the bearing going in the reverse direction to the one stated
+
+Finds interior angle rather than given angle
+
+Believes the equation of a straight line is y=-mx-c
+
+Believes only angles on parallel lines can be called "corresponding"
+
+Finds a scale factor but forgets to multiply the original value in proportion questions
+
+Does not recognise that probabilities of all possible outcomes will sum to 1
+
+Thinks n=0 for the first term in a sequence
+
+Confuses cumulative frequency and frequency density
+
+Confuses the value outside of a Venn diagram as the total number of entries in the diagram
+
+Confuses adjacent and opposite sides
+
+Believes qualitative data can be continuous
+
+Believes you can divide the change by 100 to find the percentage change 
+
+Does not know how to calculate volume
+
+confuses circumference and area
+
+Thinks that they can combine functions in a function machine before applying them to the input
+
+Does not know the diagonals of a square bisect at right angles
+
+Multiplies the value as if the original recipe was for 1 person
+
+Underestimates the impact of the size of images in a misleading statistical diagram
+
+Believes the total of a part whole model is always 1 (or equivalent) instead of the given total
+
+Thinks Angle-Angle-Angle triangles are congruent
+
+Believes when multiplying fractions you cross multiply top left and bottom right for numerator, and the other diagonal for denominator
+
+Thinks a divide and a negative sign next to each other makes a plus
+
+Believes that angles that look like they are a right-angle are always 90 degrees
+
+When simplifying surds, does not understand that the simplified root is what is left after dividing out the largest square number
+
+Mistakes cube root for cubing the number
+
+Believes 1 is not a factor of a number
+
+Believes a composite function multiplies the functions together
+
+Believes speed = time/distance
+
+Believes that when constructing triangles, all sides should be measured from the same point
+
+When comparing data, only compares one category of data rather than comparing the totals
+
+Used the digits of the decimal as the denominator
+
+Finds the shaded section rather than the specified section
+
+Believes multiplying a number by its square root gives the square root
+
+Given the mean and the amount of numbers, adds to find the total
+
+Believes finding the product of two numbers gives their lowest common multiple
+
+Believes that multiplying variables is the same as adding them together
+
+Believes they need to multiply the numbers together in a worded HCF question 
+
+Believes 0.5absin(c) requires only three sides (potentially confused with cosine rule)
+
+Thinks the inverse of multiplication is addition
+
+Assumes triangles are isosceles if they look like they are isosceles
+
+Thinks that to decrease by a percentage you multiply by 1+ the decimal equivalent to that percentage
+
+Does not count from the centre of enlargement to find the image
+
+Believes you cannot have a negative gradient when plotting a linear sequence
+
+Believes cumulative frequency is the product rather than sum of frequencies
+
+Confuses the formulas for the circumference of a full circle and the perimeter of a sector
+
+Does not understand what an interior angle is
+
+Believes a missing length on a cuboid can be found by doing volume divided by a different length
+
+Ignores coefficients when forming an expression from a question
+
+Does not perform calculations in the numerator of a fraction before division by the denominator
+
+When asked to find a missing number in a factor tree, finds any factor of the given number rather than the pair of the factor already given.
+
+Thinks that when drawing a plan view, you only include the top layer of the shape
+
+After multiplying to get a common denominator, simplifies back to the original fractions
+
+Believes that a fractional index means you need to find the reciprocal
+
+Thinks the units for speed should not contain a measure of time
+
+Only counts visible edges
+
+Thinks depth is marked on the cross section of a prism
+
+Confuses class width and upper bound of the class
+
+Misinterprets the order of division in worded problems
+
+When drawing a histogram, believes you plot cumulative frequency on the vertical axis
+
+Believes the solutions to an equation have opposite signs from its x intercepts
+
+Believes a smaller number of shaded parts represents a smaller fraction
+
+Thinks there are 100mm in a km
+
+Thinks that when you put an input into a function machine you apply the inverse operation rather than the operation given.
+
+Thinks you cannot multiply by a decimal to get equivalent fractions
+
+Does not understand use of the counters to represent algebra
+
+Confuses the dependent and independent variables on the axes of a line graph
+
+Mixes up square numbers and prime numbers
+
+Thinks a fractional scale factor changes direction as well as size
+
+Thinks multiplying by a variable is the same as raising to the power of that variable
+
+Believes the adjacent side is where the opposite side is in a right angled triangle
+
+Chosen the longest value rather than the greatest
+
+Thinks that to decrease by a percentage you just multiply by the decimal equivalent to that percentage
+
+When subtracting a surd from an integer, just divides the integer by the number under the surd
+
+Believes the sin graph relates to the tan function
+
+Thinks the area of a sector is theta/360 x r x pi (forgetting the radius is squared)
+
+Does not recognise how to write a list of prime factors from a factor tree
+
+Believes that when a shape is enlarged, the area rather than the scale factor is squared
+
+Thinks 0.3 = 1/3
+
+Adds rather than subtracts when using Pythagoras to find a shorter side
+
+Thinks the gradient of a line is found from 2 points by finding the length of that line between those points
+
+Does not realise similar has a specific mathematical meaning
+
+Confuses range and interquartile range
+
+Does not know the term numerator
+
+Mixes up constant and coefficient in a worded substitution problem
+
+Does not find the angle being asked
+
+Believes enlargement by scale factor -1 exchanges the x and y coordinates
+
+Thinks co-interior angles sum to 90 degrees
+
+Thinks that the perimeter on a square grid is the number of squares inside that are touching the perimeter of the shape
+
+Believes that a number divided by itself equals the original number
+
+Believes that the gradient of a horizontal line is undefined
+
+Only considers elements in one set when asked to find the intersection of multiple sets
+
+When interpolating using a line of best fit, reads off the value for the closest point to the line rather than the value given by the line of best fit 
+
+Does not recognise that an equation will stay balanced if all terms are multiplied/divided by the same amount
+
+When asked to subtract a fraction from a unit, removes the unit value from the numerator.
+
+Believes you cannot find the mode from a pie chart
+
+Gives a fraction when asked for a decimal
+
+When drawing a cumulative frequency diagram, thinks you plot cumulative frequency on the horizontal axis
+
+Thinks millimetres and centimetres are the same
+
+When factorising, believes they can choose different factors for each term
+
+When multiplying algebraic terms written in the same base, adds the base variables and multiplies the powers.
+
+Only uses two terms of a sequence to work out a term-to-term rule
+
+Does not divide to get a unitary amount before scaling up
+
+In the middle of the total column or row of a two way table, adds the other totals (including overall total), rather than finding the difference
+
+Arithmetic error when multiplying by 7
+
+Believes each number on a clock face represents 1 minute
+
+When calculating missing side length from perimeter, gives the total missing length instead of dividing for one side.
+
+Does not know the meaning of vertically opposite
+
+When adding or subtracting surds, just finds the largest square that goes into each number under the surd and adds or subtracts those rather than using the largest square to simplify the surd
+
+When describing the relationship shown on a scatter graphs, gets the effect on the dependent variable backwards
+
+Believes that fractions with the same denominator are equal
+
+Uses the other part instead of total frequency as denominator for relative frequency
+
+Rounds a decimal instead of using a fraction in division
+
+Believes that 'less than' includes the number 
+
+Does not know what the symbol for equal lengths means
+
+Thinks the fraction button finds the reciprocal
+
+Believes they can reverse a percentage increase or decrease by dividing by the decimal multiplier of the original change
+
+Confuses least and most
+
+Believes that the third vertex of a triangle will share coordinates with both of the other vertices
+
+Believes there are 100cl in a millilitre
+
+Does not recognise that for a shape to be reflected it will be "flipped"
+
+Includes too many possibilites when given an 'at least' question in probability
+
+When dividing a fraction by an integer, thinks they can just multiply instead
+
+When finding the negative power of a negative power, assumes they can ignore one of the negatives
+
+When asked to subtract a fraction from a unit, removes the unit value from the denominator
+
+When using the capture-recapture method, confuses the order of the calculation to find best estimate of population
+
+Thinks that when dividing numbers in standard form you subtract the number and divide the power
+
+Believes when you plot a linear sequence it doesn't give a straight line
+
+Does not know which letters can be subtracted in Roman Numerals
+
+Subtracts instead of adds when finding a midpoint
+
+Believes 'inclusive' does not include the end value
+
+Finds the circumference of the whole circle instead of arc length 
+
+Confuses the direction of vectors when adding or subtracting
+
+Believes class width represents area of the bar in a histogram
+
+Believes that the solutions to x<b or x>b also satisfy ax<b or ax>b
+
+When subtracting mixed numbers, does not realise that a negative fractional answer needs to be taken away from their integer answer
+
+When adding variables with powers, thinks they can add the powers
+
+Does not know how to compare size of angles on a grid without a protractor
+
+When describing the relationship between the parts in a ratio using a fraction, gets the numerator and denominator the opposite way around
+
+Struggles to visualise the new position of an object after transformations
+
+When reading decimals on a number line, assumes each dash is 0.2
+
+Believes they write the digits next to each other instead of multiplying, when multiplying a vector by an integer.
+
+Does not scale up a ratio to find an equivalent value
+
+Believes all linear graphs show direct proportion
+
+Believes all numbers in a prime factor tree are included in the list of prime factors
+
+Only considers elements in one set when asked to find the union of multiple sets
+
+Thinks that when drawing the elevation, the top layer does not need to be included 
+
+Believes an axis is scaled correctly if the marked values increase in a linear pattern (ignores the distance from the origin to the first value) 
+
+Believes a rotation and a reflection can be combined by applying the rotation to the mirror line
+
+Believes the number outside the circles in a Venn represents the intersection
+
+Believes adding numbers together gives the highest common factor
+
+Believes the median is the category with the median frequency
+
+When drawing a cumulative frequency diagram, thinks you plot the upper bound of the class intervals on the vertical axis
+
+When rounding, believes that if the number, after the required degree of accuracy, is a 5 or below you round down
+
+Believes rounding to 1 decimal pleace means rounding to the nearest integer, regardless of the value of the number
+
+thinks when writing a mixed number fraction as an improper fraction, you need to multiply the denominator by the whole 
+
+Confuses intersection and universal set
+
+Believes when frequencies multiply by a scale factor in a table the mode also multiplies by that scale factor
+
+Gives an example of a factor instead of counting how many total factors a number has
+
+Thinks subtraction calculates how many in 
+
+Believes that rounding parts of a fraction in different directions means the answer will be the same. 
+
+Does not subtract 2 from the number of sides when finding the sum of interior angles
+
+Thinks there are 100mm in a metre
+
+Thinks there are 1000ml in a centilitre
+
+Thinks the nth term is when the value of the term is n
+
+Thinks there are 10mm in a metre
+
+Does not know how to check tessellation
+
+Divided by 100 rather than multiplied by 100
+
+Believes integers can have decimal places
+
+When asked to shade a fraction of a shape, gives the total number of parts rather than the number to be shaded.
+
+When the unknown (e.g. x) in an equation is a denominator, gives the value of 1/x rather than x as the answer
+
+Believes they can factorise a difference of two squares by placing the constant in both brackets without square rooting
+
+Reads a power as a normal digit
+
+Does not understand equivalent ratios
+
+Does not recognise a unit of mass
+
+Believes multiplying together prime factors that are not shared gives the highest common factor
+
+Believes that we cannot calculate the mean of negative numbers
+
+adds all given dimensions when calculating area
+
+Believes mirror line must lie on a grid line, not in between grid lines
+
+When asked for more, find the total
+
+Thinks they can simplify algebraic fractions by cancelling unlike variables
+
+Believes that prime numbers cannot be even
+
+When using interpolation to estimate frequency, assumes half the frequency of the class containing the value will be above/below it, even if it is not the midpoint
+
+Believes when you plot a sequence, the line always passes through (0, 0)
+
+Believes each vertical line on a box plot represents 1 piece of data
+
+When adding fractions with identical numerators, leaves the numerator and adds the denominators
+
+Does not recognise an example of the alternate segment theorem
+
+Does not recognise parallel lines angle rules
+
+Has increased by the value of the first value, rather than the difference
+
+When adding or subtracting surds, believes the numbers under the root and the numbers in front should both be added or subtracted
+
+Believes the numerator stays the same when calculating a second pick of the same type without replacement on a tree diagram
+
+Thinks the fraction bar means multiply rather than divide
+
+Believes every direct or inverse proportion question uses the formula p=kq
+
+Confuses x and y axes
+
+Believes the gradient of a speed-time graph is the distance
+
+Believes that the cumulative frequency of an interval of grouped data can be used as the cumulative frequency for any value in that interval
+
+Reads the wrong scale on the protractor when measuring acute angles
+
+Divides when converting to a larger unit
+
+When using the capture-recapture method of sampling, believes you add the number marked first to the number caught second and add that to the number marked second to get the best estimate of population size
+
+Thinks the subtraction sign means divide
+
+Thinks 1 square metre = 100,000 cubic centimetres
+
+Describes position to term rule using term to term rule
+
+Divides by (n-2) rather than n when finding an interior angle
+
+Does not think a number can be a multiple of itself
+
+Confuses midpoint and gradient between two points
+
+Believes you cannot find the modal category from a pie chart unless given the total frequency
+
+Thinks that fractions involving a fraction as the denominator can just be read as mixed numbers
+
+Believes the mean must be an integer
+
+Misunderstands how to calculate the upper bound in subtraction
+
+Thinks there are 50 minutes in 1 hour
+
+Gives an answer of 0 when there are no solutions to an equation.
+
+When solving simultaneous equations graphically, only gives one of two solutions
+
+In inverse proportion, believes k is the total of the two variables 
+
+Finds area of whole circle rather than area of sector
+
+Thinks can combine the numerator and denominator after simplifying an algebraic fraction
+
+Believes that repeated percentage change is equivalent to a single change by the sum of the percentages
+
+Thinks they find the length of a line between 2 points by adding coordinates, rather than subtracting
+
+Believes the length of the arms influence the size of the angle
+
+Believes the lowest common multiple is found my multiplying the numbers together
+
+When the final stage of solving a problem is "variable to a power" = constant, assume the constant is the answer, without finding the root.
+
+Confuses the method of selection with the group selected in statistics
+
+Draws false conclusion from a pie chart
+
+Does not know how to divide a fraction by an integer
+
+Thinks the elevation is the plan view of a shape
+
+Believes the equation of a vertical line is in the form y = ax, where a is the x intercept
+
+Carries out operations from left to right regardless of priority order, unless brackets are used
+
+Believes the mean is something divided by the number of categories given
+
+Believes the largest number in a set of numbers is always their highest common factor
+
+Does not know the distributive property
+
+Believes the frequency of the midpoint of a group is half the total frequency of the group
+
+When answering questions regarding adding items to get a new ratio, looks at the difference between the numbers in the original and new ratio rather than finding the size of a part
+
+Believes class width = frequency density
+
+Believes it's not possible to solve simultaneous equations graphically
+
+Believes an outlier is not determined by distance from the mean
+
+Believes that the complement of a set in a triple Venn consists of the elements that only belong to one other set
+
+Believes the median is the frequency for the middle category in a table
+
+believes the complement of a set consists of elements which only belong to one set
+
+Believes time = speed x distance
+
+Thinks reciprocal button raises to a power
+
+Believes finding a percentage of an amount involves adding the percentage to 10% of the amount
+
+When dividing a number written in standard form by an integer, thinks you divide the power on the ten rather than the number component.
+
+Believes reading from a cumulative frequency diagram will give the frequency above a certain value, rather than below
+
+Uses length scale factor for volume without cubing
+
+Believes that when converting ratio to fractions, the denominator is the product of the parts of the ratio
+
+Chooses an incorrect point in between the shapes when describing a 90 or 270 degree rotation
+
+Does not know the definition of the range
+
+Thinks positive values in a column vector denote movement left and down (and vice-versa for negative values).
+
+When asked to rotate by 90 degrees rotates by 180 degrees
+
+When using the capture-recapture method of sampling, believes you divide the number caught second by the number marked second to find the best estimate of population size
+
+Confuses the union and intersection of inequalities
+
+Does not recognise a unit of area in word form
+
+Confuses measures of turn (ie. degrees) and measures of length
+
+Cancels digits when dividing
+
+Believes all multiples of odd numbers are odd
+
+Believes there are 20 minutes in an hour
+
+When subtracting fractions, divides the numerators
+
+Has removed brackets but not performed the operation
+
+Multiplied the powers rather than added them
+
+Thinks the perimeter of a sector is the same as arc length 
+
+Thinks the interior angles of a polygon add up to 100n
+
+Believes you add the denominators when finding a fraction of another fraction
+
+Doesn't recognise commutativity of addition with negative numbers
+
+Cannot spot a coefficient within a written scenario
+
+Believes when frequencies multiply by a scale factor in a table the mean also multiplies by that scale factor
+
+Believes that vectors of different magnitudes can be equal.
+
+Thinks there are 10cl in a millilitre
+
+Is not able to identify a situation where Pythagoras' Theorem is needed
+
+Believes stratified samples should be evenly split
+
+Rounds every number to the same degree instead of rounding to significant figures when estimating 
+
+Divides 360 degrees by sum of sides rather than given amount of angles
+
+On a cumulative frequency diagram, believes the total frequency is the top of the frequency axis rather than the top of the curve
+
+Does not understand the term 'linear'
+
+When using Pythagoras' theorem to find a missing side, thinks you multiply the sides together then square root
+
+When finding a missing length on similar shapes, just find the scale factor
+
+Believes biased selection methods can be random
+
+When enlarging a shape, thinks the scale factor divides the movement from the centre of enlargement to a vertex rather than multiplies
+
+Multiplies rather than adds when answering worded problems
+
+Believes the variable should remain in place after substituting its value
+
+When finding a missing part in a ratio, divides rather than multiplies
+
+When adding fractions, multiplies the numerators
+
+Believes that a general trend of an increase or decrease over time, on a statistical diagram, means that the slope must be in the same direction for the whole time period
+
+When squaring a variable with a power, thinks that the power is squared rather than doubled. 
+
+Believes all grouped frequency table need a midpoint column
+
+Mixes up the terms for the parts of a fraction
+
+When solving a 'more than' problem, believes the first step is to halve the total rather than setting up an equation to help solve
+
+Believes perpendicular is the term used to describe two lines that are parallel
+
+Believes midpoints are plotted on histograms
+
+When comparing non like surds, does not square the surds
+
+Thinks you can find missing values in a given table by treating the row as a sequence of consecutive numbers
+
+Thinks 1 square metre = 10 square centimetres
+
+Mixes up the inequality signs in an error interval
+
+Confuses the order of the digits in stick multiplication
+
+When solving a problem using written division (bus-stop method), puts the dividend in the wrong place
+
+Believes the mean from grouped data is the sum of the midpoints divided by something
+
+Does not count both edges when turning a corner when counting perimeter
+
+Believes only the decimal places with dots above them recur, not the whole string
+
+When rationalising the denominator, believes only the numerator or the denominator needs to be multiplied by the surd
+
+Does not understand that adding on to a multiple can give you the next multiple
+
+Believes that the sign changes when factorising an expression into single brackets
+
+Forgets to halve when finding the missing base angles of an isosceles
+
+Gives the change in value when asked for the percentage change
+
+Confuses frequency and frequency density
+
+Thinks that co-interior angles can lie on opposite sides of a transversal 
+
+Finds the IQR rather than the range
+
+Finds the arc length instead of the area of the sector 
+
+Believes number of squares in a bar gives frequency on a histogram
+
+Assumes the perpendicular height of a triangle bisects the base
+
+Gives the value for the wrong variable when answering a simultaneous equation question
+
+Does not include zero when counting over zero
+
+Converts a decimal to a fraction by writing 1 over the digits of the decimal
+
+Forgets that a number without an indice is to the power of 1 
+
+Believes sets are the same if the elements within them have a shared property
+
+Thinks the longest bar has the highest frequency on a pictogram, even if the symbols aren't evenly spaced
+
+Thinks the plan view is taken from an angle to include aspects of the side view and plan
+
+Does not realise the lines at an intersection have to be straight in order to show vertically opposite angles
+
+Believes a cubic equation will have a quadratic graph
+
+Subtracts instead of divides when division is written as a fraction
+
+Does not recognise the similar shape as the shape has been rotated and the scale factor is less than 1
+
+Believes when given a fraction and an amount the question must be to find the fraction of the amount. 
+
+Believes a number written in standard form with a negative power creates a larger number than that with a positive power
+
+When adding fractions, uses addition of the denominators as a common denominator
+
+Assumes you cannot use the fact that multiplication is commutative when simplifying an algebraic term. 
+
+Believes 'given that a, what is the probability of b?' means 'given that b, what is the probability of a?'
+
+Thinks 1 cubic metre = 100,000 cubic centimetres
+
+Believes that if there are two unknowns in an equation, all integers must be possible solutions
+
+Identifies a number as a common factor but doesn't identify a letter as a common factor
+
+Thinks they start on the left when doing long multiplication 
+
+Does not relate integers and fractions
+
+Believes that the y intercept is (0, y) where y is any y coordinate on the line
+
+Confuses right angle triangles and equilateral triangles
+
+Does not understand that similar shapes and enlarged shapes will have the same size angles as the original
+
+Thinks only like terms can be multiplied
+
+Believes a vertical line has equation y=
+
+believes the complement of a set consists of anything that is not just in that set
+
+Does not understand that the area of an enlarged shape is the area of the original multiplied by the square of the scale factor of the lengths.
+
+Believes there are 90 degrees in a full turn
+
+Believes you keep the divisor unchanged when dividing by a fraction
+
+Thinks multiple letters can be subtracted at once in Roman numerals
+
+Ignores the zero when multiplying
+
+In direct and inverse proportion, forgets to find the value of k, and carries out calculations as though k were 1
+
+When subtracting a surd from an integer, just subtracts the number under the surd from the integer
+
+believes that a fraction with the largest denominator will be smallest regardless of the numerator
+
+Believes the numerator is the top of a fraction 
+
+Only uses the closest angle to the unknown when using the angles in a straight line relationship
+
+Rounds to the wrong degree of accuracy (nearest ten rather than nearest whole number)
+
+Identifies wrong place value column after decimal point
+
+When multiplying surds in the form ✓a × b✓c, believes the answer is  ✓(abc)
+
+Has found area of triangle rather than area of square
+
+When reading off from the left side of a back to back stem and leaf, mixes up the value of the leaf and the stem
+
+Believes they can still have the variable on both sides when making it the subject
+
+Believes angles in a quadrilateral sum to 450 degrees
+
+Believes volume of a cuboid is the area of the three unique faces multiplied together
+
+Does not understand the phrase to the power of
+
+Calculated the hours and minutes separately
+
+Multiplies instead of divides by 100 when converting a percentage to a decimal
+
+When adding decimals, does not keep place value the same as the original digits
+
+When substituting into an algebraic term, replaces variables with numbers without multiplying.
+
+Inserts brackets but not changed order of operation
+
+Mixes up squaring with repeating a digit
+
+Believes a circle achieves what a perpendicular bisector does
+
+Does not know the meaning of congruent
+
+Believes cumulative frequency is plotted at the midpoint of the class
+
+Believes two odd numbers multiply to give an even number
+
+Removes a zero from within the digits when rounding
+
+Does not know how to round up when a decimal place value column contains a 9
+
+Subtracts instead of multiplies when using grid method
+
+Confuses parallel and transversal
+
+Halves the radius to find the diameter
+
+Ordered from largest to smallest
+
+Confuses the radius and theta when working with sectors 
+
+Square roots when asked for second multiple
+
+When solving a problem using written division (bus-stop method), carries the wrong digit
+
+Believes the gradient is where the line intersects the y axis
+
+When given two similar objects and asked to find the length scale factor, believes the length scale factor is the area scale factor
+
+Struggles to draw 3D shapes on isometric paper
+
+Believes having the gradient and y-intercept is not enough information to write an equation for a straight line
+
+Does not know how to find the y intercept when given two other sets of coordinates that lie on a straight line
+
+When calculating volume expressed in cubes, counts the visible cubes only
+
+Believes point will move diagonally when reflecting in a horizontal or vertical line
+
+Believes the sin graph relates to the cos function
+
+Believes that when multiplying an integer by a decimal greater than 1, you multiply by the integer component of the decimal but add on the decimal component multiplied by 10.
+
+Cannot accurately estimate capacity
+
+Confuses histograms with bar charts
+
+Confuses 'and' with 'or' in probability
+
+Believes y=f(-x) is a reflection in y=x
+
+Assumes the negative sign in a power has no meaning
+
+Believes instant change of velocity is possible. 
+
+Struggles to estimate 3D volume
+
+Believes any adjacent angles sum to 180 degrees
+
+Believes division of surds always results in an integer
+
+When solving simultaneous equations, assumes every variable has equal value.
+
+Thinks decimal place value works the same as integer place value, ones will follow tenths
+
+When calculating perimeter, only adds two sides
+
+Believes the solutions of a quadratic equation are the negative of the absolute values of the constants in the factorised form
+
+Assumes that the square root is the only type of root
+
+Believes they can eliminate a variable without making the coefficients the same in simultaneous equations
+
+Believes height represents frequency on a histogram
+
+When adding fractions, adds the numerators and multiplies the denominators
+
+Uses outcome as numerator in probability 
+
+Thinks there are 100kg in a ton
+
+Believes that they can reverse a percentage decrease by dividing by the decimal multiplier of the percentage itself, not the multiplier for the percentage decrease.
+
+Forgets to add on the starting value when identifying a position on a number line
+
+Believes y=f(-x) is reflection in the x-axis
+
+Thinks 1 square metre = 1000 square centimetres
+
+When using a scale factor greater than 1, thinks you multiply by the scale factor to go from the larger to the smaller shape.
+
+When expressing one quantity (x) as a fraction of another (y), believes the answer is 1/x.
+
+Believes you only need to multiply the integer by the integer in a integer x decimal calculation
+
+When given an error interval for a decimal that ends in a zero, thinks you give the error interval as if the zero was not present (e.g. 1dp rather than 2dp)
+
+When using the capture-recapture method for sampling, believes you subtract the number marked second from the number caught second to find the best estimate of population size
+
+Believes an outlier is the smallest value in a data set, even if this value is close to the mean
+
+Thinks the positive and negative terms in a sequence will have the same absolute values
+
+Ignores grouping within a fraction and carries out the division first
+
+Thinks the plan view is taken from an angle to include aspects of the side view
+
+Does not understand that a scale factor of enlargement greater than -1, will create a larger image on the other side of the centre of enlargement from the original
+
+Multiplied the base numbers
+
+When calculating the group width of a group from a grouped frequency table, believes this is found by midpoint multiplied by frequency
+
+When drawing a histogram, thinks you plot group midpoint on the horizontal axis
+
+When multiplying surds, adds the numbers under the roots
+
+Believes transforming some terms in simultaneous equations is sufficient
+
+When sketching graphs of factorised quadratics, does not see that the negative of the non variable terms in the brackets give the x intercepts or the roots of the graph.
+
+When asked to take off a fraction of an amount, subtracts the fraction itself
+
+Mixes up smallest and largest when ordering decimals
+
+Thinks that scale factors, other than one, can leave the dimensions of shapes unchanged
+
+Believes you plot frequency rather than cumulative frequency on a cumulative frequency diagram
+
+Does not take into account the whole amount when using a bar model to find a fraction
+
+Thinks a variable next to a number means write the digits together
+
+Believes you find the surface area of a prism by finding the total area of the unique faces
+
+Believes the horizontal axis on a cumulative frequency diagram is labelled upper bound
+
+Thinks that a unit fraction can be simplified further
+
+Does the reciprocal of both fractions when dividing fractions
+
+Believes that we cannot calculate the median of a dataset that contains negative numbers
+
+When substituting into an algebraic term, believes they can disregard the coefficient
+
+Thinks the order of events does not matter in a question about combined probability with no replacement
+
+Does not recognise time as a variable from a worded scenario
+
+Miscounts the area of a shape when there are half squares
+
+Does not recognise suitable statistical diagrams for comparing results over time
+
+Uses term-to-term rule as numerical part of nth term rule
+
+Does not understand the 3-letter convention for labelling angles
+
+When scaling the perimeter multiplies the number of sides by the scale factor
+
+Struggles to visualise 2D triangles in a cuboid
+
+Includes too many possibilities when calculating a combined event in probability
+
+Divides rather than multiplies in a related calculation questions
+
+When dividing a fraction by an integer, subtracts the integer from the denominator
+
+Does not realise that in standard form the decimal we use must be between 1 and 10
+
+When drawing a cumulative frequency diagram, thinks you plot the frequency on the horizontal axis
+
+Thinks that two side views are interchangeable
+
+Does not recognise the origin as the starting point for coordinates
+
+Believes if a point is reflected in the line y=b then the y coordinate of the point will become 'b'
+
+when reading a dash on a number line counts 1 dash too few when working out the divisions
+
+Thinks the division sign means to subtract
+
+Thinks the number of items give the number of different possible arrangements rather than using the product rule for counting
+
+Believes the proportion for a pie chart sector is equal to the frequency
+
+Confuses displacement-time graphs with velocity-time graphs
+
+Believes the gradient of perpendicular lines just have opposite signs
+
+Confuses the shaded and unshaded regions on an inequality diagram
+
+Does not know the symbol for proportionality 
+
+Believes a reciprocal equation will have a linear graph
+
+Believes zero cannot be raised to a power
+
+Uses difference as index instead of coefficient in nth term rule
+
+Believes ratios can be combined without equalizing common terms
+
+writes the remainder as the divisor divided by 10
+
+When performing mental multiplication, multiplies accurately by a multiple of 10 but then does not know how to adjust their answer 
+
+Counts repeated factors as two separate factors
+
+Believes that when increasing by a percentage over 100, they do not need to add an extra 1 to the decimal multiplier for the original amount
+
+Believes that numbers are read aloud digit by digit 
+
+Believes that all recurring decimals can be converted to a fraction by writing the digits of the decimal over 9
+
+Only includes full hours when measuring time in minutes
+
+Misunderstands how to adjust proportions for different sample sizes in stratified sampling
+
+Believes y=f(-x) is a reflection in y=-x
+
+Does not know the y intercept is where the x coordinate is 0
+
+Believes when frequencies multiply by a scale factor in a table the median also multiplies by that scale factor
+
+Uses addition instead of the associative property of multiplication
+
+Assumes grouped data is evenly distributed within each group
+
+Thinks the length of the hypotenuse is the sum of the two shorter sides
+
+When finding the difference between two marks on a scale, counts lines instead of gaps
+
+Confuses angle of a sector with the diameter
+
+Believes a line showing a constant rate of increase corresponds to a non-prism shape
+
+Believes the largest number in a set of numbers is always their lowest common multiple
+
+Mixes up total and part when forming expressions from worded problems
+
+Uses the whole base rather than half the base when forming a right angled triangle from an equilateral triangle
+
+Thinks there are 60 degrees in a full turn
+
+Believes you need to know the value of all algebraic variables before any general conclusions can be made
+
+Believes a factor pair doesn't have to be 2 integers
+
+Is not familiar with the names of the different parts of a fraction
+
+Includes all faces when finding surface area of a compound shape, including those which are stuck together
+
+Believes inverse function notation means multiplying by negative 1
+
+Believes a rhombus has one pair of equal sides
+
+Believes a subtraction cannot be partitioned into separate subtractions
+
+Assumes all journeys of the same distance take the same amount of time
+
+Rounds the wrong way when interpreting a real-life context
+
+When solving a pair of simultaneous equations, thinks they need to make the coefficients of both variables the same
+
+When solving simultaneous equations, finds the correct numbers to transform the equations, but uses them the wrong way around.
+
+Thinks a factor tree splits a number into a pair of numbers that sum to the given number.
+
+Believes clock times can be written with a decimal point rather than a colon
+
+Does not understand changing decimals to fractions
+
+Adds or subtracts the degree of accuracy from the original number
+
+Believes a quadratic graph can be a straight line
+
+When using the capture-recapture method of sampling, believes you multiply the number caught second by the number marked second to get the best estimate of population size
+
+Adds "100" to end of written value rather than multiplying by 100
+
+Believes a direct proportion graph can have a negative gradient
+
+Thinks two-tailed inequalities can have a constant in the middle
+
+Can not recognise all factor pairs of numbers
+
+Thinks that when drawing the plan view, the top layer of the shape needs to be drawn in the row above 
+
+Does not understand how to answer generalised statements (eg. by testing values to check for always, sometimes, never)
+
+Believes the y-intercept of a line is the solution to its equation
+
+Believes the proportion for a pie chart sector is 1 divided by the number of degrees
+
+Believes a reciprocal graph comes from a cubic equation
+
+When multiplying a surd by an integer to write as one surd, squares the number under the surd rather than the number in front
+
+Confuses the graph of 1/x with 1/x² when both are shown
+
+Believes you subtract the number marked second from the estimated population to find the number marked first when using the capture-recapture method
+
+Thinks all dimensions given must be used when calculating the area
+
+Added the base numbers
+
+Thinks the elevation is taken from an angle to include aspects of the other side
+
+Assumes the range of a set of data starts at zero
+
+Believes 1 is a prime number
+
+When converting fraction to ratio, thinks you just use the numerator and denominator as the numbers in the ratio 
+
+Believes they always divide by the conversion factor when converting units
+
+Adds instead of subtracts when finding the area of part of a shape
+
+When dividing fractions, multiplies the numerators and multiplies the denominators
+
+does not realise that the product of prime factors will also be a factor of the original number 
+
+When multiplying fractions, adds the denominators and multiplies the numerators
+
+Believes the probability on all branches travelling in the same direction on a tree diagram are the same, despite changing events
+
+Rounds every number down when estimating
+
+When finding the nth term rule for a quadratic sequence, believes that the coefficient of n squared is the second difference
+
+Thinks they multiply the numerator and denominator together to convert a fraction to a percentage 
+
+Believes the solution of a quadratic is its turning point
+
+Believes the upper bound of an interval in a grouped frequency table is equivalent to the group width of the interval
+
+Believes they must change the direction of the inequality when dividing through by a positive number.
+
+Thinks area of a circle = radius x pi 
+
+When drawing a histogram, thinks you plot frequency on the horizontal axis
+
+Confuses the roles of initial capture, recapture, and total population in the capture-recapture method
+
+When using interpolation to estimate frequency that is above a certain value, believes they can add the estimated frequency up to that value in its class, rather than the estimated frequency after it
+
+Uses length scale factor for area without squaring 
+
+Thinks the y coordinate of a point on the x axis is 1
+
+Thinks an enlargement of any scale factor keeps side lengths the same
+
+Believes that if one number in a product decreases, the answer must increase. 
+
+Thinks multiplication and addition are the same
+
+Believes a cubic equation will have a linear graph
+
+Thinks the mode in a stem and leaf diagram  is the stem that has the most leaves 
+
+When dividing numbers with different bases, subtracts the powers and subtracts the base numbers.
+
+Finds unit price then forgets to multiply up
+
+Believes the median is the midpoint of the range
+
+Believes the median is the frequency for the category in which it is located
+
+In inverse proportion, believes that if one variable is a reciprocal, the other variable will be the reciprocal as well. 
+
+Believes midpoint of an interval is used rather than total frequency to calculate the sector angle for a pie chart
+
+Does not know the information each vertical line of a box plot represents
+
+Thinks the multiplication sign means to add
+
+Believes they can cross-cancel before flipping the second fraction when dividing fractions
+
+Does not recognise the sin graph
+
+Thinks the missing length has to be half the length of the side given
+
+Subtracted base numbers as well as powers
+
+Thinks all lines on a net will form edges in 3D
+
+Believes the numbers in factorising should multiply to give the coefficient of x and add to give the constant
+
+Believes that when finding bounds you round to the nearest whole number
+
+Confuses relative frequency and expected frequency
+
+Gives the smallest whole when asked for the smallest fraction shaded, presented visually
+
+Believes that a fractional index also means you need to find the reciprocal
+
+Gets the dividend and divisor the wrong way round when doing long division
+
+Believes you use the half of the base length to find the area of an isosceles triangle, following using it to find the perpendicular height
+
+Mixes up the numerator and denominator
+
+Believes it's ok to change the scale on an axis for the negative values
+
+Believes the opposite side is where the adjacent side is in a right angled triangle
+
+Believes that the reciprocal of a number is equal to that number (1/x = x)
+
+Multiplied by the scale factor rather than divided in direct proportion problems
+
+Divides length of original by length of image to find scale factor, rather than image by original.
+
+Believes the integer can be written before or after the surd eg. 3√2 = √2 3
+
+Ignores zeros when giving the value of an integer
+
+Confuses the order of operations, believes subtraction comes before multiplication 
+
+Includes the intersection of a Venn diagram when asked to find the value of a set only
+
+Writes more than three repeated symbols next to each other in Roman numerals
+
+Believes reflection in y=-x switches the signs of the coordinates, but not their numbers
+
+ Does not believe that a negative multiple of a vector is in the opposite direction
+
+Confuses class width and frequency when calculating frequency density
+
+Thinks that a percentage can be converted to a fraction using a denominator of 10 
+
+Fails to identify mirror line
+
+Doesn't take into account cost when calculating expected return/profit
+
+Estimates obtuse angles as 90 degrees or less
+
+Counts a side length more than once when counting perimeter due to not marking a starting point
+
+Mixes up square numbers and even numbers
+
+Believes the gradient of a line is the root of its equation
+
+Does not understand the question
+
+Confuses section and whole when using a bar model
+
+Believes that they can reverse a percentage increase by decreasing the new value by the same percentage, and vice versa
+
+When dividing involving a multiple of 10, gives an answer 10 times smaller than it should be 
+
+Assumes any variable in a sum on the numerator can be divided by the denominator
+
+When finding which term represents the median, thinks you divide the total number of terms by 2
+
+Believes multiplying by 0.1 is the same as multiplying by 10
+
+When solving an equation,  subtracts instead of multiplying
+
+Confuses frequency polygons with cumulative frequency diagrams
+
+Multiplies all given dimensions when calculating the length of the hypotenuse in a right angled triangle
+
+When substiting into an algebraic term, raises the coefficient to the power of the variable rather than multiplying the coefficient and the variable..
+
+Does not understand power notation
+
+When drawing a histogram, thinks you plot cumulative frequency on the horizontal axis
+
+Believes if a point is reflected in the line x=a then the x coordinate of the point will become 'a'
+
+Forgot to square both parts of the fraction
+
+Thinks a divide and a negative sign next to each other makes a minus
+
+When there's a negative sign in the question, thinks the answer must be negative
+
+When writing a number between zero and one in standard form, thinks the power is the negative of the number of decimal places
+
+Believes non-unit multiples of vectors can be the same length
+
+Rounds to the wrong degree of accuracy (1 decimal place rather than nearest whole number)
+
+Identified the interior not exterior angle at a point
+
+Has estimated the length of the missing side length by looking at the image  rather than calculating it
+
+Fails to reflect across reflection line without a diagram
+
+Believes all numbers written in standard form must be smaller than any numbers written in ordinary form
+
+Thinks that the scale on axes has to match with the number of squares
+
+Assumes there are only 2 terms in the nth term formula for a quadratic sequence
+
+Ignores unlabelled angles when applying angle sum rules
+
+When solving simultaneous equations graphically, they think the solutions are the x or y intercepts
+
+Believes that when converting ratio to fractions, the denominator is the difference between the parts of the ratio
+
+Believes you multiply all of the values given when using the capture-recapture sampling method
+
+When calculating volume expressed in cubes, counts the faces of all the cubes
+
+Finds the range of possible values of the variable, rather than the range of recorded values
+
+Believes when calculating a probability the denominator will be the total of one of the criteria rather than the overall total that is required (gives a given that answer)
+
+Thinks there are 10000ml in a litre
+
+Believes that when factorising a quadratic equation with a coefficient of x squared, the two constants in the brackets are still the solutions of the equation with opposite signs
+
+When describing the relationship between the parts in a ratio, replaces the : with a decimal point to say how many times bigger a part is than the other
+
+Misunderstands mixed number notation 
+
+Believes an algebraic term with the same coefficient as the value of a constant term can be subtracted to give zero
+
+Believes that points on an axis have equal x and y coordinates
+
+When calculating volume expressed in cubes, counts only the squares on one face
+
+When multiplying variables, thinks they add coefficients as well as powers
+
+When asked to find a scale factor, assumes direction of enlargement does not matter
+
+When adding negatives believes that they can just add their absolute values and add a negative sign to the answer
+
+Confuses prime factors and factors
+
+Believes negative powers in standard form have the same impact as positive powers 
+
+When asked to find an angle given in three letter convention, thinks the angle you want to find will be located at the vertex labelled with the last letter
+
+Believes if a circle is divided into n equal sectors, the angles at the centre will each be n degrees
+
+Believes any of the angles can be used in the trigonometric formula for area of a triangle
+
+Does not round up when an answer is non-sensical in a real-life context
+
+Struggles to visualise elevations of 3D shapes
+
+Believes they do not have to say the point when reading a decimal aloud
+
+Increases by the given percentage rather than finding the percentage of an amount
+
+When finding the square root of a decimal, ignores place value
+
+Believes that 'zero' is read as the letter 'O'
+
+Believes a number written in standard form cannot have a lot of decimal places
+
+Believes the line y = mx - c will cross the y axis at c
+
+Thinks you cannot find the range if there are an even number of values
+
+Thinks the category with the most common bar height is the mode
+
+Multiplies rather than divides when answering worded problems
+
+Believes a number written in standard form is smaller than another number written in standard form if the number between 1 and 10 is smaller
+
+Thinks that we cannot calculate the range of negative numbers
+
+When a subtraction of one positive number from another, results in a negative answer, they believe the answer is the sum of those 2 numbers with a negative sign put in front.
+
+Assumes a 1:1 conversion ratio between different currencies
+
+Believes that prime numbers can have more than two factors
+
+Subtracts numerators when dividing fractions with a common denominator
+
+Uses the total as the numerator of the fraction rather than the denominator.
+
+Subtracts instead of adding when asked to find a total
+
+Believes a parallelogram cannot have right angles
+
+Confuses objective and subjective
+
+Does not know that a reflection would not change the size of the shape
+
+Believes given two sides and one angle of a triangle there are multiple ways to draw the triangle
+
+Confuses consecutive and prime numbers
+
+Believes the equation of a straight line is y=-mx+c
+
+Thinks the missing length has to be half the length of the opposite side
+
+Does not understand that enlargements can make shapes make shapes bigger, smaller and the same size
+
+Assumes the scale is the same when comparing two similar diagrams
+
+Does not know the definition of a prime number
+
+Believes the number of bars gives the total on a bar chart
+
+Believes that when dividing an integer by a power of 10 you add zeroes after the decimal point
+
+Does not know the definition of a composite number
+
+Thinks we have to add the base numbers as well as the powers when multiplying indices
+
+Thinks the largest number in a stem and leaf diagram comes from the first leaf next to the largest stem
+
+Believes we can categorise data as primary or secondary without knowing the source
+
+Believes interquartile range is the sum of the lower and upper quartiles
+
+Assumes regular shape refers only to a square
+
+Believes the mean from grouped data something divided by the sum of the midpoint values
+
+Believes any co-interior angles are supplementary, not just those in parallel lines
+
+Out by 10 when subtracting
+
+When dividing fractions, divides the denominators by each other
+
+Does not recall larger square numbers
+
+Subtracts rather than adds when using Pythagoras to find the hypotenuse
+
+Believes the mean is something divided by total
+
+Thinks that perpendicular lines do not meet at 90 degrees
+
+Thinks the reciprocal of a fraction is what number adds to that fraction to make one whole.
+
+Gives the first significant figure when asked for the second
+
+Does not know that co-interior angles sum to 180 degrees
+
+Converts a fraction to a decimal by placing the denominator after the decimal point
+
+Believes quartiles are at 1/4 and 3/4 through the range of the data
+
+Thinks there are 10,000g in a kilogram
+
+Answers as if there are 10 seconds in a minute when changing from seconds to minutes
+
+Does not understand that a number is divisible by the factors of its factors
+
+Confuses calculations for cumulative frequency and estimated total from a grouped frequency table
+
+Believes the position number in a sequence does not have to be an integer
+
+Removes the decimal point when asked to round a decimal to a whole number
+
+Believes you subtract the number caught second from the estimated population to find the number marked first when using the capture-recapture method
+
+Believes you always reduce the numerator and denominator by 1 when writing the probability for a second pick without replacement on a tree diagram
+
+Believes when writing a number in standard form as an ordinary number you write any digits in the base (omitting the decimal point) and do not account for the power of 10
+
+Believes the mean is something divided by the sum of the categories given
+
+Chooses an incorrect point on the object when describing a 90 or 270 degree rotation
+
+Thinks the x coordinate of a point on the y axis is 1
+
+When dividing involving a multiple of 10, gives an answer 10 times bigger than it should be 
+
+When dividing variables, thinks they subtract coefficients as well as powers
+
+Has considered the percentage rather than the percentage of the amount
+
+When factorising into double brackets, finds the correct values for the non variable terms but swops the plus and minus sign
+
+Subtracts rather than divides when answering worded problems
+
+Does not understand which months are in the Spring
+
+When finding the missing length on similar shapes, just finds the difference between the given lengths
+
+Believes multiplying together all prime factors gives the highest common factor
+
+Uses the same value for both coordinates
+
+Thinks the orientation of the side view does not matter when identifying the direction of view
+
+Believes that Mid point multiplied by the Frequency in a grouped frequency table gives the frequency for that group.
+
+Believes probabilities can be greater than 1
+
+Mixes up smallest and greatest when ordering positive integers
+
+Believes any sample gives an equal chance of selection
+
+Forgets to include a marked right angle when performing angle calculations
+
+Believes that Mid-point x Frequency in a grouped frequency table gives an accurate total, rather than an estimate.
+
+Does not know how to find the gradient of a straight line from two points
+
+Mixes up discrete and continuous data types
+
+Confuses negative and positive correlation
+
+Believes a percentage of a number will be a multiple of the percentage
+
+When ordering decimals, believes the decimal point is not relevant
+
+Believes the y-intercept of a line is the root of its equation
+
+Believes data implies equal chance of selection
+
+When using the capture-recapture method, believes the number caught second is the numerator and the number marked second is the denominator
+
+When multiplying decimals, multiplies rather than divides when reinserting the decimal.
+
+Struggles to visualise how an object will look in 3D when given a plan view, front and side elevation
+
+Believes the lower quartile is the lowest value in a list
+
+Believes that reciprocals are undefined for negative numbers
+
+Believes they add the conversion factor when converting between units
+
+Believes class width divided by frequency density gives frequency in a histogram
+
+Believes the number of edges on a 3D shape match those of the 2D cross section
+
+Believes even numbers can have odd multiples
+
+Thinks the scale factor is found by adding the lengths of two corresponding sides together
+
+Mixes up the words “to” and “past” when telling the time
+
+Confuses dependent and mutually exclusive events
+
+Does not know protractor should be positioned with one side of the angle at 0
+
+Uses angles on a straight line in the wrong context 
+
+Believes that when factorising a quadratic with a coefficient of x squared, the two constants in the brackets still add to give the coefficient of x
+
+Unable to equate two divisions with a single division
+
+Confuses the lower bound and upper bound, and writes the lower bound as a value that would end in recurring 9's, for example
+
+Believes that y = m +cx is the equation of a straight line
+
+When multiplying by 1 gives an answer of 1 (for a number other than 1)
+
+Thinks that the lower and upper bound for a truncated number can be found in the same was as when it has been rounded
+
+When finding a fraction of a fraction, divided by the whole fraction instead of the denominator
+
+Believes rounding to 1 significant figure means rounding to the nearest integer, regardless of the value of the number
+
+Believes the median is the middle category in a table, ignoring the frequencies
+
+Believes the midpoint of grouped data is equivalent to the group width
+
+Does not know the properties of an equilateral triangle
+
+Adds a zero onto the end of units multiplied by units when solving multiplication problems using the grid method
+
+Believes that if the numerators of 2 fractions are equal then the fractions are equal, regardless of the denominator
+
+Believes the columns in a base are multiples not powers of the base
+
+When using the capture-recapture method of sampling, believes you multiply the number marked first by the number marked second to get the best estimate of population size
+
+Arithmetic error when dividing by 8
+
+When multiplying a fraction by an integer, believes the integer will become the denominator of the fraction
+
+Believes an arithmetic sequence can have a common second difference rather than first difference
+
+Believes you place the digits next to each other for a multiplication sample space diagram
+
+Believes an outlier has to be a whole number
+
+When multiplying large numbers, splits numbers into addends rather than factors
+
+Believes the universal set symbol means any elements not within a circle. 
+
+Combines digits instead of applying the mathematical function
+
+Thinks direct proportion rules apply to inverse proportion problems
+
+Believes a rectangle has one pair of equal sides
+
+Tries to add or subtract unlike terms
+
+Believes finding a fraction of an amount means multiplying by the denominator
+
+Does not consider fractional parts when solving proportion problems
+
+When two digits multiply to 10 or more during a multiplication problem, does not add one to the preceding digit
+
+Ignores position/value of midpoint when trying to label a point on scale
+
+Does not understand that removing an outlier will impact the range
+
+Finds the circumference instead of the area
+
+Thinks multiplying by a number is the same as raising to the power of that number
+
+When converting compound measures into different units, thinks you multiply when the unit of the divisor has become smaller
+
+Cannot evaluate if an estimate is an underestimate or overestimate
+
+Done a different calculation to the one given
+
+When multiplying a vector by an integer does not multiply all parts of the vector
+
+Believes a parallelogram has one pair of equal sides
+
+Tries to apply sohcahtoa to a non right angled triangle
+
+Believes alternate angles sum to 180 degrees
+
+Does not recognise an example of the angles in same segment theorem
+
+Confuses the position of the median with its value
+
+When multiplying an integer by a fraction, believes the numerator of the fraction will become the denominator
+
+Does not know the meaning of the word equidistant 
+
+Does not know that three quarters of a turn is 270 degrees
+
+Believes the range is largest add smallest
+
+Thinks there are 30 seconds in a minute
+
+Thinks the plan view is from the side of the shape
+
+Has written something to the power of 1 as 0.1
+
+Believes that a negative sign in the base of a power means you need to find the reciprocal 
+
+Identifies the wrong two angles as base angles of an isosceles
+
+Assumes Pythagoras' theorem doesn't work if they can spot a pattern between the side lengths
+
+Compares sizes of angles on a grid by estimating rather than using the gradient of the lines
+
+Believes composite function notation fg(x) means to multiply the first terms of f and g together, and the second terms of f and g together
+
+Believes f(x - a) translates the function down a units
+
+Thinks I can be subtracted from L in Roman numerals
+
+Believes a reciprocal equation will have a quadratic graph
+
+Believes that a greater percentage represents a greater quantity
+
+Believes cumulative frequency is the sum of each class with the previous class, rather than all previous classes
+
+Mixes up the sets in a Venn diagram
+
+When finding the nth term rule for a quadratic sequence, believes that the coefficient of n squared is determined by first differences
+
+May have made a calculation error using the order of operations
+
+Does not know how to measure reflex angles
+
+Believes the total of the circle in a Venn should be included when intersections should be omitted
+
+Has added on the power of 1/4 rather than raise to the power of 1/4
+
+Believes a downward line has a positive gradient
+
+Writes a repeated root once, rather than in a squared bracket
+
+Thinks that the perimeter on a square grid is the number of squares surrounding the rectangle
+
+Does not think a ton is a unit of mass
+
+Does not realise that two letters together are multiplying
+
+When converting between non standard form and standard form assumes changes to the base will not affect the power
+
+Misunderstands the capture-recapture method
+
+Confuses the value of the variable with cumulative frequency
+
+Confuses maximum and minimum
+
+When finding the square root of a decimal, believes the answer should have the same number of decimal places
+
+Does not know that prime numbers have exactly two factors
+
+Does not increase the denominator when an item is added in a probability question
+
+When adding decimals, thinks the answer has to have the same number of decimals as the total in the question
+
+Gives the second significant figure when asked for the first
+
+Thinks the subtraction sign means multiply
+
+Mixes up cubing and squaring
+
+When dividing numbers with different bases subtracts the powers but divides the base numbers.
+
+Confuses the formulas for the perimeter of a sector and the area of a sector 
+
+Confuses the lower and upper bound
+
+Gives the intersect value of a Venn diagram when asked to find the value of a set only
+
+Believes they only need to multiply the first pair of terms when expanding a double bracket.
+
+Believes all the multiples of a number will also be multiples of its multiples
+
+Confuses interior angles with exterior angles
+
+When dividing numbers with different bases, divides the powers and divides the base numbers.
+
+Believes that when multiplying by a power of 10 you add zeroes after the decimal point
+
+Thinks adding same amount to each side of a ratio gives an equivalent ratio
+
+Mixes up sides of a ratio, when working with vectors for line segments.
+
+Believes degrees can be used to measure length
+
+When multiplying numbers with the same base, multiplies the powers 
+
+Believes that any percentage of a larger number will be greater than any percentage of a smaller number
+

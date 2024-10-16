@@ -1,0 +1,1502 @@
+query,response
+"<Construct>Use the order of operations to carry out calculations involving powers/Construct>
+<Subject>BIDMAS/Subject>
+<Question>
+\[
+3 \times 2+4-5
+\]
+Where do the brackets need to go to make the answer equal \( 13 \) ?
+</Question>
+<Answer>Does not need brackets</Answer>
+<Misconception>Confuses the order of operations, believes addition comes before multiplication </Misconception>","<Construct>Use the order of operations to carry out calculations involving powers</Construct>
+<Subject>BIDMAS</Subject>
+<Question>
+\[
+2 \times 3+12 \div 4
+\]
+Where do the brackets need to go to make the answer equal \( 11 \) ?
+</Question>
+<Answer>Does not need brackets</Answer>
+<Misconception>Confuses the order of operations, believes addition comes before multiplication </Misconception>"
+"<Construct>Simplify an algebraic fraction by factorising the numerator/Construct>
+<Subject>Simplifying Algebraic Fractions/Subject>
+<Question>
+Simplify the following, if possible: \( \frac{m^{2}+2 m-3}{m-3} \)
+</Question>
+<Answer>\( m+1 \)</Answer>
+<Misconception>Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term
+</Misconception>","<Construct>Simplify an algebraic fraction by factorising the numerator</Construct>
+<Subject>Simplifying Algebraic Fractions</Subject>
+<Question>
+Simplify the following, if possible: \( \frac{x^{2}-7x-18}{x-9} \)
+</Question>
+<Answer>\( x-2 \)</Answer>
+<Misconception>Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term</Misconception>"
+"<Construct>Simplify an algebraic fraction by factorising the numerator/Construct>
+<Subject>Simplifying Algebraic Fractions/Subject>
+<Question>
+Simplify the following, if possible: \( \frac{m^{2}+2 m-3}{m-3} \)
+</Question>
+<Answer>\( m+2 \)</Answer>
+<Misconception>Thinks that when you cancel identical terms from the numerator and denominator, they just disappear</Misconception>","<Construct>Simplify an algebraic fraction by factorising the numerator and denominator</Construct>
+<Subject>Simplifying Algebraic Fractions</Subject>
+<Question>
+Simplify the following, if possible: \( \frac{x^{2}-4 x-5}{x-5} \)
+</Question>
+<Answer>\( x-1 \)</Answer>
+<Misconception>Thinks that when you cancel identical terms from the numerator and denominator, they just disappear</Misconception>
+<Distractor1>\( x-5 \)</Distractor1>
+<Distractor2>\( x-4 \)</Distractor2>
+<Distractor3>\( x^{2}-5 \)</Distractor3>"
+"<Construct>Simplify an algebraic fraction by factorising the numerator/Construct>
+<Subject>Simplifying Algebraic Fractions/Subject>
+<Question>
+Simplify the following, if possible: \( \frac{m^{2}+2 m-3}{m-3} \)
+</Question>
+<Answer>\( m-1 \)</Answer>
+<Misconception>Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term
+</Misconception>","<Construct>Simplify an algebraic fraction by factorising the numerator</Construct>
+<Subject>Simplifying Algebraic Fractions</Subject>
+<Question>
+Simplify the following, if possible: \( \frac{x^{2}-7 x-6}{x-6} \)
+</Question>
+<Answer>\( x+1 \)</Answer>
+<Misconception>Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term</Misconception>"
+"<Construct>Calculate the range from a list of data/Construct>
+<Subject>Range and Interquartile Range from a List of Data/Subject>
+<Question>
+Tom and Katie are discussing the \( 5 \) plants with these heights:
+\( 24 \mathrm{~cm}, 17 \mathrm{~cm}, 42 \mathrm{~cm}, 26 \mathrm{~cm}, 13 \mathrm{~cm} \)
+Tom says if all the plants were cut in half, the range wouldn't change.
+Katie says if all the plants grew by \( 3 \mathrm{~cm} \) each, the range wouldn't change.
+Who do you agree with?
+</Question>
+<Answer>Only
+Tom</Answer>
+<Misconception>Believes if you changed all values by the same proportion the range would not change</Misconception>","<Construct>Calculate the range from a list of data</Construct>
+<Subject>Range and Interquartile Range from a List of Data</Subject>
+<Question>
+Ashley and Ryan are discussing the \( 5 \) test scores with these values:
+\( 72, 51, 98, 82, 65 \)
+Ashley says if all the scores are multiplied by \( 2 \), the range wouldn't change.
+Ryan says if all the scores are increased by \( 10 \), the range wouldn't change.
+Who do you agree with?
+</Question>
+<Answer>Only Ryan</Answer>"
+"<Construct>Calculate the range from a list of data/Construct>
+<Subject>Range and Interquartile Range from a List of Data/Subject>
+<Question>
+Tom and Katie are discussing the \( 5 \) plants with these heights:
+\( 24 \mathrm{~cm}, 17 \mathrm{~cm}, 42 \mathrm{~cm}, 26 \mathrm{~cm}, 13 \mathrm{~cm} \)
+Tom says if all the plants were cut in half, the range wouldn't change.
+Katie says if all the plants grew by \( 3 \mathrm{~cm} \) each, the range wouldn't change.
+Who do you agree with?
+</Question>
+<Answer>Both Tom and Katie</Answer>
+<Misconception>Believes if you changed all values by the same proportion the range would not change</Misconception>","<Construct>Calculate the range from a list of data</Construct>
+<Subject>Range and Interquartile Range from a List of Data</Subject>
+<Question>
+A baker has 5 cakes with these weights:
+\( 8 \mathrm{~kg}, 12 \mathrm{~kg}, 20 \mathrm{~kg}, 10 \mathrm{~kg}, 15 \mathrm{~kg} \)
+The baker triples the weight of each cake.
+Do the cakes now have the same range of weights as they did before?
+</Question>
+<Answer>Yes</Answer>"
+"<Construct>Calculate the range from a list of data/Construct>
+<Subject>Range and Interquartile Range from a List of Data/Subject>
+<Question>
+Tom and Katie are discussing the \( 5 \) plants with these heights:
+\( 24 \mathrm{~cm}, 17 \mathrm{~cm}, 42 \mathrm{~cm}, 26 \mathrm{~cm}, 13 \mathrm{~cm} \)
+Tom says if all the plants were cut in half, the range wouldn't change.
+Katie says if all the plants grew by \( 3 \mathrm{~cm} \) each, the range wouldn't change.
+Who do you agree with?
+</Question>
+<Answer>Neither is correct</Answer>
+<Misconception>Believes if you add the same value to all numbers in the dataset the range will change</Misconception>","<Construct>Calculate the range from a list of data</Construct>
+<Subject>Range and Interquartile Range from a List of Data</Subject>
+<Question>
+Ashley is analyzing the exam scores of her 5 friends:
+56, 71, 49, 61, 58
+Ashley says if each friend scores 4 more marks, the range wouldn't change.
+Ben says if each friend scores were multiplied by 2, the range wouldn't change.
+Who do you agree with?
+</Question>
+<Answer>Neither is correct</Answer>
+<Misconception>Believes if you add the same value to all numbers in the dataset the range will change</Misconception>"
+"<Construct>Recall and use the intersecting diagonals properties of a rectangle/Construct>
+<Subject>Properties of Quadrilaterals/Subject>
+<Question>
+The angles highlighted on this rectangle with different length sides can never be... ![A rectangle with the diagonals drawn in. The angle on the right hand side at the centre is highlighted in red and the angle at the bottom at the centre is highlighted in yellow.]()
+</Question>
+<Answer>acute</Answer>
+<Misconception>Does not know the properties of a rectangle</Misconception>","<Construct>Recall and use the bisecting diagonals properties of a rhombus/Construct>
+<Subject>Properties of Quadrilaterals/Subject>
+<Question>
+The diagonals of a rhombus will always...</Question>
+<Answer>bisect each other at right angles</Answer>
+<Misconception>Does not know the properties of a rhombus</Misconception>
+<Distractor1>have equal length</Distractor1>
+<Distractor2>be perpendicular to each other</Distractor2>
+<Distractor3>not intersect at all</Distractor3>"
+"<Construct>Recall and use the intersecting diagonals properties of a rectangle/Construct>
+<Subject>Properties of Quadrilaterals/Subject>
+<Question>
+The angles highlighted on this rectangle with different length sides can never be... ![A rectangle with the diagonals drawn in. The angle on the right hand side at the centre is highlighted in red and the angle at the bottom at the centre is highlighted in yellow.]()
+</Question>
+<Answer>obtuse</Answer>
+<Misconception>Does not know the properties of a rectangle</Misconception>","<Construct>Recall and use the opposite sides properties of a rectangle</Construct>
+<Subject>Properties of Quadrilaterals</Subject>
+<Question>
+The lengths of the highlighted sides of this rectangle are never... ![A rectangle with two opposite sides highlighted in blue.]()
+</Question>
+<Answer>different</Answer>
+<Misconception>Does not know the properties of a rectangle</Misconception>"
+"<Construct>Recall and use the intersecting diagonals properties of a rectangle/Construct>
+<Subject>Properties of Quadrilaterals/Subject>
+<Question>
+The angles highlighted on this rectangle with different length sides can never be... ![A rectangle with the diagonals drawn in. The angle on the right hand side at the centre is highlighted in red and the angle at the bottom at the centre is highlighted in yellow.]()
+</Question>
+<Answer>Not enough information</Answer>
+<Misconception>Does not know the properties of a rectangle</Misconception>","<Construct>Recall and use the opposite sides properties of a rectangle</Construct>
+<Subject>Properties of Quadrilaterals</Subject>
+<Question>
+The length of the opposite sides of this rectangle with different length sides can never be... ![A rectangle with two opposite sides labelled as 5cm and 7cm.]()
+</Question>
+<Answer>Unequal</Answer>
+<Misconception>Does not know the properties of a rectangle</Misconception>"
+"<Construct>Substitute positive integer values into formulae involving powers or roots/Construct>
+<Subject>Substitution into Formula/Subject>
+<Question>
+The equation \( f=3 r^{2}+3 \) is used to find values in the table below. What is the value covered by the star? \begin{tabular}{|c|c|c|c|c|}
+\hline\( r \) & \( 1 \) & \( 2 \) & \( 3 \) & \( 4 \) \\
+\hline\( f \) & \( 6 \) & \( 15 \) & \( \color{gold}\bigstar \) & \\
+\hline
+\end{tabular}
+</Question>
+<Answer>\( 24 \)</Answer>
+<Misconception>Thinks you can find missing values in a given table by treating the row as linear and adding on the difference between the first two values given.</Misconception>","<Construct>Substitute positive integer values into formulae involving powers or roots</Construct>
+<Subject>Substitution into Formula</Subject>
+<Question>
+The equation \( v=2 s^{3}-5 \) is used to find values in the table below. What is the value covered by the star? \begin{tabular}{|c|c|c|c|}
+\hline\( s \) & \( 1 \) & \( 2 \) & \( 3 \) \\
+\hline\( v \) & \( -3 \) & \( 3 \) & \( \color{gold}\bigstar \) \\
+\hline
+\end{tabular}
+</Question>
+<Answer>\( 26 \)</Answer>
+<Misconception>Thinks you can find missing values in a given table by treating the row as linear and adding on the difference between the first two values given.</Misconception>"
+"<Construct>Identify a unit of area/Construct>
+<Subject>Area of Simple Shapes/Subject>
+<Question>
+James has answered a question on the area of a trapezium and got an answer of \( 54 \).
+
+Behind the star he has written the units that he used.
+
+\(
+54 \, \bigstar 
+\)
+
+Which of the following units could be correct?
+</Question>
+<Answer>\( m \)</Answer>
+<Misconception>Does not know units of area should be squared</Misconception>","<Construct>Identify a unit of volume/Construct>
+<Subject>Volume of Simple Shapes/Subject>
+<Question>
+Sarah has answered a question on the volume of a cylinder and got an answer of \( 216 \).
+
+Behind the star she has written the units that she used.
+
+\(
+216 \, \bigstar 
+\)
+
+Which of the following units could be correct?
+</Question>
+<Answer>\( m \)</Answer>
+<Misconception>Does not know units of volume should be cubed</Misconception>"
+"<Construct>Identify a unit of area/Construct>
+<Subject>Area of Simple Shapes/Subject>
+<Question>
+James has answered a question on the area of a trapezium and got an answer of \( 54 \).
+
+Behind the star he has written the units that he used.
+
+\(
+54 \, \bigstar 
+\)
+
+Which of the following units could be correct?
+</Question>
+<Answer>\( \mathrm{cm} \)</Answer>
+<Misconception>Does not know units of area should be squared</Misconception>","<Construct>Identify a unit of volume/Construct>
+<Subject>Volume of Simple Shapes/Subject>
+<Question>
+A cube has a volume of 64 cubic units. Behind the star, Emily has written the units that she used.
+
+\(
+64 \, \bigstar 
+\)
+
+Which of the following units could be correct?
+</Question>
+<Answer>\( \mathrm{cm}^3 \)</Answer>
+<Misconception>Does not know units of volume should be cubed</Misconception>"
+"<Construct>Identify a unit of area/Construct>
+<Subject>Area of Simple Shapes/Subject>
+<Question>
+James has answered a question on the area of a trapezium and got an answer of \( 54 \).
+
+Behind the star he has written the units that he used.
+
+\(
+54 \, \bigstar 
+\)
+
+Which of the following units could be correct?
+</Question>
+<Answer>\( \mathrm{km}^{3} \)</Answer>
+<Misconception>Does not know units of area should be squared</Misconception>","<Construct>Identify a unit of area/Construct>
+<Subject>Area of Simple Shapes/Subject>
+<Question>
+Emily has answered a question on the area of a rectangle and got an answer of \( 24 \).
+
+Behind the star she has written the units that she used.
+
+\(
+24 \, \bigstar 
+\)
+
+Which of the following units could be correct?
+</Question>
+<Answer>\( \mathrm{m}^{3} \)</Answer>
+<Misconception>Does not know units of area should be squared</Misconception>"
+"<Construct>Convert two digit integer percentages to fractions/Construct>
+<Subject>Converting between Fractions and Percentages/Subject>
+<Question>
+Convert this percentage to a fraction
+\( 62 \% \)
+</Question>
+<Answer>\( \frac{62}{10} \)</Answer>
+<Misconception>Does not understand a percentage is out of 100</Misconception>","<Construct>Convert two digit integer percentages to fractions</Construct>
+<Subject>Converting between Fractions and Percentages</Subject>
+<Question>Convert this percentage to a fraction 
+\( 85 \% \)
+</Question>
+<Answer>\( \frac{85}{10} \)</Answer>
+<Misconception>Does not understand a percentage is out of 100</Misconception>"
+"<Construct>Convert two digit integer percentages to fractions/Construct>
+<Subject>Converting between Fractions and Percentages/Subject>
+<Question>
+Convert this percentage to a fraction
+\( 62 \% \)
+</Question>
+<Answer>\( \frac{6}{2} \)</Answer>
+<Misconception>Thinks they can convert a 2 digit percentage to a fraction by writing one number over the other.</Misconception>","<Construct>Convert two digit integer percentages to fractions</Construct>
+<Subject>Converting between Fractions and Percentages</Subject>
+<Question>
+Convert this percentage to a fraction
+\( 84 \% \)
+</Question>
+<Answer>\( \frac{8}{4} \)</Answer>
+<Misconception>Thinks they can convert a 2 digit percentage to a fraction by writing one number over the other.</Misconception>"
+"<Construct>Convert two digit integer percentages to fractions/Construct>
+<Subject>Converting between Fractions and Percentages/Subject>
+<Question>
+Convert this percentage to a fraction
+\( 62 \% \)
+</Question>
+<Answer>None of these</Answer>
+<Misconception>Does not understand a percentage is out of 100</Misconception>","<Construct>Convert two digit integer percentages to fractions</Construct>
+<Subject>Converting between Fractions and Percentages</Subject>
+<Question>
+Convert this percentage to a fraction
+\( 85 \% \)
+</Question>
+<Answer>None of these</Answer>
+<Misconception>Does not understand a percentage is out of 100</Misconception>
+(choices: 85/1, 17/20, 1/85)"
+"<Construct>Divide decimals by 10/Construct>
+<Subject>Multiplying and Dividing with Decimals/Subject>
+<Question>
+\( 43.2 \div 10= \)
+</Question>
+<Answer>\( 0.432 \)</Answer>
+<Misconception>Divided by 100 rather than 10</Misconception>","<Construct>Divide decimals by 10/Construct>
+<Subject>Multiplying and Dividing with Decimals/Subject>
+<Question>
+\( 94.5 \div 10= \)
+</Question>
+<Answer>\( 9.45 \)</Answer>
+<Distractors>\( 0.945 \), \( 945 \), \( 94.5 \)</Distractors>"
+"<Construct>Divide decimals by 10/Construct>
+<Subject>Multiplying and Dividing with Decimals/Subject>
+<Question>
+\( 43.2 \div 10= \)
+</Question>
+<Answer>\( 33.2 \)</Answer>
+<Misconception>Subtracts instead of divides</Misconception>","<Construct>Divide decimals by 10/Construct>
+<Subject>Multiplying and Dividing with Decimals/Subject>
+<Question>
+\( 75.5 \div 10= \)
+</Question>
+<Answer>\( 7.55 \)</Answer>
+<Distractors>\( 65.5, 740.5, 70.5 \)</Distractors>
+<Misconception>Subtracts instead of divides</Misconception>"
+"<Construct>Divide decimals by 10/Construct>
+<Subject>Multiplying and Dividing with Decimals/Subject>
+<Question>
+\( 43.2 \div 10= \)
+</Question>
+<Answer>\( 43.02 \)</Answer>
+<Misconception>When dividing a decimal by a multiple of 10, just divides the fractional place values </Misconception>","<Construct>Divide decimals by 10/Construct>
+<Subject>Multiplying and Dividing with Decimals/Subject>
+<Question>
+\( 75.9 \div 10= \)
+</Question>
+<Answer>\( 75.09 \)</Answer>
+<Misconception>When dividing a decimal by a multiple of 10, just divides the fractional place values </Misconception>"
+"<Construct>Subtract proper fractions with different denominators which do not share a common factor/Construct>
+<Subject>Adding and Subtracting Fractions/Subject>
+<Question>
+\(
+\frac{4}{5}-\frac{1}{3}=\frac{\bigstar}{15}
+\)
+What should replace the star?
+</Question>
+<Answer>\( 5 \)</Answer>
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>","<Construct>Subtract proper fractions with different denominators which do not share a common factor</Construct>
+<Subject>Adding and Subtracting Fractions</Subject>
+<Question>
+\(
+\frac{2}{3}-\frac{1}{4}=\frac{\bigstar}{12}
+\)
+What should replace the star?
+</Question>
+<Answer>\( 5 \)</Answer>
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>"
+"<Construct>Subtract proper fractions with different denominators which do not share a common factor/Construct>
+<Subject>Adding and Subtracting Fractions/Subject>
+<Question>
+\(
+\frac{4}{5}-\frac{1}{3}=\frac{\bigstar}{15}
+\)
+What should replace the star?
+</Question>
+<Answer>\( 17 \)</Answer>
+<Misconception>Adds instead of subtracts</Misconception>","<Construct>Subtract proper fractions with different denominators which do not share a common factor</Construct>
+<Subject>Adding and Subtracting Fractions</Subject>
+<Question>
+\(
+\frac{2}{3}-\frac{1}{4}=\frac{\bigstar}{12}
+\)
+What should replace the star?
+</Question>
+<Answer>\( 5 \)</Answer>
+<Misconception>Adds instead of subtracts</Misconception>"
+"<Construct>Subtract proper fractions with different denominators which do not share a common factor/Construct>
+<Subject>Adding and Subtracting Fractions/Subject>
+<Question>
+\(
+\frac{4}{5}-\frac{1}{3}=\frac{\bigstar}{15}
+\)
+What should replace the star?
+</Question>
+<Answer>\( 3 \)</Answer>
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>","<Construct>Subtract proper fractions with different denominators which do not share a common factor</Construct>
+<Subject>Adding and Subtracting Fractions</Subject>
+<Question>
+\(
+\frac{2}{3}-\frac{1}{4}=\frac{\bigstar}{12}
+\)
+What should replace the star?
+</Question>
+<Answer>\( 5 \)</Answer>
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>"
+"<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions/Construct>
+<Subject>Transformations of functions in the form f(x)/Subject>
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x-3)
+\)
+</Question>
+<Answer>Translation by vector
+\(
+\left[\begin{array}{l}
+0 \\
+3
+\end{array}\right]
+\)</Answer>
+<Misconception>Believes f(x - a) translates the function up a units</Misconception>","<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions</Construct>
+<Subject>Transformations of functions in the form f(x)</Subject>
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x-2)
+\)
+</Question>
+<Answer>Translation by vector
+\(
+\left[\begin{array}{l}
+0 \\
+2
+\end{array}\right]
+\)</Answer>
+<Misconception>Believes f(x - a) translates the function up a units</Misconception>"
+"<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions/Construct>
+<Subject>Transformations of functions in the form f(x)/Subject>
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x-3)
+\)
+</Question>
+<Answer>Translation by vector
+\(
+\left[\begin{array}{c}
+0 \\
+-3
+\end{array}\right]
+\)</Answer>
+<Misconception>Believes f(x + a) translates the function up a units</Misconception>","<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions</Construct>
+<Subject>Transformations of functions in the form f(x)</Subject>
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x+2)
+\)
+</Question>
+<Answer>Translation by vector
+\(
+\left[\begin{array}{c}
+0 \\
+2
+\end{array}\right]
+\)</Answer>
+<Misconception>Believes f(x + a) translates the function up a units</Misconception>"
+"<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions/Construct>
+<Subject>Transformations of functions in the form f(x)/Subject>
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x-3)
+\)
+</Question>
+<Answer>Translation by vector
+\(
+\left[\begin{array}{r}
+-3 \\
+0
+\end{array}\right]
+\)</Answer>
+<Misconception>Believes f(x) + a translates the function right a units</Misconception>","<Construct>Identify vertical translations in the form f(x) = for non-trigonometric functions</Construct>
+<Subject>Transformations of functions in the form f(x)</Subject>
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x)+5
+\)
+</Question>
+<Answer>Translation by vector
+\(
+\left[\begin{array}{r}
+0 \\
+5
+\end{array}\right]
+\)</Answer>
+<Misconception>Believes f(x) + a translates the function right a units</Misconception>"
+"<Construct>Expand products of three binomials in the form (x + a)(x + b)(x + c)/Construct>
+<Subject>Expanding Triple Brackets and more/Subject>
+<Question>
+John is expanding these three brackets:
+\(
+(x+5)(x-3)(x+6)
+\)
+
+He finds it helpful to split the first bracket and view the problem as follows:
+\(
+x(x-3)(x+6)+5(x-3)(x+6)
+\)
+
+He expands the brackets further. Before he simplifies, what are the terms than contain an \( \boldsymbol{x}^{2} \) ?
+</Question>
+<Answer>\( \begin{array}{l}+6 x^{2} \\ +3 x^{2} \\ +5 x^{2}\end{array} \)</Answer>
+<Misconception>Ignores negative sign when expanding bracket</Misconception>","<Construct>Expand products of three binomials in the form (x + a)(x + b)(x + c)</Construct>
+<Subject>Expanding Triple Brackets and more</Subject>
+<Question>
+Sarah is expanding these three brackets:
+\(
+(x+2)(x-4)(x+3)
+\)
+
+She finds it helpful to split the first bracket and view the problem as follows:
+\(
+x(x-4)(x+3)+2(x-4)(x+3)
+\)
+
+She expands the brackets further. Before she simplifies, what are the terms that contain an \( \boldsymbol{x}^{2} \) ?
+</Question>
+<Answer>\( \begin{array}{l}+4 x^{2} \\ +6 x^{2} \\ +12 x^{2}\end{array} \)</Answer>
+<Misconception>Ignores negative sign when expanding bracket</Misconception>"
+"<Construct>Identify the net of a non-prism/Construct>
+<Subject>Nets/Subject>
+<Question>
+This is the net of a... ![A circle touching a sector]()
+</Question>
+<Answer>Triangle</Answer>
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>","<Construct>Identify the net of a non-prism</Construct>
+<Subject>Nets</Subject>
+<Question>
+This is the net of a... ![Two rectangles connected by a strip]()
+</Question>
+<Answer>Cylinder</Answer>
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>"
+"<Construct>Identify the net of a non-prism/Construct>
+<Subject>Nets/Subject>
+<Question>
+This is the net of a... ![A circle touching a sector]()
+</Question>
+<Answer>Triangular prism</Answer>
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>","<Construct>Identify the net of a non-prism</Construct>
+<Subject>Nets</Subject>
+<Question>
+This is the net of a... ![Two rectangles connected by a square]() 
+</Question>
+<Answer>Cylinder</Answer>
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>"
+"<Construct>Identify the net of a non-prism/Construct>
+<Subject>Nets/Subject>
+<Question>
+This is the net of a... ![A circle touching a sector]()
+</Question>
+<Answer>Triangularbased pyramid</Answer>
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>","<Construct>Identify the net of a non-prism</Construct>
+<Subject>Nets</Subject>
+<Question>
+This is the net of a... ![A square touching a rectangle with a triangle on top]()
+</Question>
+<Answer>Cone</Answer>
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>"
+"<Construct>Identify alternate angles/Construct>
+<Subject>Angle Facts with Parallel Lines/Subject>
+<Question>
+Tom and Katie are arguing about alternate angles.
+Tom says angles \( p \) and \( q \) are alternate.
+
+Katie says angles \( p \) and \( q \) are equal.
+Who is correct? ![Shows two non parallel lines that are intersected by another line. Angles P and Q are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>
+<Answer>Only
+Katie</Answer>
+<Misconception>Thinks alternate angles are always equal</Misconception>","<Construct>Identify alternate angles</Construct>
+<Subject>Angle Facts with Parallel Lines</Subject>
+<Question>
+Lauren and James are arguing about alternate angles.
+Lauren says angles \( r \) and \( s \) are alternate.
+
+James says angles \( r \) and \( s \) are equal.
+Who is correct? ![Shows two non parallel lines that are intersected by another line. Angles R and S are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>
+<Answer>Only James</Answer>
+<Misconception>Thinks alternate angles are always equal</Misconception>"
+"<Construct>Identify alternate angles/Construct>
+<Subject>Angle Facts with Parallel Lines/Subject>
+<Question>
+Tom and Katie are arguing about alternate angles.
+Tom says angles \( p \) and \( q \) are alternate.
+
+Katie says angles \( p \) and \( q \) are equal.
+Who is correct? ![Shows two non parallel lines that are intersected by another line. Angles P and Q are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>
+<Answer>Both Tom and Katie</Answer>
+<Misconception>Thinks alternate angles are always equal</Misconception>","<Construct>Identify alternate angles</Construct>
+<Subject>Angle Facts with Parallel Lines</Subject>
+<Question>
+Maya says angles \( r \) and \( s \) are alternate.
+
+Her friend says angles \( r \) and \( s \) are equal.
+Who is correct? ![Shows two non parallel lines that are intersected by another line. Angles R and S are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>
+<Answer>Both Maya and her friend</Answer>
+<Misconception>Thinks alternate angles are always equal</Misconception>"
+"<Construct>Identify alternate angles/Construct>
+<Subject>Angle Facts with Parallel Lines/Subject>
+<Question>
+Tom and Katie are arguing about alternate angles.
+Tom says angles \( p \) and \( q \) are alternate.
+
+Katie says angles \( p \) and \( q \) are equal.
+Who is correct? ![Shows two non parallel lines that are intersected by another line. Angles P and Q are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>
+<Answer>Neither is correct</Answer>
+<Misconception>Thinks only angles on parallel lines can be alternate</Misconception>","<Construct>Identify alternate angles</Construct>
+<Subject>Angle Facts with Non-Parallel Lines</Subject>
+<Question>
+Ashley and Ben are discussing alternate angles.
+Ashley says angles \(r\) and \(s\) are alternate.
+
+Ben says angles \(r\) and \(s\) are equal.
+Who is correct? ![Shows two non-parallel lines that are intersected by another line. Angles R and S are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>
+<Answer>Neither is correct</Answer>
+<Misconception>Thinks only angles on parallel lines can be alternate</Misconception>"
+"<Construct>Convert from hours to minutes/Construct>
+<Subject>Time/Subject>
+<Question>
+Hannah's journey to camp is \( 3 \) hours and \( 16 \) minutes.
+Tori's journey to camp is \( 214 \) minutes.
+What is the difference in their journeys in minutes?
+</Question>
+<Answer>\( 102 \) minutes</Answer>
+<Misconception>Answers as if there are 100 minutes in an hour when changing from hours to minutes</Misconception>","<Construct>Convert from hours to minutes</Construct>
+<Subject>Time</Subject>
+<Question>
+A movie is 2 hours and 24 minutes long.
+What is the length of the movie in minutes?
+</Question>
+<Answer>224 minutes</Answer>
+<Misconception>Answers as if there are 100 minutes in an hour when changing from hours to minutes</Misconception>"
+"<Construct>Select the correct answer to an iteration question to the required degree of accuracy/Construct>
+<Subject>Trial and Improvement and Iterative Methods/Subject>
+<Question>
+\(
+x_{n+1}=5-\frac{1}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=2 \), what is the solution to \( x=5-\frac{1}{x} \) to \( 2 \) decimal places?
+</Question>
+<Answer>\( 4.78 \)</Answer>
+<Misconception>Stops iteration too early when solving equations</Misconception>","<Construct>Select the correct answer to an iteration question to the required degree of accuracy/Construct>
+<Subject>Trial and Improvement and Iterative Methods/Subject>
+<Question>
+\(
+x_{n+1}=3+\frac{2}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=4 \), what is the solution to \( x=3+\frac{2}{x} \) to \( 2 \) decimal places?
+</Question>
+<Answer>\( 3.67 \)</Answer>
+<Misconception>Stops iteration too early when solving equations</Misconception>"
+"<Construct>Select the correct answer to an iteration question to the required degree of accuracy/Construct>
+<Subject>Trial and Improvement and Iterative Methods/Subject>
+<Question>
+\(
+x_{n+1}=5-\frac{1}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=2 \), what is the solution to \( x=5-\frac{1}{x} \) to \( 2 \) decimal places?
+</Question>
+<Answer>\( 4.79128 \ldots \)</Answer>
+<Misconception>Rounds to the wrong degree of accuracy (rounds too little)</Misconception>","<Question>
+\(
+x_{n+1}=\frac{x_{n}+2}{2}
+\)
+
+Using a starting value of \( x_{1}=1 \), what is the solution to \( x=\frac{x+2}{2} \) to \( 1 \) decimal place?
+</Question>
+<Answer>\( 2 \)</Answer>
+<Misconception>Rounds to the wrong degree of accuracy (rounds too little)</Misconception>"
+"<Construct>Select the correct answer to an iteration question to the required degree of accuracy/Construct>
+<Subject>Trial and Improvement and Iterative Methods/Subject>
+<Question>
+\(
+x_{n+1}=5-\frac{1}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=2 \), what is the solution to \( x=5-\frac{1}{x} \) to \( 2 \) decimal places?
+</Question>
+<Answer>\( 4.8 \)</Answer>
+<Misconception>Rounds to the wrong degree of accuracy (significant figures rather than decimal places)</Misconception>","<Construct>Select the correct answer to an iteration question to the required degree of accuracy/Construct>
+<Subject>Trial and Improvement and Iterative Methods/Subject>
+<Question>
+\(
+x_{n+1}=3-\frac{2}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=1.5 \), what is the solution to \( x=3-\frac{2}{x} \) to \( 2 \) decimal places?
+</Question>
+<Answer>\( 2.67 \)</Answer>
+<Misconception>Rounds to the wrong degree of accuracy (significant figures rather than decimal places)</Misconception>"
+"<Construct>Calculate the area of an equilateral triangle where the dimensions are given in the same units/Construct>
+<Subject>Area of Simple Shapes/Subject>
+<Question>
+How would you calculate the area of this triangle? ![A triangle, base 12m. All three sides are equal.]()
+</Question>
+<Answer>\( \frac{12 \times 12}{2} \)</Answer>
+<Misconception>Has used slant height and base to find area of a triangle rather than perpendicular height and base</Misconception>","<Construct>Calculate the area of a right-angled triangle where the dimensions are given in the same units</Construct>
+<Subject>Area of Simple Shapes</Subject>
+<Question>
+What is the area of this triangle? ![A right-angled triangle with base 8cm and hypotenuse 10cm.]()
+</Question>
+<Answer>\( \frac{8 \times 8}{2} \)</Answer>
+<Misconception>Has used slant height and base to find area of a triangle rather than perpendicular height and base</Misconception>"
+"<Construct>Calculate the area of an equilateral triangle where the dimensions are given in the same units/Construct>
+<Subject>Area of Simple Shapes/Subject>
+<Question>
+How would you calculate the area of this triangle? ![A triangle, base 12m. All three sides are equal.]()
+</Question>
+<Answer>\( \frac{12 \times 12 \times 12}{2} \)</Answer>
+<Misconception>Multiplies all given dimensions when calculating an area</Misconception>","<Construct>Calculate the volume of a rectangular prism where the dimensions are given in the same units/Construct>
+<Subject>Volume of Rectangular Prisms/Subject>
+<Question>
+What is the volume of this rectangular prism? ![A rectangular prism, length 6cm, width 4cm, height 5cm.]()
+</Question>
+<Answer>\( 6 \times 4 \times 5 \times 5 \)</Answer>
+<Misconception>Multiplies all given dimensions when calculating an area</Misconception>"
+"<Construct>Divide a quantity into two parts for a given a ratio, where each part is an integer/Construct>
+<Subject>Sharing in a Ratio/Subject>
+<Question>
+In the diagram, AN : NB \( =3: 5 \) 
+What is the distance AN? ![A line that begins with point A, ends with point B, and has point N in between. The entire length of the line measures 48 m.]()
+</Question>
+<Answer>\( 16 \mathrm{~m} \)</Answer>
+<Misconception>Divides total amount by each side of the ratio instead of dividing by the sum of the parts</Misconception>","<Construct>Divide a quantity into two parts for a given a ratio, where each part is an integer</Construct>
+<Subject>Sharing in a Ratio</Subject>
+<Question>
+In the diagram, PN : NC \( =2: 3 \) 
+What is the length of PN? ![A line that begins with point P, ends with point C, and has point N in between. The entire length of the line measures 50 m.]()
+</Question>
+<Answer>\( 20 \mathrm{~m} \)</Answer>
+<Misconception>Divides total amount by each side of the ratio instead of dividing by the sum of the parts</Misconception>"
+"<Construct>Divide a quantity into two parts for a given a ratio, where each part is an integer/Construct>
+<Subject>Sharing in a Ratio/Subject>
+<Question>
+In the diagram, AN : NB \( =3: 5 \) 
+What is the distance AN? ![A line that begins with point A, ends with point B, and has point N in between. The entire length of the line measures 48 m.]()
+</Question>
+<Answer>\( 30 \mathrm{~m} \)</Answer>
+<Misconception>Mixes up sides of a ratio</Misconception>","<Construct>Divide a quantity into two parts for a given a ratio, where each part is an integer</Construct>
+<Subject>Sharing in a Ratio</Subject>
+<Question>
+In the diagram, PQ : QR \( = 2:7 \) 
+What is the length of PQ? ![A line that begins with point P, ends with point R, and has point Q in between. The entire length of the line measures 63 m.]()
+</Question>
+<Answer>\( 18 \mathrm{~m} \)</Answer>
+<Misconception>Mixes up sides of a ratio</Misconception>"
+"<Construct>Divide a quantity into two parts for a given a ratio, where each part is an integer/Construct>
+<Subject>Sharing in a Ratio/Subject>
+<Question>
+In the diagram, AN : NB \( =3: 5 \) 
+What is the distance AN? ![A line that begins with point A, ends with point B, and has point N in between. The entire length of the line measures 48 m.]()
+</Question>
+<Answer>\( 6 \mathrm{~m} \)</Answer>
+<Misconception>Finds one part of a ratio but doesn't multiply that by the number of parts needed</Misconception>","<Construct>Divide a quantity into three parts for a given a ratio, where each part is an integer</Construct>
+<Subject>Sharing in a Ratio</Subject>
+<Question>
+In the diagram, AB : BC : CD = 2 : 3 : 4
+What is the length of BC? ![A line that begins with point A, ends with point D, and has points B and C in between. The entire length of the line measures 90 cm.]()</Question>
+<Answer>45 cm</Answer>"
+"<Construct>Prove statements involving odd and even numbers/Construct>
+<Subject>Ordering Negative Numbers/Subject>
+<Question>
+Which of these shows part of the proof that the sum of two odd numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}2 n+(2 m+1) \\ =2(n+m)+1\end{array} \)</Answer>
+<Misconception>Does not understand that 2n represents an even number</Misconception>","<Construct>Prove statements involving odd and even numbers/Construct>
+<Subject>Ordering Negative Numbers/Subject>
+<Question>
+Which of these shows part of the proof that the product of two even numbers is even?
+</Question>
+<Answer>\( 2n\times2m = 4nm \)</Answer>
+<Misconception>Does not understand that 2n represents an even number</Misconception>"
+"<Construct>Prove statements involving odd and even numbers/Construct>
+<Subject>Ordering Negative Numbers/Subject>
+<Question>
+Which of these shows part of the proof that the sum of two odd numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}(2 n-1)(2 m+1) \\ =4 m n+2 n-2 m-1 \\ =2(2 m n-n-m)+1\end{array} \)</Answer>
+<Misconception>Does not know the meaning of the word ""sum""</Misconception>","<Construct>Manipulate algebraic expressions/Construct>
+<Subject>Expanding Brackets/Subject>
+<Question>
+Which of these shows part of the proof that the product of two binomials is a perfect square?
+</Question>
+<Answer>\( (x+y)^{2}=x^{2}+2xy+y^{2} \)</Answer>
+<Misconception>Does not know the meaning of the word ""product""</Misconception>"
+"<Construct>Prove statements involving odd and even numbers/Construct>
+<Subject>Ordering Negative Numbers/Subject>
+<Question>
+Which of these shows part of the proof that the sum of two odd numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}\text { Odd + Odd } \\ =\text { even }\end{array} \)</Answer>
+<Misconception>Does not understand that 2n represents an even number</Misconception>","<Construct>Prove statements involving odd and even numbers</Construct>
+<Subject>Ordering Negative Numbers</Subject>
+<Question>
+Which of these shows part of the proof that the product of two even numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}\text { 2n * 2m } \\ =\text { 2(2nm) }\end{array} \)</Answer>
+<Misconception>Does not understand that 2n represents an even number</Misconception>"
+"<Construct>Carry out missing number subtraction problems involving negative integers/Construct>
+<Subject>Adding and Subtracting Negative Numbers/Subject>
+<Question>
+![Number line with -12 and -7 marked. Starting at -12, follow an arrow pointing to the right labelled +10. Then there is an arrow labelled b pointing to the left, which ends at -7 on the number line.]() What is the value of \( b \) ?
+</Question>
+<Answer>\( -7 \)</Answer>
+<Misconception>Assumes that an arrow on a number line starts at zero</Misconception>","![Number line with -15 and -9 marked. Starting at -15, follow an arrow pointing to the right labelled +8. Then there is an arrow labelled c pointing to the left, which ends at -9 on the number line.]() What is the value of \( c \) ?
+A) -8
+B) -6
+C) -24
+D) -15"
+"<Construct>Carry out missing number subtraction problems involving negative integers/Construct>
+<Subject>Adding and Subtracting Negative Numbers/Subject>
+<Question>
+![Number line with -12 and -7 marked. Starting at -12, follow an arrow pointing to the right labelled +10. Then there is an arrow labelled b pointing to the left, which ends at -7 on the number line.]() What is the value of \( b \) ?
+</Question>
+<Answer>\( -6 \)</Answer>
+<Misconception>Counts the starting number when counting backwards</Misconception>","<Construct>Carry out missing number subtraction problems involving negative integers</Construct>
+<Subject>Adding and Subtracting Negative Numbers</Subject>
+<Question>
+![Number line with -8 and -3 marked. Starting at -8, follow an arrow pointing to the right labelled +5. Then there is an arrow labelled a pointing to the left, which ends at -3 on the number line.]() What is the value of \( a \) ?
+</Question>
+<Answer>\( -5 \)</Answer>
+<Misconception>Counts the starting number when counting backwards</Misconception>"
+"<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other/Construct>
+<Subject>Adding and Subtracting Algebraic Fractions/Subject>
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{1}{s}-\frac{t}{3} \)
+</Question>
+<Answer>\( \frac{1-t}{3 s} \)</Answer>
+<Misconception>When subtracting fractions, subtracts the numerators and multiplies the denominators</Misconception>","<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other/Construct>
+<Subject>Adding and Subtracting Algebraic Fractions/Subject>
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{2}{a}-\frac{3}{b} \)
+</Question>
+<Answer>\( \frac{2b-3a}{ab} \)</Answer>
+<Misconception>When subtracting fractions, subtracts the numerators and multiplies the denominators</Misconception>"
+"<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other/Construct>
+<Subject>Adding and Subtracting Algebraic Fractions/Subject>
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{1}{s}-\frac{t}{3} \)
+</Question>
+<Answer>\( \frac{s-3 t}{3 s} \)</Answer>
+<Misconception>Believes they should multiply each numerator by its original denominator when adding/subtracting fractions</Misconception>","<Construct>Simplify algebraic fractions where the numerator and denominator are single terms and are not multiples of each other</Construct>
+<Subject>Simplifying Algebraic Fractions</Subject>
+<Question>
+Simplify the following fraction, writing your answer as simply as possible: \( \frac{2x}{4} \)
+</Question>
+<Answer>\( \frac{x}{2} \)</Answer>
+<Misconception>Believes they should multiply each numerator by its original denominator when adding/subtracting fractions</Misconception>"
+"<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other/Construct>
+<Subject>Adding and Subtracting Algebraic Fractions/Subject>
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{1}{s}-\frac{t}{3} \)
+</Question>
+<Answer>\( \frac{1-t}{s-3} \)</Answer>
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>","<Construct>Simplify algebraic expressions by combining like terms and cancelling out any common factors/Construct>
+<Subject>Algebraic Expressions/Subject>
+<Question>
+Simplify the expression: \( 2x + 3x^2 - x^2 \)
+</Question>
+<Answer>\( 2x + 2x^2 \)</Answer>
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>"
+"<Construct>Given the volume of a cuboid, work out missing information/Construct>
+<Subject>Volume of Prisms/Subject>
+<Question>
+The volume of this cuboid is \( 30 \mathrm{~cm}^{3} \)
+
+What length should replace the star? ![A cuboid, depth 2cm and height 3cm. The width is labelled with a star.]()
+</Question>
+<Answer>\( 25 \mathrm{~cm} \)</Answer>
+<Misconception>Adds when calculating volume instead of multiplying</Misconception>","<Construct>Given the volume of a cuboid, work out missing information</Construct>
+<Subject>Volume of Prisms</Subject>
+<Question>
+The volume of this cuboid is \( 96 \mathrm{~cm}^{3} \)
+
+What height should replace the star? ![A cuboid, depth 4cm and width 6cm. The height is labelled with a star.]()
+</Question>
+<Answer>\( 4 \mathrm{~cm} \)</Answer>
+<Misconception>Adds when calculating volume instead of multiplying</Misconception>"
+"<Construct>Factorise a quadratic expression in the form ax² + bx + c where a is prime/Construct>
+<Subject>Factorising into a Double Bracket/Subject>
+<Question>
+Step 1: Factorise the following expression
+
+\(
+3 x^{2}+5 x+2
+\)
+</Question>
+<Answer>\( (3 x+2)(3 x+1) \)</Answer>
+<Misconception>When factorising a quadratic with a non-unit coefficient of x squared, believes that coefficient will be in front of both x terms in the factorised form</Misconception>","<Construct>Factorise a quadratic expression in the form ax² + bx + c where a is prime</Construct>
+<Subject>Factorising into a Double Bracket</Subject>
+<Question>
+Step 1: Factorise the following expression
+
+\(
+5 x^{2}+7 x+2
+\)
+</Question>
+<Answer>\( (5 x+2)(5 x+1) \)</Answer>
+<Misconception>When factorising a quadratic with a non-unit coefficient of x squared, believes that coefficient will be in front of both x terms in the factorised form</Misconception>"
+"<Construct>Given the solution to one problem, deduce the answer to a related problem using the same operation/Construct>
+<Subject>Mental Addition and Subtraction/Subject>
+<Question>
+Tom and Katie are discussing related calculations
+Tom says if you know that \( 3748+426=4174 \), then \( 3748+427 \) must equal \( \mathbf{4 1 7 5} \)
+
+Katie says if you know that \( 3748-426=3322 \), then \( 3748 \) - \( 427 \) must equal \( \mathbf{3 3 2 3} \)
+Who is correct?
+</Question>
+<Answer>Only Katie</Answer>
+<Misconception>Does not realise that adding a larger number gives a larger answer</Misconception>","<Question>
+Alex and Ben are discussing related calculations
+Alex says if you know that 9456 - 279 = 9177, then 9456 - 280 must equal 9179
+Ben says if you know that 9456 + 279 = 9735, then 9456 + 280 must equal 9737
+Who is correct?
+</Question>
+<Answer>Only Alex</Answer>
+<Misconception>Does not realise that adding a larger number gives a larger answer</Misconception>"
+"<Construct>Given the solution to one problem, deduce the answer to a related problem using the same operation/Construct>
+<Subject>Mental Addition and Subtraction/Subject>
+<Question>
+Tom and Katie are discussing related calculations
+Tom says if you know that \( 3748+426=4174 \), then \( 3748+427 \) must equal \( \mathbf{4 1 7 5} \)
+
+Katie says if you know that \( 3748-426=3322 \), then \( 3748 \) - \( 427 \) must equal \( \mathbf{3 3 2 3} \)
+Who is correct?
+</Question>
+<Answer>Both Tom and Katie</Answer>
+<Misconception>Does not realise that subtracting a larger number will give a smaller answer</Misconception>","<Construct>Given the solution to one problem, deduce the answer to a related problem using the same operation/Construct>
+<Subject>Mental Addition and Subtraction/Subject>
+<Question>
+Sophie and Alex are discussing related calculations
+Sophie says if you know that \(2439-198=2241\), then \(2439-199\) must equal \(\mathbf{2 2 4 2}\)
+
+Alex says if you know that \(2439+198=2637\), then \(2439+199\) must equal \(\mathbf{2 6 3 8}\)
+Who is correct?
+</Question>
+<Answer>Both Sophie and Alex</Answer>
+<Misconception>Does not realise that subtracting a larger number will give a smaller answer</Misconception>"
+"<Construct>Interpret sloping linear sections of a displacement-time graph/Construct>
+<Subject>Real Life Graphs/Subject>
+<Question>
+This graph shows how far Fido the dog is from his home.
+What might the negative-sloping section represent? ![A graph with time (secs) on the horizontal axis and distance (m) on the vertical axis. The graph starts at the origin, travels in a straight line up and right, travels horizontally, then travels in a straight line down and right back to the x-axis. ]()
+</Question>
+<Answer>Fido has fallen asleep</Answer>
+<Misconception>Confuses rest and movement on a distance time graph</Misconception>","<Construct>Interpret sloping linear sections of a velocity-time graph</Construct>
+<Subject>Real Life Graphs</Subject>
+<Question>
+This graph shows how fast a car is moving.
+What might the negative-sloping section represent? ![A graph with time (secs) on the horizontal axis and velocity (m/s) on the vertical axis. The graph starts at the origin, travels in a straight line up and right, travels horizontally, then travels in a straight line down and right back to the x-axis. ]()
+</Question>
+<Answer>The car's driver has stopped looking at the road</Answer>
+<Misconception>Confuses rest and movement on a distance time graph</Misconception>"
+"<Construct>Interpret sloping linear sections of a displacement-time graph/Construct>
+<Subject>Real Life Graphs/Subject>
+<Question>
+This graph shows how far Fido the dog is from his home.
+What might the negative-sloping section represent? ![A graph with time (secs) on the horizontal axis and distance (m) on the vertical axis. The graph starts at the origin, travels in a straight line up and right, travels horizontally, then travels in a straight line down and right back to the x-axis. ]()
+</Question>
+<Answer>Fido is accelerating</Answer>
+<Misconception>Believes the gradient of a distance-time graph is the acceleration</Misconception>","<Construct>Interpret sloping linear sections of a velocity-time graph/Construct>
+<Subject>Motion Graphs/Subject>
+<Question>
+This graph shows the velocity of a bike.
+What might the positive-sloping section represent? ![A graph with time (secs) on the horizontal axis and velocity (m/s) on the vertical axis. The graph starts at the origin, travels in a straight line up and right, then travels horizontally. ]()
+</Question>
+<Answer>Fido is accelerating</Answer>
+<Misconception>Believes the gradient of a velocity-time graph is the velocity</Misconception>"
+"<Construct>Interpret sloping linear sections of a displacement-time graph/Construct>
+<Subject>Real Life Graphs/Subject>
+<Question>
+This graph shows how far Fido the dog is from his home.
+What might the negative-sloping section represent? ![A graph with time (secs) on the horizontal axis and distance (m) on the vertical axis. The graph starts at the origin, travels in a straight line up and right, travels horizontally, then travels in a straight line down and right back to the x-axis. ]()
+</Question>
+<Answer>Fido is walking away from home</Answer>
+<Misconception>Believes a downward slope on a distance-time graph means travelling away</Misconception>","<Construct>Understand the concept of velocity on a displacement-time graph/Construct>
+<Subject>Motion/Subject>
+<Question>
+The graph below shows the motion of a car. What might the downward-sloping section represent?
+![A graph with time (s) on the horizontal axis and position (m) on the vertical axis. The graph starts at the origin, travels in a straight line up and right, then travels in a straight line down and right. ]()
+</Question>
+<Answer>The car is slowing down</Answer>
+<Misconception>Believes a downward slope on a distance-time graph means travelling away</Misconception>"
+"<Construct>Solve missing number mental multiplication questions/Construct>
+<Subject>Mental Multiplication and Division/Subject>
+<Question>
+What should replace the star?
+\[
+\bigstar \times 4=108
+\]
+</Question>
+<Answer>\( 432 \)</Answer>
+<Misconception>When solving a problem that requires an inverse operation (e.g. missing number problems), does the original operation</Misconception>","<Construct>Solve missing number mental division questions</Construct>
+<Subject>Mental Multiplication and Division</Subject>
+<Question>
+What should replace the star?
+\[
+18 \div \bigstar = 3
+\]
+</Question>
+<Answer>\( 6 \)</Answer>
+<Misconception>When solving a problem that requires an inverse operation (e.g. missing number problems), does the original operation</Misconception>"
+"<Construct>Solve missing number mental multiplication questions/Construct>
+<Subject>Mental Multiplication and Division/Subject>
+<Question>
+What should replace the star?
+\[
+\bigstar \times 4=108
+\]
+</Question>
+<Answer>\( 104 \)</Answer>
+<Misconception>Adds instead of multiples</Misconception>","<Construct>Solve missing number mental multiplication questions</Construct>
+<Subject>Mental Multiplication and Division</Subject>
+<Question>
+What should replace the star?
+\[
+6 \times \bigstar = 90
+\]
+</Question>
+<Answer>\( 15 \)</Answer>
+<Misconception>Adds instead of multiples</Misconception>"
+"<Construct>Calculate speed where distance and time are in the appropriate units/Construct>
+<Subject>Substitution into Formula/Subject>
+<Question>
+The formula for speed is
+\(
+\text { Speed }=\frac{\text { Distance }}{\text { Time }}
+\)
+A snail travels \( 4 \mathrm{~m} \) in \( 10 \) hours. What was its speed?
+</Question>
+<Answer>\( 40 \) metres per hour</Answer>
+<Misconception>Believes speed is distance multiplied by time</Misconception>","<Construct>Calculate speed where distance and time are in the appropriate units</Construct>
+<Subject>Substitution into Formula</Subject>
+<Question>
+The formula for speed is
+\( 
+\text { Speed }=\frac{\text { Distance }}{\text { Time }}
+\)
+A car travels \( 240 \mathrm{~km} \) in \( 4 \) hours. What was its speed?
+</Question>
+<Answer>\( 60 \) kilometres per hour</Answer>
+<Misconception>Believes speed is distance multiplied by time</Misconception>"
+"<Construct>Calculate speed where distance and time are in the appropriate units/Construct>
+<Subject>Substitution into Formula/Subject>
+<Question>
+The formula for speed is
+\(
+\text { Speed }=\frac{\text { Distance }}{\text { Time }}
+\)
+A snail travels \( 4 \mathrm{~m} \) in \( 10 \) hours. What was its speed?
+</Question>
+<Answer>\( 2.5 \) metres per hour</Answer>
+<Misconception>Believes division is commutative </Misconception>","<Construct>Calculate speed where distance and time are in the appropriate units</Construct>
+<Subject>Substitution into Formula</Subject>
+<Question>
+The formula for speed is 
+\(
+\text { Speed }=\frac{\text { Distance }}{\text { Time }}
+\)
+A car travels 120 km in 2 hours. What was its speed?
+</Question>
+<Answer>60 km per hour</Answer>
+<Misconception>Believes division is commutative</Misconception>"
+"<Construct>Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²/Construct>
+<Subject>Equation of a Circle/Subject>
+<Question>
+What is the equation of this circle? ![A set of axes with a circle drawn. The circle goes through the points (4,0), (0, -4), (-4,0) and (0,4). ]()
+</Question>
+<Answer>\( x^{2}+y^{2}=\sqrt{4} \)</Answer>
+<Misconception>Confuses the square root of the radius with the radius squared in the equation of a circle</Misconception>","<Construct>Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²</Construct>
+<Subject>Equation of a Circle</Subject>
+<Question>
+What is the equation of this circle? ![A set of axes with a circle drawn. The circle goes through the points (3,0), (0, -3), (-3,0) and (0,3). ]()
+</Question>
+<Answer>\( x^{2}+y^{2}=\sqrt{9} \)</Answer>
+<Distractors>\( x^{2}+y^{2}=9 \), \( x^{2}+y^{2}=3 \), \( x^{2}+y^{2}=27 \)</Distractors>"
+"<Construct>Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²/Construct>
+<Subject>Equation of a Circle/Subject>
+<Question>
+What is the equation of this circle? ![A set of axes with a circle drawn. The circle goes through the points (4,0), (0, -4), (-4,0) and (0,4). ]()
+</Question>
+<Answer>\( x^{2}+y^{2}=8 \)</Answer>
+<Misconception>Mixes up squaring and multiplying by 2 or doubling</Misconception>","<Construct>Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²</Construct>
+<Subject>Equation of a Circle</Subject>
+<Question>
+What is the equation of this circle? ![A set of axes with a circle drawn. The circle goes through the points (3,0), (0, -3), (-3,0) and (0,3). ]()
+</Question>
+<Answer>\( x^{2}+y^{2}=9 \)</Answer>
+<Distractor1>\( x^{2}+y^{2}=6 \)</Distractor1>
+<Distractor2>\( x^{2}+y^{2}=18 \)</Distractor2>
+<Distractor3>\( x^{2}+y^{2}=3^{2}*2 \)</Distractor3>"
+"<Construct>Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²/Construct>
+<Subject>Equation of a Circle/Subject>
+<Question>
+What is the equation of this circle? ![A set of axes with a circle drawn. The circle goes through the points (4,0), (0, -4), (-4,0) and (0,4). ]()
+</Question>
+<Answer>\( x^{2}+y^{2}=4 \)</Answer>
+<Misconception>Confuses the radius with the radius squared in the equation of a circle</Misconception>","<Construct>Given a sketch of a circle with centre at the origin, write its equation in the form x² + y² = r²/Construct>
+<Subject>Equation of a Circle/Subject>
+<Question>
+What is the equation of this circle? ![A set of axes with a circle drawn. The circle goes through the points (3,0), (0, -3), (-3,0) and (0,3). ]()
+</Question>
+<Answer>\( x^{2}+y^{2}=9 \)</Answer>
+<Distractor1>\( x^{2}+y^{2}=3 \)</Distractor1>
+<Distractor2>\( x^{2}+y^{2}=6 \)</Distractor2>
+<Distractor3>\( x+y=3 \)</Distractor3>"
+"<Construct>Substitute negative integer values into expressions involving no powers or roots/Construct>
+<Subject>Substitution into Formula/Subject>
+<Question>
+If \( d=-2 \) what is the value of \( 10-2 d \) ?
+</Question>
+<Answer>\( 6 \)</Answer>
+<Misconception>Believes multiplying two negatives gives a negative answer</Misconception>","<Construct>Substitute negative integer values into expressions involving no powers or roots</Construct>
+<Subject>Substitution into Formula</Subject>
+<Question>
+If \( x=-3 \) what is the value of \( 7+x \) ?
+</Question>
+<Answer>\( 4 \)</Answer>
+<Distractors>\( -10, -4, 10 \)</Distractors>"
+"<Construct>Count backwards in steps of of something other than one/Construct>
+<Subject>Counting/Subject>
+<Question>
+George is counting backwards in steps of \( 5 \).
+He starts at the number \( 19,103 \) what is the next number he will say?
+</Question>
+<Answer>\( 19,102 \)</Answer>
+<Misconception>Counts on by 1, when asked to count forward/backwards in a step other than 1</Misconception>","<Construct>Count backwards in steps of of something other than one/Construct>
+<Subject>Counting/Subject>
+<Question>
+Maya is counting backwards in steps of \( 3 \).
+She starts at the number \( 24 \) what is the next number she will say?
+</Question>
+<Answer>\( 21 \)</Answer>
+<Misconception>Counts on by 1, when asked to count forward/backwards in a step other than 1</Misconception>
+<Distractor1>\( 23 \)</Distractor1>
+<Distractor2>\( 25 \)</Distractor2>
+<Distractor3>\( 27 \)</Distractor3>"
+"<Construct>Count backwards in steps of of something other than one/Construct>
+<Subject>Counting/Subject>
+<Question>
+George is counting backwards in steps of \( 5 \).
+He starts at the number \( 19,103 \) what is the next number he will say?
+</Question>
+<Answer>\( 19,099 \)</Answer>
+<Misconception>Counts the starting number when counting backwards</Misconception>","<Construct>Count backwards in steps of of something other than one</Construct>
+<Subject>Counting</Subject>
+<Question>
+Sarah is counting backwards in steps of \( 3 \).
+She starts at the number \( 24,570 \) what is the next number she will say?
+</Question>
+<Answer>\( 24,567 \)</Answer>
+<Distractors>\( 24,570 \), \( 24,573 \), \( 24,566 \)</Distractors>
+<Misconception>Counts the starting number when counting backwards</Misconception>"
+"<Construct>Solve linear inequalities in one variable where the unknown appears on boths sides of the equation/Construct>
+<Subject>Solving Linear Inequalities/Subject>
+<Question>
+Solve
+\[
+2 n+3 \leq 3 n-7
+\]
+</Question>
+<Answer>\( 2 \leq n \)</Answer>
+<Misconception>When solving an equation, uses the same operation rather than the inverse.</Misconception>","<Construct>Solve linear equations in one variable where the unknown appears on both sides of the equation</Construct>
+<Subject>Solving Linear Equations</Subject>
+<Question>
+Solve
+\[
+2 x-4=3 x+2
+\]
+</Question>
+<Answer>\( x=-6 \)</Answer>
+<Misconception>When solving an equation, uses the same operation rather than the inverse.</Misconception>"
+"<Construct>Solve linear inequalities in one variable where the unknown appears on boths sides of the equation/Construct>
+<Subject>Solving Linear Inequalities/Subject>
+<Question>
+Solve
+\[
+2 n+3 \leq 3 n-7
+\]
+</Question>
+<Answer>\( n \leq 10 \)</Answer>
+<Misconception>Believes they can multiply/divide through by a negative number without changing the direction of the inequality</Misconception>","<Construct>Solve linear inequalities in one variable where the unknown appears on boths sides of the equation</Construct>
+<Subject>Solving Linear Inequalities</Subject>
+<Question>
+Solve
+\[
+5 x-2 \geq 2 x+11
+\]
+</Question>
+<Answer>\( x \geq -13 \)</Answer>
+<Misconception>Believes they can multiply/divide through by a negative number without changing the direction of the inequality</Misconception>"
+"<Construct>Solve linear inequalities in one variable where the unknown appears on boths sides of the equation/Construct>
+<Subject>Solving Linear Inequalities/Subject>
+<Question>
+Solve
+\[
+2 n+3 \leq 3 n-7
+\]
+</Question>
+<Answer>\( -4 \leq n \)</Answer>
+<Misconception>When solving an equation, uses the same operation rather than the inverse.</Misconception>","<Construct>Solve linear inequalities in one variable where the unknown appears on both sides of the equation</Construct>
+<Subject>Solving Linear Inequalities</Subject>
+<Question>
+Solve
+\[
+4 x-2=2 x+8
+\]
+</Question>
+<Answer>\( x \leq 5 \)</Answer>
+<Misconception>When solving an equation, uses the same operation rather than the inverse.</Misconception>"
+"<Construct>Determine the function of a single function machine used to create an algebraic expression/Construct>
+<Subject>Function Machines/Subject>
+<Question>
+Tom and Katie are discussing this function machine ![A function machine with an input of m+2, no function labelled and an output of 3m+2]() Tom says the function could be \( +2 m \)
+Katie says the function could be \( \times 3 \)
+Who do you agree with?
+</Question>
+<Answer>Both Tom and Katie</Answer>
+<Misconception>Only multiplies the first term in the expansion of a bracket</Misconception>","<Construct>Determine the function of a single function machine used to create an algebraic expression</Construct>
+<Subject>Function Machines</Subject>
+<Question>
+Jaden and Ava are discussing this function machine ![A function machine with an input of 2x-1, no function labelled and an output of 4x-2]() Jaden says the function could be \( \times 2 \)
+Ava says the function could be \( -1 \) added to it
+Who do you agree with?
+</Question>
+<Answer>Only Jaden</Answer>
+<Misconception>Only multiplies the first term in the expansion of a bracket</Misconception>"
+"<Construct>Convert between cm and m/Construct>
+<Subject>Length Units/Subject>
+<Question>
+\[450 \mathrm{~cm}=\] \[\square \mathrm{~m}\] 
+</Question>
+<Answer>\( 45 \)</Answer>
+<Misconception>Thinks there are 10cm in a metre</Misconception>","<Construct>Convert between cm and m</Construct>
+<Subject>Length Units</Subject>
+<Question>
+\[720 \mathrm{~cm}=\] \[\square \mathrm{~m}\] 
+</Question>
+<Answer>\( 72 \)</Answer>
+<Misconception>Thinks there are 10cm in a metre</Misconception>"
+"<Construct>Convert between cm and m/Construct>
+<Subject>Length Units/Subject>
+<Question>
+\[450 \mathrm{~cm}=\] \[\square \mathrm{~m}\] 
+</Question>
+<Answer>\( 5 \)</Answer>
+<Misconception>Gives a rounded whole number instead of a decimal</Misconception>","<Construct>Convert between cm and m</Construct>
+<Subject>Length Units</Subject>
+<Question>
+\[270 \mathrm{~cm}=\] \[\square \mathrm{~m}\] 
+</Question>
+<Answer>\( 2.7 \)</Answer>
+<Misconception>Gives a rounded whole number instead of a decimal</Misconception>"
+"<Construct>Convert between cm and m/Construct>
+<Subject>Length Units/Subject>
+<Question>
+\[450 \mathrm{~cm}=\] \[\square \mathrm{~m}\] 
+</Question>
+<Answer>\( 45000 \)</Answer>
+<Misconception>Multiplies when converting to a larger unit</Misconception>","<Construct>Convert between mm and cm</Construct>
+<Subject>Length Units</Subject>
+<Question>
+\[750 \mathrm{~mm}=\] \[\square \mathrm{~cm}\] 
+</Question>
+<Answer>\( 7.5 \)</Answer>
+<Misconception>Multiplies when converting to a larger unit</Misconception>"
+"<Construct>Solve linear equations with the variable appearing on both sides, involving positive fractions/Construct>
+<Subject>Linear Equations/Subject>
+<Question>
+Which of the following is a correct first step to solve this equation:
+\(\frac{2 r-3}{5}=2+r\)
+</Question>
+<Answer>\( \frac{2 r}{5}=5+r \)</Answer>
+<Misconception>Adds or subtracts from numerator first when solving an equation with a fraction</Misconception>","<Construct>Solve linear equations with the variable appearing on both sides, involving positive fractions</Construct>
+<Subject>Linear Equations</Subject>
+<Question>
+Which of the following is a correct first step to solve this equation:
+\(\frac{x+2}{3}=x-1\)
+</Question>
+<Answer>\(\frac{x}{3}=x-5\)</Answer>
+<Misconception>Adds or subtracts from numerator first when solving an equation with a fraction</Misconception>"
+"<Construct>Solve linear equations with the variable appearing on both sides, involving positive fractions/Construct>
+<Subject>Linear Equations/Subject>
+<Question>
+Which of the following is a correct first step to solve this equation:
+\(\frac{2 r-3}{5}=2+r\)
+</Question>
+<Answer>\( 10 r-15=10+5 r \)</Answer>
+<Misconception>Incorrectly clears fractions from equations</Misconception>","<Construct>Solve linear equations with the variable appearing on both sides, involving positive fractions</Construct>
+<Subject>Linear Equations</Subject>
+<Question>
+Which of the following is a correct first step to solve this equation:
+\(\frac{x+2}{4}=x-1\)
+</Question>
+<Answer>\(x+2=4x-4\)</Answer>
+<Misconception>Incorrectly clears fractions from equations</Misconception>"
+"<Construct>Solve linear equations with the variable appearing on both sides, involving positive fractions/Construct>
+<Subject>Linear Equations/Subject>
+<Question>
+Which of the following is a correct first step to solve this equation:
+\(\frac{2 r-3}{5}=2+r\)
+</Question>
+<Answer>\( 2 r-3=10+r \)</Answer>
+<Misconception>When solving an equation with a fraction, thinks you don't need to multiply every term on both sides when multiplying by the denominator </Misconception>","<Construct>Solve linear equations with the variable appearing on both sides, involving positive fractions</Construct>
+<Subject>Linear Equations</Subject>
+<Question>
+Which of the following is a correct first step to solve this equation:
+\(\frac{x+2}{3}=x+1\)
+</Question>
+<Answer>\( x+2=3x+3 \)</Answer>
+<Misconception>When solving an equation with a fraction, thinks you don't need to multiply every term on both sides when multiplying by the denominator </Misconception>"
+"<Construct>Given a situation sketch an appropriate real life graph/Construct>
+<Subject>Real Life Graphs/Subject>
+<Question>
+Water is poured into a glass at a constant rate.
+
+This graph shows how the depth \( (d) \) of water in a glass changes over time \( (t) \).
+
+Which of the following glasses is this most likely to be the graph of? ![A depth-time graph which is a curve starting at (0, 0), with a steep gradient to begin with but then the gradient decreases and the graph levels off to almost horizontal.]()
+</Question>
+<Answer>![A cylinder sitting on one of its circular faces.]()</Answer>
+<Misconception>Does not interpret a sloping gradient as a change in rate</Misconception>","<Construct>Given a situation sketch an appropriate real life graph/Construct>
+<Subject>Real Life Graphs/Subject>
+<Question>
+A bouncing ball is dropped from a height.
+
+This graph shows how the height \( (h) \) of the ball changes over time \( (t) \).
+
+Which of the following is this most likely to be the graph of? ![A height-time graph which is a curve starting at a high point, with a steep gradient to begin with but then the gradient decreases and the graph levels off to almost horizontal.]()
+</Question>
+<Answer>![A ball bouncing on a floor.]()</Answer>
+<Misconception>Does not interpret a sloping gradient as a change in rate</Misconception>"
+"<Construct>Given a situation sketch an appropriate real life graph/Construct>
+<Subject>Real Life Graphs/Subject>
+<Question>
+Water is poured into a glass at a constant rate.
+
+This graph shows how the depth \( (d) \) of water in a glass changes over time \( (t) \).
+
+Which of the following glasses is this most likely to be the graph of? ![A depth-time graph which is a curve starting at (0, 0), with a steep gradient to begin with but then the gradient decreases and the graph levels off to almost horizontal.]()
+</Question>
+<Answer>![A narrow cylinder with a wide cylinder on top.]()</Answer>
+<Misconception>Does not spot the difference between a gradual change of gradient and 2 distinct line segments with different constant gradients</Misconception>","<Construct>Given a situation sketch an appropriate real life graph</Construct>
+<Subject>Real Life Graphs</Subject>
+<Question>
+A car starts from rest and accelerates uniformly to a certain speed. It then travels at this constant speed for a certain period of time.
+
+This graph shows how the speed (v) of the car changes over time (t).
+
+Which of the following is this most likely to be the graph of?
+![A speed-time graph which is a curve starting at (0, 0), with a steep gradient to begin with but then the gradient decreases and the graph levels off to almost horizontal.]()
+</Question>
+<Answer>![None of the above.]()</Answer>
+<Misconception>Does not spot the difference between a gradual change of gradient and 2 distinct line segments with different constant gradients</Misconception>"
+"<Construct>Find another power of 10 less than a given number/Construct>
+<Subject>Place Value/Subject>
+<Question>
+What number is \( 10,000 \) less than \( 901,426 \) ?
+</Question>
+<Answer>\( 801,426 \)</Answer>
+<Misconception>When subtracting a power of 10, subtracts from the wrong column</Misconception>","<Construct>Find another power of 10 less than a given number</Construct>
+<Subject>Place Value</Subject>
+<Question>What number is \( 100,000 \) less than \( 2,547,893 \) ?</Question>
+<Answer>\( 2,447,893 \)</Answer>
+<Misconception>When subtracting a power of 10, subtracts from the wrong column</Misconception>"
+"<Construct>Find another power of 10 less than a given number/Construct>
+<Subject>Place Value/Subject>
+<Question>
+What number is \( 10,000 \) less than \( 901,426 \) ?
+</Question>
+<Answer>\( 911,426 \)</Answer>
+<Misconception>Adds rather than subtracts when answering worded problems</Misconception>","<Construct>Find another power of 10 less than a given number</Construct>
+<Subject>Place Value</Subject>
+<Question>
+What number is \( 1,000,000 \) less than \( 4,321,987 \) ?
+</Question>
+<Answer>\( 3,321,987 \)</Answer>
+<Misconception>Adds rather than subtracts when answering worded problems</Misconception>"
+"<Construct>Find another power of 10 less than a given number/Construct>
+<Subject>Place Value/Subject>
+<Question>
+What number is \( 10,000 \) less than \( 901,426 \) ?
+</Question>
+<Answer>\( 90.1426 \)</Answer>
+<Misconception>Divides rather than subtracts when given the command 'less than'</Misconception>","<Construct>Find another power of 10 more than a given number</Construct>
+<Subject>Place Value</Subject>
+<Question>
+What number is 10,000 more than 753,219 ?
+</Question>
+<Answer>
+863,219
+</Answer>
+<Distractor>763.219</Distractor>
+<Distractor>7,532.19</Distractor>
+<Distractor>75,321.9</Distractor>
+<Misconception>Divides rather than adds when given the command 'more than'</Misconception>"
+"<Construct>Convert decimals less than 1 with 1 decimal place to percentages/Construct>
+<Subject>Converting between Decimals and Percentages/Subject>
+<Question>
+Convert this decimal to a percentage
+\[
+0.6
+\]
+</Question>
+<Answer>\( 6 \% \)</Answer>
+<Misconception>Multiplies by 10 instead of 100 when converting decimal to percentage</Misconception>","<Construct>Convert decimals less than 1 with 1 decimal place to percentages</Construct>
+<Subject>Converting between Decimals and Percentages</Subject>
+<Question>
+Convert this decimal to a percentage
+\[
+0.3
+\]
+</Question>
+<Answer>\( 30 \% \)</Answer>
+<Distractor1>\( 3 \% \)</Distractor1>
+<Distractor2>\( 0.003 \% \)</Distractor2>
+<Distractor3>\( 0.03 \% \)</Distractor3>"
+"<Construct>Convert decimals less than 1 with 1 decimal place to percentages/Construct>
+<Subject>Converting between Decimals and Percentages/Subject>
+<Question>
+Convert this decimal to a percentage
+\[
+0.6
+\]
+</Question>
+<Answer>\( 0.6 \% \)</Answer>
+<Misconception>Thinks you need to just add a % sign to a decimal to convert to a percentage</Misconception>","<Construct>Convert decimals less than 1 with 2 decimal places to percentages</Construct>
+<Subject>Converting between Decimals and Percentages</Subject>
+<Question>
+Convert this decimal to a percentage
+\[
+0.45
+\]
+</Question>
+<Answer>\( 0.45 \% \)</Answer>
+<Misconception>Thinks you need to just add a % sign to a decimal to convert to a percentage</Misconception>"
+"<Construct>Convert decimals less than 1 with 1 decimal place to percentages/Construct>
+<Subject>Converting between Decimals and Percentages/Subject>
+<Question>
+Convert this decimal to a percentage
+\[
+0.6
+\]
+</Question>
+<Answer>\( 0.006 \% \)</Answer>
+<Misconception>Divides instead of multiplies when converting a decimal to a percentage</Misconception>","<Construct>Convert decimals less than 1 with 1 decimal place to percentages</Construct>
+<Subject>Converting between Decimals and Percentages</Subject>
+<Question>
+Convert this decimal to a percentage
+\[
+0.8
+\]
+</Question>
+<Answer>\( 0.008 \% \)</Answer>
+<Misconception>Divides instead of multiplies when converting a decimal to a percentage</Misconception>"

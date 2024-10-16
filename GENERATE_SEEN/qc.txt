@@ -1,0 +1,524 @@
+<Construct>Use the order of operations to carry out calculations involving division and subtraction</Construct>  
+<Subject>BIDMAS</Subject>  
+<Question>  
+\[
+16 - 4 \div 2
+\]  
+Where do the brackets need to go to make the answer equal \( 6 \) ?  
+</Question>  
+<Answer>Does not need brackets</Answer>  
+<Misconception>Confuses the order of operations, believes subtraction comes before division</Misconception>  
+
+<Construct>Simplify an algebraic fraction by factorising the numerator</Construct>  
+<Subject>Simplifying Algebraic Fractions</Subject>  
+<Question>  
+Simplify the following, if possible: \( \frac{m^{2}-5m+6}{m-2} \)  
+</Question>  
+<Answer> \( m-3 \) </Answer>  
+<Misconception>Does not know that to factorise a quadratic expression, one must find two numbers that add to give the coefficient of the \( m \) term and multiply to give the constant term</Misconception>  
+
+<Construct>Simplify an algebraic fraction by factorising the numerator</Construct>  
+<Subject>Simplifying Algebraic Fractions</Subject>  
+<Question>  
+Simplify the following, if possible: \( \frac{x^{2}-4}{x-2} \)  
+</Question>  
+<Answer>\( x+2 \)</Answer>  
+<Misconception>Thinks that when you cancel identical terms from the numerator and denominator, they just disappear</Misconception>  
+
+<Construct>Simplify an algebraic fraction by factorising the numerator</Construct>  
+<Subject>Simplifying Algebraic Fractions</Subject>  
+<Question>  
+Simplify the following, if possible: \( \frac{x^{2}-6x+8}{x-2} \)  
+</Question>  
+<Answer>\( x-4 \)</Answer>  
+<Misconception>Does not know that to factorise a quadratic expression, to find two numbers that add to give the coefficient of the x term, and multiply to give the non variable term</Misconception>  
+
+<Construct>Calculate the range from a list of data</Construct>  
+<Subject>Range and Interquartile Range from a List of Data</Subject>  
+<Question>  
+Emma and Jake are discussing the \( 5 \) scores in a game:  
+\( 15, 22, 30, 10, 25 \)  
+Emma claims that if all the scores were doubled, the range would remain the same. Jake argues that if \( 5 \) points were added to each score, the range would also remain the same. Who do you agree with?  
+</Question>  
+<Answer>Only  
+Jake</Answer>  
+<Misconception>Believes if you changed all values by the same proportion the range would not change</Misconception>  
+
+<Construct>Calculate the range from a list of data</Construct>  
+<Subject>Range and Interquartile Range from a List of Data</Subject>  
+<Question>  
+Liam and Olivia are discussing the \( 5 \) test scores:  
+\( 12, 18, 25, 30, 15 \)  
+Liam claims that if all the scores were multiplied by \( 2 \), the range would remain the same. Olivia argues that if \( 4 \) points were added to each score, the range would also remain the same. Who do you agree with?  
+</Question>  
+<Answer>Both Liam and Olivia</Answer>  
+<Misconception>Believes if you changed all values by the same proportion the range would not change</Misconception>  
+
+<Construct>Calculate the range from a list of data</Construct>  
+<Subject>Range and Interquartile Range from a List of Data</Subject>  
+<Question>  
+Ava and Noah are discussing the \( 5 \) temperatures recorded throughout the week:  
+\( 30^\circ C, 25^\circ C, 35^\circ C, 28^\circ C, 22^\circ C \)  
+Ava claims that if all the temperatures were reduced by \( 5^\circ C \), the range would remain the same. Noah argues that if all the temperatures were increased by \( 10^\circ C \), the range would also remain the same. Who do you agree with?  
+</Question>  
+<Answer>Neither is correct</Answer>  
+<Misconception>Believes if you add the same value to all numbers in the dataset the range will change</Misconception>  
+
+<Construct>Recall and use the intersecting diagonals properties of a rectangle</Construct>  
+<Subject>Properties of Quadrilaterals</Subject>  
+<Question>  
+In the rectangle shown, the diagonals intersect at point \( O \). The angles formed at \( O \) are highlighted in different colors. What can you conclude about these angles?  
+</Question>  
+<Answer>They can never be acute</Answer>  
+<Misconception>Does not know the properties of a rectangle</Misconception>  
+
+<Construct>Substitute positive integer values into formulae involving powers or roots</Construct>  
+<Subject>Substitution into Formula</Subject>  
+<Question>  
+The equation \( f=2 r^{3}+4 \) is used to find values in the table below. What is the value covered by the star? \begin{tabular}{|c|c|c|c|c|}  
+\hline\( r \) & \( 1 \) & \( 2 \) & \( 3 \) & \( 4 \) \\  
+\hline\( f \) & \( 6 \) & \( 20 \) & \( \color{gold}\bigstar \) & \\  
+\hline  
+\end{tabular}  
+</Question>  
+<Answer>\( 38 \)</Answer>  
+<Misconception>Thinks you can find missing values in a given table by treating the row as linear and adding on the difference between the first two values given.</Misconception>
+
+<Construct>Identify a unit of area</Construct>  
+<Subject>Area of Simple Shapes</Subject>  
+<Question>  
+Emily has answered a question on the area of a rectangle and got an answer of \( 30 \).  
+
+Behind the star she has written the units that she used.  
+
+\(
+30 \, \bigstar 
+\)  
+
+Which of the following units could be correct?  
+</Question>  
+<Answer>\( cm \)</Answer>  
+<Misconception>Does not know units of area should be squared</Misconception>  
+
+<Construct>Identify a unit of area</Construct>  
+<Subject>Area of Simple Shapes</Subject>  
+<Question>  
+Sarah has answered a question on the area of a triangle and got an answer of \( 40 \).  
+
+Behind the star she has written the units that she used.  
+
+\(
+40 \, \bigstar 
+\)  
+
+Which of the following units could be correct?  
+</Question>  
+<Answer>\( \mathrm{m} \)</Answer>  
+<Misconception>Does not know units of area should be squared</Misconception>  
+
+<Construct>Identify a unit of area</Construct>  
+<Subject>Area of Simple Shapes</Subject>  
+<Question>  
+Liam has answered a question on the area of a circle and got an answer of \( 78 \).  
+
+Behind the star he has written the units that he used.  
+
+\(
+78 \, \bigstar 
+\)  
+
+Which of the following units could be correct?  
+</Question>  
+<Answer>\( \mathrm{m}^{2} \)</Answer>  
+<Misconception>Does not know units of area should be squared</Misconception>  
+
+<Construct>Convert two digit integer percentages to fractions</Construct>  
+<Subject>Converting between Fractions and Percentages</Subject>  
+<Question>  
+Convert this percentage to a fraction  
+\( 85 \% \)  
+</Question>  
+<Answer>\( \frac{85}{10} \)</Answer>  
+<Misconception>Does not understand a percentage is out of 100</Misconception>  
+
+<Construct>Convert two digit integer percentages to fractions</Construct>
+<Subject>Converting between Fractions and Percentages</Subject>
+<Question>
+Convert this percentage to a fraction
+\( 62 \% \)
+</Question>
+<Answer>\( \frac{6}{2} \)</Answer>
+<Misconception>Thinks they can convert a 2 digit percentage to a fraction by writing one number over the other.</Misconception>
+
+
+<Construct>Convert two digit integer percentages to fractions</Construct>  
+<Subject>Converting between Fractions and Percentages</Subject>  
+<Question>  
+Convert this percentage to a fraction  
+\( 73 \% \)  
+</Question>  
+<Answer>None of these</Answer>  
+<Misconception>Does not understand a percentage is out of 100</Misconception>  
+
+<Construct>Divide decimals by 10</Construct>  
+<Subject>Multiplying and Dividing with Decimals</Subject>  
+<Question>  
+\( 81.4 \div 10= \)  
+</Question>  
+<Answer>\( 71.4 \)</Answer>  
+<Misconception>Subtracts instead of divides</Misconception>  
+
+<Construct>Divide decimals by 10</Construct>  
+<Subject>Multiplying and Dividing with Decimals</Subject>  
+<Question>  
+\( 67.5 \div 10= \)  
+</Question>  
+<Answer>\( 67.05 \)</Answer>  
+<Misconception>When dividing a decimal by a multiple of 10, just divides the fractional place values</Misconception>  
+
+<Construct>Subtract proper fractions with different denominators which do not share a common factor</Construct>  
+<Subject>Adding and Subtracting Fractions</Subject>  
+<Question>  
+\(
+\frac{3}{4}-\frac{1}{6}=\frac{\bigstar}{12}
+\)  
+What should replace the star?  
+</Question>  
+<Answer>\( 5 \)</Answer>  
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>  
+
+<Construct>Subtract proper fractions with different denominators which do not share a common factor</Construct>  
+<Subject>Adding and Subtracting Fractions</Subject>  
+<Question>  
+\(
+\frac{5}{6}-\frac{1}{4}=\frac{\bigstar}{12}
+\)  
+What should replace the star?  
+</Question>  
+<Answer>\( 7 \)</Answer>  
+<Misconception>Adds instead of subtracts</Misconception>  
+
+<Construct>Subtract proper fractions with different denominators which do not share a common factor</Construct>  
+<Subject>Adding and Subtracting Fractions</Subject>  
+<Question>
+\(
+\frac{3}{4}-\frac{2}{5}=\frac{\bigstar}{20}
+\)
+What should replace the star?
+</Question>  
+<Answer>\( 1 \)</Answer>  
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>
+
+<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions</Construct>  
+<Subject>Transformations of functions in the form f(x)</Subject>  
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x+2)
+\)
+</Question>  
+<Answer>Translation by vector
+\(
+\left[\begin{array}{l}
+0 \\ 
+-2
+\end{array}\right]
+\)</Answer>  
+<Misconception>Believes f(x - a) translates the function up a units</Misconception>  
+
+<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions</Construct>  
+<Subject>Transformations of functions in the form f(x)</Subject>  
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x+4)
+\)
+</Question>  
+<Answer>Translation by vector
+\(
+\left[\begin{array}{c}
+0 \\
+-4
+\end{array}\right]
+\)</Answer>  
+<Misconception>Believes f(x + a) translates the function up a units</Misconception>  
+
+<Construct>Identify horizontal translations in the form f(x) = for non-trigonometric functions</Construct>  
+<Subject>Transformations of functions in the form f(x)</Subject>  
+<Question>
+What transformation maps the graph of
+\(y=f(x)
+\)
+to the graph of
+\(
+y=f(x+5)
+\)
+</Question>  
+<Answer>Translation by vector
+\(
+\left[\begin{array}{r}
+5 \\
+0
+\end{array}\right]
+\)</Answer>  
+<Misconception>Believes f(x) + a translates the function right a units</Misconception>  
+
+<Construct>Expand products of three binomials in the form (x + a)(x + b)(x + c)</Construct>  
+<Subject>Expanding Triple Brackets and more</Subject>  
+<Question>
+Sarah is expanding these three brackets:
+\(
+(x-2)(x+4)(x+1)
+\)
+
+She finds it helpful to split the first bracket and view the problem as follows:
+\(
+x(x+4)(x+1)-2(x+4)(x+1)
+\)
+
+She expands the brackets further. Before she simplifies, what are the terms that contain an \( \boldsymbol{x}^{2} \) ?
+</Question>  
+<Answer>\( \begin{array}{l}+4 x^{2} \\ +1 x^{2} \\ -2 x^{2}\end{array} \)</Answer>  
+<Misconception>Ignores negative sign when expanding bracket</Misconception>  
+
+<Construct>Identify the net of a non-prism</Construct>  
+<Subject>Nets</Subject>  
+<Question>
+This is the net of a... ![A triangle touching a semicircle]()
+</Question>  
+<Answer>Circle</Answer>  
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>  
+
+<Construct>Identify the net of a non-prism</Construct>  
+<Subject>Nets</Subject>  
+<Question>
+This is the net of a... ![A rectangle touching two triangles]()
+</Question>  
+<Answer>Pyramid</Answer>  
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>  
+
+<Construct>Identify the net of a non-prism</Construct>  
+<Subject>Nets</Subject>  
+<Question>
+This is the net of a... ![A rectangle touching a semicircle]()
+</Question>  
+<Answer>Cylinder</Answer>  
+<Misconception>Struggles to visualise nets of 3D shapes</Misconception>  
+
+<Construct>Identify alternate angles</Construct>  
+<Subject>Angle Facts with Parallel Lines</Subject>  
+<Question>
+Tom and Katie are arguing about alternate angles.  
+Tom says angles \( p \) and \( q \) are alternate.  
+Katie disagrees and points out that they are on the same side of the transversal. Who is correct?
+</Question>  
+<Answer>Katie is correct; angles \( p \) and \( q \) are not alternate angles.</Answer>  
+<Misconception>Confuses alternate angles with corresponding angles.</Misconception>  
+
+<Construct>Identify alternate angles</Construct>  
+<Subject>Angle Facts with Parallel Lines</Subject>  
+<Question>
+Katie says angles \( p \) and \( q \) are equal.  
+Who is correct? ![Shows two non-parallel lines that are intersected by another line. Angles P and Q are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>  
+<Answer>Only Tom</Answer>  
+<Misconception>Thinks alternate angles are always equal</Misconception>  
+
+<Construct>Identify alternate angles</Construct>  
+<Subject>Angle Facts with Parallel Lines</Subject>  
+<Question>
+Tom and Katie are arguing about alternate angles.  
+Tom says angles \( p \) and \( q \) are alternate.  
+
+Katie says angles \( p \) and \( q \) are equal.  
+Who is correct? ![Shows two non-parallel lines that are intersected by another line. Angles P and Q are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>  
+<Answer>Only Tom</Answer>  
+<Misconception>Thinks alternate angles are always equal</Misconception>  
+
+<Construct>Identify alternate angles</Construct>  
+<Subject>Angle Facts with Parallel Lines</Subject>  
+<Question>
+Tom and Katie are arguing about alternate angles.  
+Tom says angles \( p \) and \( q \) are alternate.  
+
+Katie says angles \( p \) and \( q \) are equal.  
+Who is correct? ![Shows two non-parallel lines that are intersected by another line. Angles P and Q are both on the outside of the lines and on opposite sides of the transversal.]()
+</Question>  
+<Answer>Neither is correct</Answer>  
+<Misconception>Thinks only angles on parallel lines can be alternate</Misconception>  
+
+<Construct>Convert from hours to minutes</Construct>  
+<Subject>Time</Subject>  
+<Question>
+Leo's journey to the park is \( 2 \) hours and \( 45 \) minutes.  
+Maya's journey to the park is \( 165 \) minutes.  
+What is the difference in their journeys in minutes?
+</Question>  
+<Answer>\( 15 \) minutes</Answer>  
+<Misconception>Answers as if there are 100 minutes in an hour when changing from hours to minutes</Misconception>  
+
+<Construct>Select the correct answer to an iteration question to the required degree of accuracy</Construct>  
+<Subject>Trial and Improvement and Iterative Methods</Subject>  
+<Question>
+\(
+x_{n+1}=4-\frac{2}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=3 \), what is the solution to \( x=4-\frac{2}{x} \) to \( 2 \) decimal places?
+</Question>  
+<Answer>\( 3.20 \)</Answer>  
+<Misconception>Stops iteration too early when solving equations</Misconception>  
+
+<Construct>Select the correct answer to an iteration question to the required degree of accuracy</Construct>
+<Subject>Trial and Improvement and Iterative Methods</Subject>
+<Question>
+\(
+x_{n+1}=5-\frac{1}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=2 \), what is the solution to \( x=5-\frac{1}{x} \) to \( 2 \) decimal places?
+</Question>
+<Answer>\( 4.79128 \ldots \)</Answer>
+<Misconception>Rounds to the wrong degree of accuracy (rounds too little)</Misconception>
+
+
+<Construct>Select the correct answer to an iteration question to the required degree of accuracy</Construct>  
+<Subject>Trial and Improvement and Iterative Methods</Subject>  
+<Question>
+\(
+x_{n+1}=3-\frac{1}{x_{n}}
+\)
+
+Using a starting value of \( x_{1}=1 \), what is the solution to \( x=3-\frac{1}{x} \) to \( 2 \) decimal places?
+</Question>  
+<Answer>\( 2.45 \)</Answer>  
+<Misconception>Rounds to the wrong degree of accuracy (significant figures rather than decimal places)</Misconception>  
+
+<Construct>Calculate the area of an equilateral triangle where the dimensions are given in the same units</Construct>  
+<Subject>Area of Simple Shapes</Subject>  
+<Question>
+How would you calculate the area of this triangle? ![A triangle, base 8m. All three sides are equal.]()
+</Question>  
+<Answer>\( \frac{8 \times 8 \times 8}{2} \)</Answer>  
+<Misconception>Multiplies all given dimensions when calculating an area</Misconception>  
+
+<Construct>Divide a quantity into two parts for a given ratio, where each part is an integer</Construct>  
+<Subject>Sharing in a Ratio</Subject>  
+<Question>
+In the diagram, \( AP : PB = 2 : 7 \)  
+What is the distance \( AP \)? ![A line that begins with point A, ends with point B, and has point P in between. The entire length of the line measures 81 m.]()
+</Question>  
+<Answer>\( 18 \mathrm{~m} \)</Answer>  
+<Misconception>Divides total amount by each side of the ratio instead of dividing by the sum of the parts</Misconception>  
+
+<Construct>Divide a quantity into two parts for a given ratio, where each part is an integer</Construct>  
+<Subject>Sharing in a Ratio</Subject>  
+<Question>
+In the diagram, \( AP : PB = 4 : 6 \)  
+What is the distance \( AP \)? ![A line that begins with point A, ends with point B, and has point P in between. The entire length of the line measures 100 m.]()
+</Question>  
+<Answer>\( 40 \mathrm{~m} \)</Answer>  
+<Misconception>Mixes up sides of a ratio</Misconception>  
+
+<Construct>Divide a quantity into two parts for a given ratio, where each part is an integer</Construct>  
+<Subject>Sharing in a Ratio</Subject>  
+<Question>
+In the diagram, \( AP : PB = 2 : 3 \)  
+What is the distance \( AP \)? ![A line that begins with point A, ends with point B, and has point P in between. The entire length of the line measures 25 m.]()
+</Question>  
+<Answer>\( 5 \mathrm{~m} \)</Answer>  
+<Misconception>Finds one part of a ratio but doesn't multiply that by the number of parts needed</Misconception>  
+
+<Construct>Prove statements involving odd and even numbers</Construct>  
+<Subject>Ordering Negative Numbers</Subject>  
+<Question>
+Which of these shows part of the proof that the product of two even numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}2n \times 2m \\ = 4nm\end{array} \)</Answer>  
+<Misconception>Does not understand that \(4nm\) is an even number</Misconception>  
+
+<Construct>Prove statements involving odd and even numbers</Construct>  
+<Subject>Ordering Negative Numbers</Subject>  
+<Question>
+Which of these shows part of the proof that the sum of two odd numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}(2n+1)+(2m+1) \\ =2(n+m+1)\end{array} \)</Answer>  
+<Misconception>Does not know the meaning of the word "sum"</Misconception>  
+
+<Construct>Prove statements involving odd and even numbers</Construct>  
+<Subject>Ordering Negative Numbers</Subject>  
+<Question>
+Which of these shows part of the proof that the sum of two odd numbers is even?
+</Question>
+<Answer>\( \begin{array}{l}(2n+1)+(2m+1) \\ =2(n+m+1)\end{array} \)</Answer>  
+<Misconception>Does not understand that \(2(n+m+1)\) is an even number</Misconception>  
+
+<Construct>Carry out missing number subtraction problems involving negative integers</Construct>  
+<Subject>Adding and Subtracting Negative Numbers</Subject>  
+<Question>
+![Number line with -10 and -4 marked. Starting at -10, follow an arrow pointing to the right labelled +6. Then there is an arrow labelled \( b \) pointing to the left, which ends at -4 on the number line.]() What is the value of \( b \) ?
+</Question>
+<Answer>\( -4 \)</Answer>  
+<Misconception>Assumes that an arrow on a number line starts at zero</Misconception>  
+
+<Construct>Carry out missing number subtraction problems involving negative integers</Construct>  
+<Subject>Adding and Subtracting Negative Numbers</Subject>  
+<Question>
+![Number line with -15 and -5 marked. Starting at -15, follow an arrow pointing to the right labelled +10. Then there is an arrow labelled \( b \) pointing to the left, which ends at -5 on the number line.]() What is the value of \( b \) ?
+</Question>
+<Answer>\( -5 \)</Answer>  
+<Misconception>Counts the starting number when counting backwards</Misconception>  
+
+<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other</Construct>  
+<Subject>Adding and Subtracting Algebraic Fractions</Subject>  
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{2}{x}-\frac{3}{4} \)
+</Question>
+<Answer>\( \frac{8-3x}{4x} \)</Answer>  
+<Misconception>When subtracting fractions, subtracts the numerators and multiplies the denominators</Misconception>  
+
+<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other</Construct>  
+<Subject>Adding and Subtracting Algebraic Fractions</Subject>  
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{2}{a}-\frac{5}{b} \)
+</Question>
+<Answer>\( \frac{2b - 5a}{ab} \)</Answer>  
+<Misconception>Believes they should multiply each numerator by its original denominator when adding/subtracting fractions</Misconception>  
+
+<Construct>Subtract algebraic fractions where the denominators are single terms and are not multiples of each other</Construct>  
+<Subject>Adding and Subtracting Algebraic Fractions</Subject>  
+<Question>
+Express the following as a single fraction, writing your answer as simply as possible: \( \frac{3}{x}-\frac{4}{y} \)
+</Question>
+<Answer>\( \frac{3y - 4x}{xy} \)</Answer>  
+<Misconception>Does not find a common denominator when adding/subtracting fractions</Misconception>  
+
+<Construct>Given the volume of a cuboid, work out missing information</Construct>  
+<Subject>Volume of Prisms</Subject>  
+<Question>
+The volume of this cuboid is \( 60 \mathrm{~cm}^{3} \)
+
+What length should replace the star? ![A cuboid, depth 3cm and height 4cm. The width is labelled with a star.]()
+</Question>
+<Answer>\( 5 \mathrm{~cm} \)</Answer>  
+<Misconception>Adds when calculating volume instead of multiplying</Misconception>  
+
+<Construct>Factorise a quadratic expression in the form ax² + bx + c where a is prime</Construct>  
+<Subject>Factorising into a Double Bracket</Subject>  
+<Question>
+Step 1: Factorise the following expression
+
+\(
+5x^{2}+13x+6
+\)
+</Question>  
+<Answer>\( (5x+3)(x+2) \)</Answer>  
+<Misconception>When factorising a quadratic with a non-unit coefficient of x squared, believes that coefficient will be in front of both x terms in the factorised form</Misconception>  
+
